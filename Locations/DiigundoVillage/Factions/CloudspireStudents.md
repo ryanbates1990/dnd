@@ -1,0 +1,6 @@
+## Cloudspire Academy Students
+- Primarily want to learn from the Jungle
+- Enthusiastic students from Cloudspire University (The Manticores) to study alchemy and botany in the village.
+- Currently have rudementary knowledge of the jungle. Much of what they know isn't an exact science, but sort of plant based magic. They study and experiment with cause and effect and basic patterns. They are able to uncover likely effects of certain ingredients (sort of like skyrim). 
+- Most have greater purpose ambition, ie to uncover better methods of healing sickness and disease. Others have more career based aspirations (to trademark their findings and create their own shops selling unique potions and passing on their trade secrets through their family). Others have more ambitious goals in finding what is possible with potions, someone especially eccentric may want to experiment with potions in the same way someone would experiment with wild magic.
+- Helping them likely uncovers knowledge of potions and helpful ingredients.
