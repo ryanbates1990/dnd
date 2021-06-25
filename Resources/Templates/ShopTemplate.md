@@ -1,15 +1,39 @@
 # Name
 
-`Occupants`:
+## Occupants:
 1. 
 
-`Description`: 
+## Description: 
 - `Outdoors`: 
 - `Indoors`: 
 
-`Wares`: 
-1. Category:
-    1. Item: Price
+## Wares : 
+| Item     | Cost |
+| :-- | :---- |
+|    | |
+|    | |
+|    | |
+|    | |
+|    | |
+|    | |
+|    | |
+|    | |
+|    | |
 
-`Occupant Descriptions if not notable`:
-1. 
+
+## Services : 
+| Service | Cost |
+| :-- | :---- |
+|    | |
+|    | |
+|    | |
+
+## Occupant Descriptions if not notable :
+| Character | Description |
+| :-- | :---- |
+|    | |
+|    | |
+|    | |
+|    | |
+|    | |
+|    | |

@@ -2,6 +2,8 @@
 
 ## Opening line (optional)
 
+## Narrative Importance (optional)
+
 ## Appearance
 
 | d20    | Description |
