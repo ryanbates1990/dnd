@@ -16,7 +16,7 @@
 | Antipoison  | 50 gp |
 | Alchemy Kit  | 5 gp |
 | Herbalism Kit  | 5 gp |
-|    | |
+| DarkVision Potion   | 10 gp |
 |    | |
 |    | |
 |    | |

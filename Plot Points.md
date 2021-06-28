@@ -4,6 +4,8 @@ Players find themselves loosely separated on a dusty path in the middle of a stu
 ### The engineering error
 - A pulley system that is designed to fell a tree in small chunks to not disturb wildlife underneath. Requires a counterweight to be properly installed on the ground and anchors be set in the tree. The counterweight wasn't enough and ol Rodney Muske gets sent flying. 
 
+## If they take interest in the Lumber Company
+
 After investigating town for a while, players should be acquainted with the lumber union and the cloudspire academy students. The lumber union members led by Rodney Muske request aid in a mutinous plan to overthrow kenny loggins to provide more saftey to the union. He informs the players that he overheard Kenny Loggins talking about secret plans and a map in his office. He thinks there is a plan that will cause danger to the rest of them or perhaps he found something that he thinks should be shared amongst the employees since the employees do all the work. He requests the party to just cause a disruption and make sure whatever it is, to expose any sort of weakenss in the plan and make them believe it isn't safe.
 
 Kenny Loggins resides in an office in the warehouse and sleeps on a cot there. In his office are all sorts of schematics for various machines and contact information for engineers in cloudspire and a list of ideas crossed off on a list of what didn't work. The players notice that something was scheduled for this evening and that's why his office wasn't well guarded. The idea for tonight just said, "Top Down" and gave location "coordinates"
@@ -17,4 +19,8 @@ It is possible during the encounter with the spider that someone steps on a patc
 After the spider is defeated, the players, upon proper investigation, notice that the spiders feet are all coated with a ton of the sirenic mushrooms but they aren't the familiar blue color, some of it looks a sickly purple and some looks a dark red.
 
 Any player that was charmed by the mushrooms has a vision of the mushrooms in their dreams and that they are in danger and need help.
+
+## If they take interest in the Cloudspire Academy Students
+
+June thinks she has found proper conditions for the growth of red amunita Mushrooms which are components used in the 
 
