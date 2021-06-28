@@ -14,7 +14,7 @@
 | Healing Potion   | NFS |
 | Antitoxin   | NFS |
 | Greater Healing Potion  | NFS |
-| Medic kits   | NFS |
+| Healer's kit   | NFS |
 |    | |
 |    | |
 |    | |
