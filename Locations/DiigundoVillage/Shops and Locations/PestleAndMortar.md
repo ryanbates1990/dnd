@@ -12,10 +12,10 @@
 
 | Item     | Cost |
 | :-- | :---- |
-| Healing Potion | 50 gp|
-| Antipoison  | 50 gp|
-| Alchemy Kit  | 50 gp|
-| Herbalism Kit  | 50 gp|
+| Healing Potion | 50 gp |
+| Antipoison  | 50 gp |
+| Alchemy Kit  | 5 gp |
+| Herbalism Kit  | 5 gp |
 |    | |
 |    | |
 |    | |
