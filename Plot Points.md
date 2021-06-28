@@ -22,5 +22,7 @@ Any player that was charmed by the mushrooms has a vision of the mushrooms in th
 
 ## If they take interest in the Cloudspire Academy Students
 
-June thinks she has found proper conditions for the growth of red amunita Mushrooms which are components used in the 
+June thinks she has found proper conditions for the growth of red amunita Mushrooms which are components used in healing potions which they which to use to help them with their research. However, the last time they went in, someone got seriously hurt and the school athorities have placed serious precautions on enterring the jungle. Just too much Red Tape and beaurocracy making it near impossible. They've made rules about visibility conditions and plant density. They want the party to meet them at the jungles edge unseen at night. 
+
+They make 
 
