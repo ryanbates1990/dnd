@@ -8,7 +8,7 @@
 
 **Armour Class**: 10  
 
-**Hit Points**: 22 
+**Hit Points**: 27
 
 **Speed**: 30 ft 
 
@@ -35,6 +35,9 @@ Psychic
 
 ### Vulnerabilities
 Radiant
+
+### Immunities
+Poison
 
 ### Languages
 Elvish, Common

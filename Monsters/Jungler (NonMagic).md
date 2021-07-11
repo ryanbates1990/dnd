@@ -33,6 +33,9 @@ Stealth + 6, Perception + 6,
 ### Resistences
 Psychic
 
+### Immunities
+Poison
+
 ### Vulnerabilities
 Radiant
 
