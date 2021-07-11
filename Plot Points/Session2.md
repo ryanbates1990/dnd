@@ -80,6 +80,12 @@ During this first night, anyone (at least Malthos) who was charmed by the mushro
 - There is an ecounter with 3 non magic junglers and magic Jungler.
 - One will try to escape at the end of the encounter. 
 
+### Encounter
+
+- Roll stealth for junglers, must beat passive perception of 14.. else if they ask for perception, a contest.
+- 3 Junglers attack, Mage casts Entangle on as many as he can get.
+- June hides, The Junglers try and take her.
+
 ### Tracking the Junglers
 
 - The come across a symbol that is recognized as with a 15 in religion Talona, Goddess of Disease and Poison

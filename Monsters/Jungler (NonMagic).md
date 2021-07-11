@@ -8,7 +8,7 @@
 
 **Armour Class**: 13  
 
-**Hit Points**: 27  
+**Hit Points**: 30  
 
 **Speed**: 30 ft (can climb)
 
@@ -17,7 +17,7 @@
 ### Stat Line
 | STR | DEX | CON | INT | WIS | CHA |
 | :--: | :--: | :--: |:--: |:--: |:--: |
-|   0  |  +4  | 0  | -1  | +3  | -1  |
+|   0  |  +4  | +4  | -1  | +3  | -1  |
 
 ***
 
@@ -75,9 +75,9 @@ Disengage
 ## Actions
 
 **Action:**  
-- `Blowgun`: +4 to hit from range of 30ft, 1d4 + 2 damage. Can be used as a bonus action. Victim must make a constition saving throw of DC 11 or becomes poisoned. When poisoned in this way, that person must make attack and ability checks at disadvantage for 20 minutes. The blowgun must be reloaded after 1 shot and takes an action to do so
+- `Blowgun`: +4 to hit from range of 30ft, 1d4 + 2 damage. Can be used as a bonus action. Victim must make a constition saving throw of DC 13 or becomes poisoned. When poisoned in this way, that person must make attack and ability checks at disadvantage for 20 minutes. The blowgun must be reloaded after 1 shot and takes an action to do so
 
-- `Spear`: +4 to hit, 1d6+2 piercing damage 
+- `Spear`: +4 to hit, 1d6+4 piercing damage 
 
 ***
 
