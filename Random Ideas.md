@@ -10,3 +10,7 @@
 
 # IDEA FOR BBEG
 - runs a fight ring in the underbelly of cloudspire, wants to harness beasts from the Jungle to fight people in his arena
+
+
+# Dungeon idea
+- Natural tunnel created by a large wyrm like being.. who's remains are findable. Traversing the tunnels turns into evidence of manmade interference.

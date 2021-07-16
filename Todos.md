@@ -1,0 +1,5 @@
+- Make actual hard rules on what the mycelium network can do.
+- Jungle rewards for high perception rolls
+- Line in the jungle where things start to.... die
+- Some relevant information that was in June's notes
+- Make a place of worship in the town (maybe some sort of druidic grotto)
