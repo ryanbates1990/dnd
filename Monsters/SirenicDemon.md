@@ -1,6 +1,6 @@
 # Sirenic Demon, the Malevolent Infestation
 
-A submissive servant of Talona, mistress of poison, has become a disease itself. By sacrificing life via toxic herbal concoctions, the Sirenic Demon gained favor with Talona and parasitically melded minds with mycelium network of the sirenic mushroom.
+A submissive servant of Talona, mistress of poison, has become a disease itself. By sacrificing life via toxic herbal concoctions, the Sirenic Demon gained favor with Talona and parasitically melded minds with mycelium network of the sirenic mushroom. It continously connects his mouth to the center of the mycelium network and drains it of all nutrients. The Demon uses It's telepathic link to the fungal neural network to siphon nutrients from other nodes of the network to feed it. 
 
 In appearance The demon is a Deep purple and grey slug-like being with many mouths with long jagged teeth that are in rows like that of a shark. In a patternless fashion, long slender limbs protrude from the slugs body with tiny hands with giant barblike hooks at the end. It is covered in open black sores that occasionally emit a foul, noxious gas and leaks a putrid poison. 
 

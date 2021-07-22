@@ -26,8 +26,8 @@
 | Service    | Cost |
 | :-- | :---- |
 | Plant Research | 5gp (fluctuates on perceived danger) |
-|    | |
-|    | |
+| Herbalism Training   | 50gp |
+| Alchemical Training   | 50gp |
 
 ## Occupant Descriptions if not notable :
 | Character | Description |
