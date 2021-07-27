@@ -8,10 +8,10 @@
 - List off things they see in town that may be of interest.
 - Grotto
 - General Goods (Bed rolls, tents, bug spray)
-- Book Store
-- Fancy Hat shop
-- Fancy clothes
-- Art Galleries
+- Book Store (Periodic Fables)
+- Fancy Hat shop (Top of the Morning)
+- Fancy clothes 
+- Art Galleries (The Exotic Border Art Shop)
 - Market for food, fruit, salted meats, oysters, and fish
 
 ### General Consensus and Investigation
