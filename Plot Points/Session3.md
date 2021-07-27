@@ -6,6 +6,13 @@
 ### Give players a sense of direction
 
 - List off things they see in town that may be of interest.
+- Grotto
+- General Goods (Bed rolls, tents, bug spray)
+- Book Store
+- Fancy Hat shop
+- Fancy clothes
+- Art Galleries
+- Market for food, fruit, salted meats, oysters, and fish
 
 ### General Consensus and Investigation
 
@@ -71,3 +78,14 @@ A fontain springing from a pile of uniformly round stones stacked into a pillar 
 - "Here take this. It will aid you. It will allow you to speak to plants" Pulls out a small vial of a deep green liquid and hands it to the party
 
 ### If the PC's talk to the mushrooms.
+
+- "Friendly Mushrooms who haven't felt themselves lately." "Feels like I'm not in control of my own thoughts sometimes, it's maddening"
+
+- The Demon: "What do we have here? A sack of nutrients." Casts dominate person and says, "Kill them all." DC 16 to save.
+
+### If they travel through the jungle with no aim:
+
+- Mushrooms can cast dominate person anyway
+- A group of lambeosaurus can cross their path like deer. (mohawk like feathers)
+- Can be attacked by a Majungasaurus if someone strays from the path.
+- If they sleep outside, can be attacked by a Ankylosaurus
