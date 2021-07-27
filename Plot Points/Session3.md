@@ -1,6 +1,17 @@
 ### Waking up at the Thorny Bumpkin
 - They paid for 2 rooms.
-- 
+
+- You guys sleep in a bit given last night's events and you are greeted with a cool morning air, cool at least in comparison to the hot summer you experienced yesterday afternoon on the east side of town. The Sunshine is coming through but it is obscured by the elephant ear like leaves of the sporadically placed feverwood trees in the middle of town. As you peak out the window you notice there is a lot of plant life on this side of town. Vines creeping up the sides of the buildings, ferns popping out under porches, and creative uses of large, abandoned stumps from clearing room for the town. Some for decorative purposes, like staging wooden sculptures, but mostly used for decks. There is also the sound and sight of exotic birds, and the buzz of dragonflies and butterflies flapping about.. Then you remember. You guys killed two people last night. 
+
+### Give players a sense of direction
+
+- List off things they see in town that may be of interest.
+
+### General Consensus and Investigation
+
+- Predominant Rumor is that Kenny was kidnapped or skipped town. 
+- They suspect whether he had enemies. 
+- They're trying to get a hold of board members to see if they know anything like the state of the company or anything that may have caused him great distress.
 
 ### June's Notebook
 
@@ -36,4 +47,27 @@
 
 If the interaction goes poorly enough. Rodney suggests paying half of the original 220 gp. 
 
-### The Grotto (Church)
+### The Grotto (Known place of worship)
+
+A fontain springing from a pile of uniformly round stones stacked into a pillar has created a stream that snakes into a moat like body of water that has surrounded a small island. The island has a small wooden bridge that allows you to step onto it. There is wild growth along the edges but where you would walk is tenderly cared for grass. In the center of the island you see what looks like the entrance to a cave however there is no entrance. Just a Naturally formed concave rock formation. In the center though is a stone sculpture of a half-elf woman resting with a long bow and a unicorn resting behind her.
+
+- Ivan - currently in a wild shape as a cyan blue and gold maccaw
+- opening Line (in bird form): "Maybe I'm being presumptuous, but such an eclectic group doesn't normally find themselves here to pray to Mielikki unless they have done something wrong and are feeling quite guilty ." Eyes Bill - "Except maybe for you, are these your friends?"
+
+- A Religion check of DC 14 would reveal that Mielikki is the neutral good goddess of autumn, druids, dryads, forests, forest creatures, and rangers.
+- DC 18 reveals that Mielikki is an enemy of an enemy of Malar, Talos, and Talona and you recognize her symbol as a unicorn looking left.
+- DC 20 revelas that she is an honorary daughter to Sylvanus, a neutral god that cared only for nature and the natural cycle of life and decay.
+
+- If the players continue to talk to Ivan, he swoops down and assumes his human form. An old, skinny old man with a long dark wooden staff with many colored flowers springing out of it. He has dark skin, a long white beard, he's bald on top. He wears earthen colored cloth robes that are draped over his body in such a way that the right side of his chest is exposed where you can see a series of runic symbols tattooed acrossed his chest and arm. You also see a hefty amulet draped around his neck.
+
+**If shown the Loin Cloth with the symbols of Talona**
+
+- asks, "Where did you get this, exactly." Pointed mostly at Wyn, trusting that  he is a ranger and can probably tell us.
+- "It is what I feared. Talona is at work. The plague mother." Warns that he thinks this is a sign that Talona is at work, and that it is most unusual that these people have returned.
+- "There are barren patches showing up in the forest... I feared that Mielikke's care for this unique biome had waned and that this Jungle would disappear. Talona's involvement would make perfect sense. First the lumber company... and now this."
+
+**If Pc's want to get involved**
+
+- "Here take this. It will aid you. It will allow you to speak to plants" Pulls out a small vial of a deep green liquid and hands it to the party
+
+### If the PC's talk to the mushrooms.

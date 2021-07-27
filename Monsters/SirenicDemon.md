@@ -61,7 +61,7 @@ Text Here
 
 | Casting Ability | Spell DC | Hit Bonus | 
 | :--: | :--: | :--: |
-|  +8   |  15  |   |
+|  +8   |  16  |   |
 
 
 | Level| Slots | Spells | 
