@@ -1,35 +1,57 @@
-## Grid Items
-1. Janick (near a river) and company transporting a dinosaur to a boat with a large cage.
-1. Patches of death and decay.
-1. Tracks that point toward the jungle people's city
-1. Treants that are hostile to humans, they are no longer capable of being trusted.
-1. Small ruined site with flowers that are capable of being turned into a very useful potion.
-1. Dinosaur encounters.
-1. Dangerous plant encounters (visceral disease, June's notebook or Ivan can help guide you to an antidote)
-1. Make an impassable part due to a high cliff with a rock face and enterable cave (ritual site that in the rock face is the hollow silhouette of a missing artifact, some runes, and a circle in the ground).
-1. Patches of quick sand.
-1. (further in) camp of jungle people.
-1. Wandering elf
-1. labrynth to menegroth like elvish city? Maybe later.
-1. Cave entrance to the jungle people's city (dungeon).
-1. World tree with magic gifts (blesses someone)
 
-## Random encounters during long rests
+## For each square:
 
-1. Anklyosaurus (CR 5)
-1. Lambeosaurus Sightings (CR 1 dino's)
-1. Majungasaurus (CR 4)
-1. Jungle People (May want to ramp these up)
-1. Torvosaurus (CR 8)
-1. Therizinosaurus (CR 5)
-1. Shambling Mounds (CR 5)
-1. Treant (CR 9)
+- Necrotic T Rex moves in a d8 direction. Players can track it's last 2 squares.
+- 1 2 3
+- 4 X 5
+- 6 7 8
 
-## Magic items that they can run into
+- If no otherwise interesting item on the square, When players Unlock a new Square Roll a D10. If during  along rest, a 20% chance of interruption incurs.
+- Players can endure 6 squares per long rest without incurring exhaustion.
 
-1. bag of beans
+| d10    | Description |
+| :--: | :---- |
+| 1   | Encounter Imminent |
+| 2   | Encounter Avoidable with Survival DC 25 |
+| 3   | Encounter Avoidable with Survival DC 20 |
+| 4   | Encounter Avoidable with Survival DC 15 |
+| 5   | Encounter Avoidable with Survival DC 10 |
+| 6   | |
+| 7   | |
+| 8   | |
+| 9   | Assured Safety with Survival DC 15 |
+| 10   | Assured Safety with Survival DC 20 |
 
-## Meaningful plant life they can run into
+| d10    | Encounters |
+| :--: | :---- |
+| 1   | 1d4 Lambeosaurus |
+| 2   | Anklyosaurus |
+| 3   | Vine Terror |
+| 4   | 1d4 Iguanodon |
+| 5   | Tiger |
+| 6   | 1d4 Druids |
+| 7   | Therizinosaurus |
+| 8   | Majungasuarus |
+| 9   | Torvosaurus |
+| 10  | A group of 2 Gunslinger Americans |
+
+- Players Also Roll to see if there are any interesting plant life that they encounter along the way
+- Roll d20, a 16-20 hits the plant table.
+
+| d12    | Description |
+| :--: | :---- |
+| 1   | Gympie Plant Colony, Nature of 15 to not be hit |
+| 2   | |
+| 3   | |
+| 4   | |
+| 5   | |
+| 6   | |
+| 7   | |
+| 8   | |
+| 9   | |
+| 10   | |
+| 11   | |
+| 12   | 1d8 Red Amunita Mushrooms |
 
 # Abandoned Tower in C5
 
@@ -108,6 +130,11 @@ You can use an action to cause thick, black poison to coat the blade. The poison
 
 - Carrion Crawlers
 - Infested Dino's (when hit in melee range inflict the infestation spell on the attacker as a passive ability)
+
+- the Dead patch with a wall reveals a small cave revealing the dead bodies of several elves.
+- If they investigate: 
+- On their bodies players receive A cloak of elvenkind, Investigation DC 15 to tell it has special properties
+- Gem of Brightness, Arcana check of 18 to tell if it has special properties.
 
 
 # The small ziggurat
