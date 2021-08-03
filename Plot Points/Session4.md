@@ -35,22 +35,24 @@
 | 9   | Torvosaurus |
 | 10  | A group of 2 Gunslinger Americans |
 
+- Possibly, Maeglin, Newton, and Fritters making an error planeshifting 
+
 - Players Also Roll to see if there are any interesting plant life that they encounter along the way
 - Roll d20, a 16-20 hits the plant table.
 
 | d12    | Description |
 | :--: | :---- |
 | 1   | Gympie Plant Colony, Nature of 15 to not be hit |
-| 2   | |
+| 2   | Belladonna (Poisonous Nightshade, does 2d8 of damage when ingested) Nature 20 to tell the difference|
 | 3   | |
 | 4   | |
 | 5   | |
 | 6   | |
 | 7   | |
-| 8   | |
-| 9   | |
-| 10   | |
-| 11   | |
+| 8   | Aahuasca (Potion of Clairvoyance) Nature 20 to detect.|
+| 9   | Wellodonna (Heals 2d8 when ingested, identical looking to the Belladonna) Nature 20 to tell the difference|
+| 10   | Transcluscent Violets (glow purple when undead are within 50 feet) Nature check 15 |
+| 11   | Babbling Plant (tells insults, potion of comprehend languages) |
 | 12   | 1d8 Red Amunita Mushrooms |
 
 # Abandoned Tower in C5
