@@ -43,14 +43,14 @@
 | d12    | Description |
 | :--: | :---- |
 | 1   | Gympie Plant Colony, Nature of 15 to not be hit |
-| 2   | Belladonna (Poisonous Nightshade, does 2d8 of damage when ingested) Nature 20 to tell the difference|
-| 3   | |
-| 4   | |
-| 5   | |
+| 2   | Belladonna (Poisonous Nightshade, does 2d8 of damage when ingested) Nature 20 to tell the difference, 15 to know about them|
+| 3   | Kettle Ash Fungi - Spores are transluscent and make food taste terrible - Nature Check 10|
+| 4   | Hemp - DC10 Nature Check, DC15 Survival and 30 minutes to turn it into rope|
+| 5   | 4 leaf clover - Perception 20 to get luck on a roll|
 | 6   | |
 | 7   | |
 | 8   | Aahuasca (Potion of Clairvoyance) Nature 20 to detect.|
-| 9   | Wellodonna (Heals 2d8 when ingested, identical looking to the Belladonna) Nature 20 to tell the difference|
+| 9   | Wellodonna (Heals 2d8 when ingested, identical looking to the Belladonna) Nature 20 to tell the difference, 15 to know about them|
 | 10   | Transcluscent Violets (glow purple when undead are within 50 feet) Nature check 15 |
 | 11   | Babbling Plant (tells insults, potion of comprehend languages) |
 | 12   | 1d8 Red Amunita Mushrooms |
