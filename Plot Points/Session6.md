@@ -17,7 +17,7 @@ The Casket:
 - The tomb is sealed by magical means and is unlocked by blood. 
 - Can be dispelled or disentegrated.
 
-- If opened without sacrificing blood an audible dark cloud emits from the coffin. Players must make a constitution DC of 14 or be diseased.
+- If opened without sacrificing blood an audible dark cloud emits from the coffin and in the shape of a shadowy hand passes through the players. Players must make a constitution DC of 14 or be diseased.
 - Needs strength checks adding up to 30 to move the casket lid.
 
 Inside the Casket:
@@ -34,3 +34,107 @@ The Glaive:
 
 The Disease:
 - If anyone was diseased, The next day they suffer a point of exhaustion. In 1d4 days they suffer another point until healed. They break out in visible boils.
+
+PERCEPTION CHECK:
+
+- DC 15 to see a very small patch of dead mushrooms.
+
+
+# Outside the Ziggarut
+
+- Outside the Ziggarut lay in wait 3 elves, each with large, bipedal feathered mounts. They look nimble and swift. 
+- The leader, Laeroth, and Vulmar and Luvon. Each are adorned in gray and dark green clothing with leather wrappings and have long sleneder knives and a long bow and quiver. They have exceptionally pale skin. Each of them have silver jewelry, Laeroth has a necklace with several orange spherical beads hanging off of it (wand of fireballs, family heirloom). Each look rugged and like they've been stressed. Their clothes are stained with sweat and exhibit bags under their eyes and their long brown hair is unkempt. 
+- Laeroth is a fighter/ranger, the other two are rangers.
+- On Vulmar's mount is a corpse.. it is of an older human man with wild hair. His earthen brown shirt tattered an torn, his lifeless body covered in geometric tattoos. 
+- Ivan recognizes the corpse as a sentinal of Mielikki, a fellow druid named Zeno
+- Laeroth informs him that there are others, the sentinels are being hunted and their prayers are not being answered and their shrines desecrated.
+
+- The elves are from a hidden city called prifdinnas.
+- They are hunting jungle raiders as an attempt to protect the sentinals.. They are who are most proficient at calling to the gods, Sylvanus or Mielikki for aid.
+- Their people are skilled fighters but fear that the jungle people have made allies with a great evil and possess some sort of weapon. They dare not act too rashly.
+
+- They will escort the players back to prifdinnas but only by blindfold. The city's location must remain secret (unless they earn it the right to passage).
+
+DESCRIBE THE CITY AND COME UP WITH A FEW KEY LOCATIONS AND CHARACTERS. BE PREPARED FOR THEM TO GO TO THE JUNGLE PEOPLE CITY AS WELL.
+
+- Jungle people camp or followers of mielikki?
+
+## Zeno
+
+**Appearance**: older human man with wild hair. His earthen brown shirt tattered an torn, his lifeless body covered in geometric tattoos  
+**Personality**: Was a pleasant, wise man who had more vigor in his youth. Would always play too hard.  
+**Background/History**: Ran away from home to die. He was running from a sadness he could not cope with. He encountered another sentinel of the forest at his personal grotto where he was given water and food and his wounds cleaned. He prayed and was blessed by Mielikki a responsibility to protect the forest and alert others of danger and was given domain of a specific area.  
+**Secrets**: He killed his family out of a fit of rage.
+
+
+# The Elves
+
+Collectively the know about the jungle people. They normally stick to themselves in a city to the south (a few days journey) across a river. They believe the jungle people are disturbed, tribal, and stupid but surprisingly are gifted beyond their intellect magical abilities. They've only recently started to cause problems. They are hunting the sentinels and their prayers are not being answered and their shrines are desecrated. 
+
+Part of a clan called the followers of Ehrendil, the king of Prifdinnas.
+
+## Laeroth 
+**Appearance**: adorned in gray and dark green clothing with leather wrappings and have long sleneder knives and a long bow and quiver. They have exceptionally pale skin. Each of them have silver jewelry, Laeroth has a necklace with several orange spherical beads hanging off of it (wand of fireballs, family heirloom). Each look rugged and like they've been stressed. Their clothes are stained with sweat and exhibit bags under their eyes and their long brown hair is unkempt.  
+**Personality**: Both a broken man and a born leader. Stern but complex. Not really one for humor, but has the ability to embathize. Comes of as brooding and brutish. Straight to the point.  
+**Background/History**: Son of a high ranking official, but in childhood was blamed for the death of another young elf, a girl named Yenwe. He was banished and during his banishment absolved from his crime. By happenstance he ran into members of the clan and was reinstated, but was not without his trauma. He eventually found honor in leading groups of rangers on adhoc missions. He is thankful to be absolved but would be lying if he was totally free of bitterness. He knows the Jungle like the back of his hand. He knows the jungle people to be tribally and unwelcoming to outsiders, fanatically religious, and knows their existence was absolved some time ago... maybe 200 years. 
+**Secrets**: He has a secret lair that he keeps treasures found during his banished youth. He sometimes visits this jungle cave to seek peace.
+
+## Vulmar
+**Appearance**: Pretty similar to Laeroth but is fairer and less broad, though slightly taller.  
+**Personality**: Seems like a regular guy at the office doing his job. Not too excitable, but pleasant.  
+**Background/History**: Has been a long time friend of Laeroth and was integral in welcoming him back to society. Splits time between hunting game and doing odd jobs with Laeroth.   
+**Secrets**: Has accepted his fate that his love for freedom will always eclipse his desire to love romantically, but is occasionally torn from within about it.
+
+## Luvon
+**Appearance**: Pretty similar to Laeroth but is smaller and more average looking.  
+**Personality**: More excitable and sees joy in the outlandish and absurd, but not without elvish pride and sternness when necessary.  
+**Background/History**: Lived a classically good life in Prifdinnas, until the love of his life left him for another elf. He was destroyed. He took it as a fault of himself. He joined Laeroth as an opportunity to expolore and find himself like he has to prove himself masculine.  
+**Secrets**: Deeply sad and hides behind a joyous persona.
+
+# Prifdinnas
+
+Founded by an elvish clan who deeply valued isolation and privacy. They wanted to be left alone. I don't know why they chose the jungle given it's extreme climate, but Ehrendil was of the original settlers. 
+
+**Location:**  
+**Notable Entrances:**  
+**Appearance:**  
+**Rulers:**  
+**Culture:**  
+**Notable Sites:**  
+
+# Modropo (City of Savages in Common)
+
+**Location:**  
+**Notable Entrances:**  
+**Appearance:**  
+**Rulers:**  
+**Culture:**  
+**Notable Sites:**  
+
+## Spitballing
+
+- ultimately talona is trying to create fertile land to create a poison farm where she will raise an army and harvest the planet and bring destruction to the world.
+- Mielikki is Talona's swarn enemy. Ivan prays warning her that Talona is gaining the jungle, as it is largely ungaurded.
+- Ivan's true purpose was to watch the northern part of the jungle for intruders.
+- Ivan expects to find others like him, other followers of Mielikki.
+- Ivan could find reamins of another Mielikki guardian.
+- The sirenic demon gained knowledge of them through the innocence of the mushrooms and found a way to destroy them.
+- Ivan respects the life of the jungle people but believes there hearts are too easily corrupted but is hopeful they can respect nature again.
+
+
+- Turns out Mielikki is waging a war against Talona elsewhere and is losing heavily and is unable to aid.
+- The sirenic demons were a most fruitful harvest of Talona's and are used as maximal weapons that act as plane harvesters.
+- Talona gained help from a demonic influence for her crop.
+
+- The Jungle people have made a pact with the Talona and worship the Plane Harvester and sacrifice to it out of pure fear.
+- By complying, and assisting, they are granted immunity from disease and can live prosperously... in fear.
+
+- Followers of Mielikki, or the other sentinals have dwindled in the forest.
+
+- If they go back to read the graves since malthos is here.. the graves are titles + names
+
+
+- the Jungle people's next ziggarut is hidden by illusory magic?
+
+- Prifdinnas being underground is where we can incorporate an issue with Peabody's mining company?
+ 
