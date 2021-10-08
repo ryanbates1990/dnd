@@ -95,12 +95,12 @@ Part of a clan called the followers of Ehrendil, the king of Prifdinnas.
 
 Founded by an elvish clan who deeply valued isolation and privacy. They wanted to be left alone. I don't know why they chose the jungle given it's extreme climate, but Ehrendil was of the original settlers. 
 
-**Location:**  
-**Notable Entrances:**  
-**Appearance:**  
-**Rulers:**  
-**Culture:**  
-**Notable Sites:**  
+**Location:**  Deep in the Lukagayo Jungle. Presumably underneath the worldtree.
+**Notable Entrances:**  Unknown. The River that runs through the Lukagayo Jungle forks into 9 separate streams through a series of caves. Unknown how this delta formed. Within this series of caves lies a labrynth made by the elves. The elves know the secret to enterring Prifdinnas.  
+**Appearance:**  Lit by a combination of arcane lamps and bioluminescent plantlife underneath the worldtree. The River ran through the earth creating a deep underground cavern and the huge root system of the world tree creates large wooden columns. The river, though small, still runs through the cavern. Akin to a small canyon underground. The elves carved homes and structures both out of the wooden roots (stairs, sculptures, housing) and the wooden sides of the canyon. Both expertly done.  
+**Rulers:**  Ehrendil and a group of advisors (those who left the feywild with him)  
+**Culture:**  Expert in the arcane, survival, and masonry. They are more proud, lack hospitality.  
+**Notable Sites:**  Wooden columns and spiral staircases made from the tree's root system. Carved residential areas made from stone. The bathhouse along the river, Garden of divinity.  
 
 # Modropo (City of Savages in Common)
 
@@ -137,4 +137,10 @@ Founded by an elvish clan who deeply valued isolation and privacy. They wanted t
 - the Jungle people's next ziggarut is hidden by illusory magic?
 
 - Prifdinnas being underground is where we can incorporate an issue with Peabody's mining company?
- 
+
+- The amulet of the planes was originally an artifact created from the elves... but the jungle people acquired it somehow? - maybe with the help of the guardinal.
+
+
+- Ehrendil out of envy and covetousness originally stole the amulet of the planes from a larger group of elves in the fey wild and fled with a small number of followers to this plane. His brother, Elashor, had intended the amulet to be a gift to Ehrendil but when he saw how wonderful it was he decided to keep it for himself. People followed Ehrendil because they were either close to him and wanted to be near the amulet because they too saw it's glory. His people live in isolation from the rest of the elves and are despised by the fey elves. Being away from they magic of the feywild, their inherent magic has faded and they've taken on different properties over the years. Mielikki took pity upon them but chose to look after them because they chose the wild and respected the cyclical nature of life.
+
+- Several hundred years ago, an exceptionally beautiful elf was found wandering the woods and was welcomed into the clan. He possessed great knowledge of the arcane and would often use it for good.. but he out of his own covetousness stole the amulet of the planes and fled. As he committed this great act of evil his disguise fell and he turned to a half man have goat, believed to be a guardinal, a celestial being that had become corrupt and evil. His name was Salizen. He fled and was found ruling over the jungle people, rumored to be making promises that by following him they would be granted long life. He was gifted in the arcane and an immortal being but was no deity. A disease of unknown origin quickly consumed his followers and out of embarassment in his inability to heal (for his magic was used to deceive and destroy rather than to protect) he fled and left them to die. His whereabouts of both him and the amulet are unknown, though it is not believed that he's left the plane, for that magic has not been detected. Ehrendil's lustful attachment to the amulet has made him sensitive to it's effect. The jungle people are believed to be survivers of Salizen's reign over them. The jungle people's religious practices are unknown but were clearly sacrificial, believed that Salizen was using their sacrifice for his own personal necromantic power. To what end is unknown. 
