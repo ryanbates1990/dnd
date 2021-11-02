@@ -91,56 +91,10 @@ Part of a clan called the followers of Ehrendil, the king of Prifdinnas.
 **Background/History**: Lived a classically good life in Prifdinnas, until the love of his life left him for another elf. He was destroyed. He took it as a fault of himself. He joined Laeroth as an opportunity to expolore and find himself like he has to prove himself masculine.  
 **Secrets**: Deeply sad and hides behind a joyous persona.
 
-# Prifdinnas
-
-Founded by an elvish clan who deeply valued isolation and privacy. They wanted to be left alone. I don't know why they chose the jungle given it's extreme climate, but Ehrendil was of the original settlers. 
-
-**Location:**  Deep in the Lukagayo Jungle. Presumably underneath the worldtree.
-**Notable Entrances:**  Unknown. The River that runs through the Lukagayo Jungle forks into 9 separate streams through a series of caves. Unknown how this delta formed. Within this series of caves lies a labrynth made by the elves. The elves know the secret to enterring Prifdinnas.  
-**Appearance:**  Lit by a combination of arcane lamps and bioluminescent plantlife underneath the worldtree. The River ran through the earth creating a deep underground cavern and the huge root system of the world tree creates large wooden columns. The river, though small, still runs through the cavern. Akin to a small canyon underground. The elves carved homes and structures both out of the wooden roots (stairs, sculptures, housing) and the wooden sides of the canyon. Both expertly done, ordaned with many jewels and silver metals.  
-**Rulers:**  Ehrendil and a group of advisors (those who left the feywild with him)  
-**Culture:**  Expert in the arcane, survival, and masonry. They are more proud, lack hospitality.  
-**Notable Sites:**  Wooden columns and spiral staircases made from the tree's root system. Carved residential areas made from stone. The bathhouse along the river, Garden of divinity.  
-
-# Modropo (City of Savages in Common) - home of the Salizenites
-
-**Location:**  several days travel or so south of the "thumb" mountain across the river. There is a separate pateau that the city is built on top of. A separate stream runs from this mountain as a tributary and lands flows into the main river.  
-**Notable Entrances:**  The main entrance (guarded, reminiscent of ape atol) and the tunnels on the side of the mountain. 
-**Appearance:**  On top the plataeu exists a large area that has been surfaced mined for jewels and precious metals. Their structures actually look beautiful. Talented Mason work, gilded artwork on buildings. The perimeter is a palisade wall, in some areas, construction has begun for greater fortication using stone but the work is unfinished or abandoned. Atop the plateau at the far reaches of the city lies a large temple and in front of that temple is a slab and a huge pit. The pit is deep enough to where light cannot reach the bottom. Noises and stench occasionally waft to the top. The bottom of the pit is reached by one of the mined tunnels and is a lair to the sirenic demon who has latched istelf to the fungal network. Some additional mining and tunneling has been done in the pit and in some areas reach the cliff, creating "entrances". The most accessible parts of the city are heavily guarded by armored jungle people... they wear plate armor that looks pretty mobile (similar to football gear) with leather underneath and gold trimming. The main entrance is actually split by 2 walls and is watched by longbowman. Similar to ape atol. The stripped areas that have already been mined have been repurposed for farming and the place actually looks healthy and grown.   
-**Rulers:**  Ozat (King), Salizen disguised as one of them going by the name Relka, Religious leader (high priest) Tonoc
-**Culture:**   Oddly technologically proficient at mining. Sacrificial religion. There is peace, but they are fearful of Talona, but worship her because she offers immunity to poisons and disease.  
-**Notable Sites:**  The temple with the pit, King's palace, the strip mined area, the mining tunnel system.
-
 ## Spitballing
 
-- ultimately talona is trying to create fertile land to create a poison farm where she will raise an army and harvest the planet and bring destruction to the world.
-- Mielikki is Talona's swarn enemy. Ivan prays warning her that Talona is gaining the jungle, as it is largely ungaurded.
-- Ivan's true purpose was to watch the northern part of the jungle for intruders.
-- Ivan expects to find others like him, other followers of Mielikki.
-- Ivan could find reamins of another Mielikki guardian.
-- The sirenic demon gained knowledge of them through the innocence of the mushrooms and found a way to destroy them.
-- Ivan respects the life of the jungle people but believes there hearts are too easily corrupted but is hopeful they can respect nature again.
-
-
-- Turns out Mielikki is waging a war against Talona elsewhere and is losing heavily and is unable to aid.
-- The sirenic demons were a most fruitful harvest of Talona's and are used as maximal weapons that act as plane harvesters.
-- Talona gained help from a demonic influence for her crop.
-
-- The Jungle people have made a pact with the Talona and worship the Plane Harvester and sacrifice to it out of pure fear.
-- By complying, and assisting, they are granted immunity from disease and can live prosperously... in fear.
-
 - Followers of Mielikki, or the other sentinals have dwindled in the forest.
-
-- If they go back to read the graves since malthos is here.. the graves are titles + names
-
-
 - the Jungle people's next ziggarut is hidden by illusory magic?
-
 - Prifdinnas being underground is where we can incorporate an issue with Peabody's mining company?
 
-- The amulet of the planes was originally an artifact created from the elves... but the jungle people acquired it somehow? - maybe with the help of the guardinal.
 
-
-- Ehrendil out of envy and covetousness originally stole the amulet of the planes from a larger group of elves in the fey wild and fled with a small number of followers to this plane. His brother, Elashor, had intended the amulet to be a gift to Ehrendil but when he saw how wonderful it was he decided to keep it for himself. People followed Ehrendil because they were either close to him and wanted to be near the amulet because they too saw it's glory. His people live in isolation from the rest of the elves and are despised by the fey elves. Being away from they magic of the feywild, their inherent magic has faded and they've taken on different properties over the years. Mielikki took pity upon them but chose to look after them because they chose the wild and respected the cyclical nature of life.
-
-- Several hundred years ago, an exceptionally beautiful elf was found wandering the woods and was welcomed into the clan. He possessed great knowledge of the arcane and would often use it for good.. but he out of his own covetousness stole the amulet of the planes and fled. As he committed this great act of evil his disguise fell and he turned to a half man have goat, believed to be a guardinal, a celestial being that had become corrupt and evil. His name was Salizen. He fled and was found ruling over the jungle people, rumored to be making promises that by following him they would be granted long life. He was gifted in the arcane and an immortal being but was no deity. A disease of unknown origin quickly consumed his followers and out of embarassment in his inability to heal (for his magic was used to deceive and destroy rather than to protect) he fled and left them to die. His whereabouts of both him and the amulet are unknown, though it is not believed that he's left the plane, for that magic has not been detected. Ehrendil's lustful attachment to the amulet has made him sensitive to it's effect. The jungle people are believed to be survivers of Salizen's reign over them. The jungle people's religious practices are unknown but were clearly sacrificial, believed that Salizen was using their sacrifice for his own personal necromantic power. To what end is unknown. 
