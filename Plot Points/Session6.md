@@ -69,7 +69,7 @@ DESCRIBE THE CITY AND COME UP WITH A FEW KEY LOCATIONS AND CHARACTERS. BE PREPAR
 
 # The Elves
 
-Collectively the know about the jungle people. They normally stick to themselves in a city to the south (a few days journey) across a river. They believe the jungle people are disturbed, tribal, and stupid but surprisingly are gifted beyond their intellect magical abilities. They've only recently started to cause problems. They are hunting the sentinels and their prayers are not being answered and their shrines are desecrated. 
+Collectively the know about the jungle people. They normally stick to themselves in a city to the south (a few days journey) across a river. They believe the jungle people are disturbed, tribal, and stupid but surprisingly are gifted beyond their intellect in magical abilities. They've only recently started to cause problems. They are hunting the sentinels and their prayers are not being answered and their shrines are desecrated. 
 
 Part of a clan called the followers of Ehrendil, the king of Prifdinnas.
 
