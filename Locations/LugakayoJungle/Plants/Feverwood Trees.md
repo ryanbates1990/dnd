@@ -1,5 +1,0 @@
-## The Feverwood Trees
-
-Lugakayo is known for its recent economization of highly durable an sought after wood coming from the `Feverwood Tree`. The wood is primarily used for furniture as cheaper wood can be used for structural purposes. It is dark in colour but very hard and takes a skilled woodworker to make use of. The Feverwood trees are tall and girthy who's branches grow parallel to the ground in fractal pinwheels to allow sunlight to get to the lower branches, but the taller they are, the weaker the lower branches become. The leaves are a bright, green and are very large, like elephant ears. 
-
-The tree was given the name given that the large leaves often block the sunlight to base of the earth, creating a darker, danker area prime for poisonous undergrowth (most notorious is the `Gympie Plant`), and most notably, the `Sirenic Myceleum`. 

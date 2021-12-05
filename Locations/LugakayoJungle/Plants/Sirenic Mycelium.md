@@ -1,9 +1,0 @@
-## The Sirenic Myceleum
-
-Recognized most easily as budding long, skinny toadstools that emit a blue bioluminescent glow. Grows most easily in darker, danker areas but if transported is quite durable for a mushroom and can be used as a soft light source. The mushrooms are quite beautiful and the spores, if breathed in heavily, have an effect akin to charm person, leaving a fond impression. The effect typically leaves the person feeling fondly and wanting to protect the mushrooms. This acts as a defense mechanism for the mushroom, it gains companionship. 
-
-A skilled alchemist/herbalist would find that when used in potions, the sirenic mushroom is a prime ingredient in a potion that allows you to see in darkness (albeit poorly).
-
-`Plot point, unbeknownst to players`: Though these mushrooms aren't widely consumed (by humans and animals alike), they provide value to the ecosystem by feeding off the sickness of other plants. They live off the bacteria that keeps other plants healthy. In addition, they can help the roots of plants reach water further down into the soil. The Sirenic mushroom is actually core to the jungle's wild success, and allowing the jungle to reach the scale that it has. In fact, feverwood trees are so dependent on the mushroom to protect from disease, that the feverwood trees would not survive without it. Similarly, the Sirenic mushroom depends on the health of the feverwood trees for cloudcover. 
-
-The Sirenic Mushroom is part of a mycelium network. It has memories and can tranport nutrients from some one plant to another if it has need. The network `has been corrupted` and is being controlled by shamanistic-cultists to use the charming effects of the mycelium to lure beings into a trap to feed a demonic monster. Their feedings are sacrificial and please a dark God.. `Come up with a name for the God and what happens if the cultists are successful`
