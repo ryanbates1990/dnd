@@ -1,0 +1,3 @@
+- Read about monks
+- Read about fighters
+- 
