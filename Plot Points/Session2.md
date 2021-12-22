@@ -146,7 +146,7 @@ The faerie dragon has an upbeat demeanor and is a strict observer of noble etiqu
 - Bavlorna Blightstraw lives in a spooky cottage on stilts at the heart of Downfall, a bullywug settlement. The bullywugs of Downfall are quite courteous and welcoming, provided one does not offend them.
 - Bavlorna has the ability to conjure minions that look like tiny versions of herself.
 - Bavlorna has two sisters whom she loathes. Together, the three hags form the Hourglass Coven. Using an artifact called Iggwilv's Cauldron, the coven has frozen time in Zybilna's palace, trapping the archfey inside.
-- A goblin named Jingle Jangle has the key to Sir Talavar's birdcage. She lives atop Telemy Hill, not too far from Slanty Tower.
+- A goblin named Jingle Jangle has the key to Sir Talavar's birdcage. (She saw her leave it in her possession). She lives atop Telemy Hill, not too far from Slanty Tower.
 - Sir Talavar explains that he must be set free so that he can return to his queen and report the news that Zybilna has been overthrown by the Hourglass Coven.
 
 If the characters are unable to open the birdcage on their own, Sir Talavar asks them to get the key from Jingle Jangle, offering them his magic sword in return for his release (see "Development" below). Sir Talavar knows she lives on Telemy Hill.

@@ -4,8 +4,8 @@
 # Lost Things
 
 ### Ability To Keep Secrets
-- **Hag**: Skabatha Nightshade
-- **Player**: 
+- **Hag**: Bavlorna Blightstraw
+- **Player**: Alex
 - **Curse**: You can't tie or untie a nonmagical rope
 - **Item**: Wand of Secrets
 - **Index**: 1
@@ -32,14 +32,14 @@
 - **Index**: 4
 
 ### Handwriting
-- **Hag**: Endelyn Moongrave
+- **Hag**: Bavlorna Blightstraw
 - **Player**: Max (Rael)
 - **Curse**: You can't light nonmagical fires
 - **Item**: Instrument of Scribing
 - **Index**: 5
 
 ### Sense of Direction
-- **Hag**: Bavlorna Blightstraw
+- **Hag**: Endelyn Moongrave
 - **Player**: Rex (Mikey Moose)
 - **Curse**: You can't light nonmagical fires
 - **Item**: Orb of Direction
