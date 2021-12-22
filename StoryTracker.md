@@ -12,7 +12,7 @@
 
 ### Ability to Smile
 - **Hag**: Skabatha Nightshade
-- **Player**: 
+- **Player**: Luke (Omar)
 - **Curse**: You can't tie or untie a nonmagical rope
 - **Item**: Wand of Smiles
 - **Index**: 2
@@ -32,15 +32,15 @@
 - **Index**: 4
 
 ### Handwriting
-- **Hag**: Bavlorna Blightstraw
-- **Player**: 
+- **Hag**: Endelyn Moongrave
+- **Player**: Max (Rael)
 - **Curse**: You can't light nonmagical fires
 - **Item**: Instrument of Scribing
 - **Index**: 5
 
 ### Sense of Direction
 - **Hag**: Bavlorna Blightstraw
-- **Player**: 
+- **Player**: Rex (Mikey Moose)
 - **Curse**: You can't light nonmagical fires
 - **Item**: Orb of Direction
 - **Index**: 6
