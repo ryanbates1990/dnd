@@ -33,7 +33,10 @@
 
 - The geyser is powerful enough to lift up to 300 pounds into the air, and the flow of water can be stopped if the well is covered by something weighing more than 300 pounds. If the water is prevented from erupting, anything being lifted by the geyser plummets to the ground within 5 feet of the base of the well.
 
-- If a character tries to take one or more of the trinkets, the will-o'-wisps turn visible, (Looks like just a floating light) accuse the character of being a dishonorable thief, and insist that the stolen items be returned to the well at once
+- If a character tries to take one or more of the trinkets, the will-o'-wisps turn visible, (Looks like just a floating light) accuse the character of being a dishonorable thief, and insist that the stolen items be returned to the well at once.
+- The will-o'-wisps have voices of children and plead that they give the items back to the well.
+- if questioned about who they are or why, they simply say those were their prized posessions in life and it gives them peace.
+- the will-o'-wisps say they are children who fell in the well and died, they don't know why Zybilna's magic did not protect them. Zybilna loves children.
 - They attack if the character fails to return the stolen trinkets or provide worthy substitutes.
 
 # Brigand's Tollway
