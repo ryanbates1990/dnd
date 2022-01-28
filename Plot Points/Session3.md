@@ -59,6 +59,15 @@
 - You notice, arriving out of the mist from the direction of the tree stump, 2 skiffs, each manned by 4 brigands. A Perception check of DC 15 would notice 3 regular brigands and a sniper. Each skiff has two rowers, a lookout (the sniper), and a bagpiper.
 -The brigands spring onto nearby causeways, advance to melee range, and try to knock out characters and rob them without killing anyone, while the snipers stay in the skiffs. Any character rendered unconscious by the brigands is stable at 0 hit points.
 
+## Agdon insults
+- Do you need me to stand still so you can hit? I’m not sure it’d help.
+- Is this your first day using a sword?
+- Maybe if I blindfolded myself with my scarf this’d be a fair fight.
+- Oh, you know magic, do you? You should summon some... skill.
+- I’ve fought Boggles more dangerous than you.
+- Too stubborn to hand over your loot, but too incompetent to win.
+- You made an underwhelming first impression, and it’s not improving.
+
 ### Quick Fingers:
 - Sleight of Hand check (+7) with a DC of the player's passive perception + 1.
 - On success, Agdon steals an object weighing 1 pound or less that the targets has in its posession but not in it's grasp without them noticing.
