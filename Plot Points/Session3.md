@@ -33,7 +33,10 @@
 
 - The geyser is powerful enough to lift up to 300 pounds into the air, and the flow of water can be stopped if the well is covered by something weighing more than 300 pounds. If the water is prevented from erupting, anything being lifted by the geyser plummets to the ground within 5 feet of the base of the well.
 
-- If a character tries to take one or more of the trinkets, the will-o'-wisps turn visible, (Looks like just a floating light) accuse the character of being a dishonorable thief, and insist that the stolen items be returned to the well at once
+- If a character tries to take one or more of the trinkets, the will-o'-wisps turn visible, (Looks like just a floating light) accuse the character of being a dishonorable thief, and insist that the stolen items be returned to the well at once.
+- The will-o'-wisps have voices of children and plead that they give the items back to the well.
+- if questioned about who they are or why, they simply say those were their prized posessions in life and it gives them peace.
+- the will-o'-wisps say they are children who fell in the well and died, they don't know why Zybilna's magic did not protect them. Zybilna loves children.
 - They attack if the character fails to return the stolen trinkets or provide worthy substitutes.
 
 # Brigand's Tollway
@@ -58,6 +61,15 @@
 
 - You notice, arriving out of the mist from the direction of the tree stump, 2 skiffs, each manned by 4 brigands. A Perception check of DC 15 would notice 3 regular brigands and a sniper. Each skiff has two rowers, a lookout (the sniper), and a bagpiper.
 -The brigands spring onto nearby causeways, advance to melee range, and try to knock out characters and rob them without killing anyone, while the snipers stay in the skiffs. Any character rendered unconscious by the brigands is stable at 0 hit points.
+
+## Agdon insults
+- Do you need me to stand still so you can hit? I’m not sure it’d help.
+- Is this your first day using a sword?
+- Maybe if I blindfolded myself with my scarf this’d be a fair fight.
+- Oh, you know magic, do you? You should summon some... skill.
+- I’ve fought Boggles more dangerous than you.
+- Too stubborn to hand over your loot, but too incompetent to win.
+- You made an underwhelming first impression, and it’s not improving.
 
 ### Quick Fingers:
 - Sleight of Hand check (+7) with a DC of the player's passive perception + 1.
