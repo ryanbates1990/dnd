@@ -41,29 +41,15 @@ Skabatha appears as a short, thin, gnarled woman swathed in a tattered dress wit
 
 # Session Plan
 
-## 1. Will Writes the Plan in Stone
-- Will asks for a moment with his gang to discuss the party
-- Comes back and everyone looking at the party and says, 
-> "We just want to make sure we're clear on the plan. You guys don't seem like you're from around here so let me give you the lay of the land. Little Oak!" he shouts, "Stop at once!"  
+# 1 . Little Oak comes across the Wayward Pool
+> You guys are sitting in the small cabin in build on Little Oak who is walking liesurely through the wood. The thick wood typically keeps the forest pretty dim, but the cabin suddenly gets noticeably brighter. You look out the window and see a clearing in the trees. In that clearing you see a small lake reflecting the familiar twilight hues of the feywild sky with a thin layer of mist slightly obscuring the otherwise transluscent surface of the water.
 
-> Little Oak stops in his tracks and not being used to the sudden stop, stumble a little bit, the other children braced themselves at once. Will jumps out the window grabbing a rope and gracefully slides down to the ground. "Come down, I'll show you." and he grabs a stick and begins drawing in the dirt.
+- Will says, "Ah, looks like we've come across the wayword pool once again." Will suggests trying to find lamorna stating, "We've actually made it to the pool which is quite the feat but we've never found Lamorna. She might know something we don't. You guys should check it out."
 
-- Draw a rough sketch of Loomlurch and go through the plan one more time.
-- They can arrange a meeting by speaking to Chucklehead the goblin boss (L2) or Pincushion, the living doll in L9. Any meeting is in the parlour, L3
+- As people pile out of Little Oak, have everyone make DC 10 Dexterity Checks. Any character that fails slips off the roap latter and falls 10 feet and takes 1 d6 damage.
+- Tell Sam what he sees and have the other players describe their character's appearance to him.
 
-## 2. Little Oak comes across the Wayward Pool
-- Shortly after resuming travel any player (otherwise, Sloane) spots the wayward pool
-
-> Through a clearing in the trees you see a small lake reflecting the familiar twilight hues of the feywild sky with a thin layer of mist slightly obscuring the otherwise transluscent surface of the water.
-
-- Will suggests trying to find lamorna stating, "We've made it to the pool which is quite an accomplishment but we've never found Lamorna. She might know something we don't. You guys can use our costume if you want."
-
-- visible from Little Oak
-- Introduce Sam's character who is trying and failing to reach the pool
-
-## 2.5 Doomed Dryad Random Encounter
-
-## 3. The Wayward Pool
+# 2. The Wayward Pool
 
 ### Notes
 - can only be reached if one is disguising one's self as a unicorn
@@ -85,8 +71,6 @@ If Lamorna Appears:
 - She speaks telepathically once players are within 60 feet.
 - Lamorna is curious as to why players are here in thither.
 
-
-
 ### What does Lamorna know?
 - Zybilna used to rule over all of Prismeer but was usurped by her sisters.. the hags
 - Zybilna was vainglorious and deceitful at times, but her magic kept Prismeer safe and isolated.
@@ -99,7 +83,7 @@ If Lamorna Appears:
 - A library on the second floor of the palace contains Zybilna's most treasured tomes.
 - A dragon-like creature called a jabberwock lives in Zybilna's palace and frequently prowls the forest. The jabberwock tries to reach Wayward Pool but is always turned away by the lake's protective magic. Lamorna emphasizes that the characters would be wise to avoid the jabberwock, for once it sets its fiery eyes on prey, it rarely gives up the hunt.
 
-## Zarak Attacks!
+# 3. Zarak Attacks!
 
 - As the character's wind down their conversation with Lamorna read:
 > A cloaked figure springs from the forest and, with blades flashing, attacks the unicorn. Under the assassin's cowl, you see a wide, toothy smile.
@@ -122,7 +106,25 @@ if Charmed or some other sort of magic Zarak knows:
 - A fifth member of the League of Malevolence, a human warlock named Skylla, gets her magic from an archfey named Baba Yaga. Skylla knows more about Iggwilv's Cauldron and the hags of the Hourglass Coven than anyone else (as far as Zarak knows). But she has gone missing, and none of the other members of the league know where to find her.
 
 
-# Approaching Loomlurch
+# 4. Going Back to Little Oak and Will
+- Will is outside dangling from Little Oak's branches
+> Little Oak looks like he was leasurely milling about in a small clearing. As you appraoch,  Will jumps out the window grabbing a rope and gracefully slides down to the ground. 
+
+> "We've been talkin. We just want to make sure we're clear on the plan. You guys don't seem like you're from around here so let me give you the lay of the land. If we're gonna trust you guys we need to know you guys can keep your end of the deal. Say, who's this? (Points at Sam's Character)"  
+
+Will wants to go over the plan one more time
+
+> "We've adjusted the plan just a smidge. I'll show you." and he grabs a stick and begins drawing in the dirt.
+
+- Draw a rough sketch of Loomlurch and go through the plan one more time.
+- They can arrange a meeting by speaking to Chucklehead the goblin boss (L2) or Pincushion, the living doll in L9. Any meeting is in the parlou is in L3.
+
+- Little Oak doesn't get too far to LoomLurch and pauses and says everyone needs to walk from here. 
+- Will will go with the players since they're going more or less in the same direction.
+- The other Children break off to the west.
+
+
+# 5. Approaching Loomlurch
 
 > The forest is becoming increasingly dense, and dark. The trees are becoming unfathomably large, some look to be maybe 60 feet in diameter and you're unable to see the tops. The forest is dark but you can see dim light flickering up ahead like fireflies.
 
@@ -133,6 +135,12 @@ if Charmed or some other sort of magic Zarak knows:
 - It is at this point that Juan is overcome with a feeling that his lost thing is near. You think back to the vision of the fog, you smiling once again. For a fleeting moment, you feel whole again.
 
 > As you approach you come across a creek, about 12 feed wide, flowing gently near perpindicular to a collossal fallen oak. Crossing the creek are a pair of small bridges carved from the roots of the tree's remains. From the tree' s remains you can see firelight spilling out from carved out windows shedding light on a small market set up out front with stalls. Noise sounds like a generally merry crowd. Out of the fallen tree you see giant, living trees growing from the remains of the tree, giving the appearance like large towers.. You can see 3 of them, each about 100 feet apart.
+
+## Crossing the Root Bridges
+- One leads to L3 (Parlour), the other leads to L2, the Goblin Market
+> As you approach a gnarled bridge fromed by tangled tree roots spanning a rocky, mostly dried up riverbed, Make a stealth check.
+- DC 12, on failure, the Bridges make an abnormally loud creak, and you notice a couple heads turn in the market towards you. Their stares linger for just a moment and resume what they were doing.
+
 
 ## LoomLurch (general)
 - The workshop is operated by kidnapped children who are allowed a small measure of freedom to carry out their labors, under the watchful eyes of the hag's minions (red capps and tin men soldiers)
