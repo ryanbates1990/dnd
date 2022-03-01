@@ -123,14 +123,12 @@ Will wants to go over the plan one more time
 - Will will go with the players since they're going more or less in the same direction.
 - The other Children break off to the west.
 
+# GrandFather Tree Random Encounter
+
 
 # 5. Approaching Loomlurch
 
 > The forest is becoming increasingly dense, and dark. The trees are becoming unfathomably large, some look to be maybe 60 feet in diameter and you're unable to see the tops. The forest is dark but you can see dim light flickering up ahead like fireflies.
-
-- Passive Perception of 15 or higher can hear heavy, snotlike breathing in the nearby wood. Perception check of 20 can see a pair of small red caps hiding behind trees just ahead
-
-- 2 Redcaps attack the party, each snickering and growling and cackling
 
 - It is at this point that Juan is overcome with a feeling that his lost thing is near. You think back to the vision of the fog, you smiling once again. For a fleeting moment, you feel whole again.
 
