@@ -1,90 +1,3 @@
-# Summary
-- You guys each found a way to the wayward pool
-- Rael lit a beacon at the top of the island in the middle of the pool
-- Lamorna the Unicorn appeared on the shore and spoke to you guys telepathically
-- She gave you bits of information about Zybilna and her palace, hopefully you wrote it down because I didn't.
-- You were attacked by a very small, hooded orc that was blasted away by Juan
-- Juan took an invisibility potion from the creature
-- You guys met up with Will and the rest of the getaway gang and proceeded with his plan on infiltrating Loomlurch with the addition that Juan is now invisible.
-- You guys stopped by the goblin market and traded a couple trinkets for some candy
-- You met with Skabatha in her parlour where Harrison decided to perform for Skabatha, who was unconvinced or your true motives of the meeting.
-- Mikey decided this was a good time to eat his candy
-- The children set off the alarms (the screaming scarecrows in the garden)
-- Skabatha, discerning you guys were up to no good, set her 3 mimic recliners upon you, 2 of which were slain. Simultaneously, Juan iniated combat with Skabatha
-- Skabatha fled for a few rounds and returned having captured Obi, the early adolescent dwarf.
-- Rael was turned into a rat, and the rest of the party fell unconscious in combat.
-- Juan turned to escape through the door in which you guys came
-
-# DM Notes
-- Will escaped to Little Oak - He was in the Redcap Patch waiting to go inside, when Redcaps sprouted, a sign that Skabatha has entered a rage. He fled.
-- Obi was captured and now works in the workshop
-- Sloane and Zennor have not been seen, but they are hiding in the woods, being tracked by Red Caps
-
-# Juan
-
-> Juan, you see your friends struggling for your lives, you escape, still invisible, from whence you came. You are standing, heavy breathing, outside of Skabatha's lair onlooking the goblin market. It is populated with the same crowd as before, 1 or 2 goblin bystanders, Chucklehead muttering to himself, and those working the stalls. What do you do?
-
-- As he leaves loomlurch, your invisibility fades.
-
-- If he goes back to Little Oak, there is a group of Pixies talking to little oak, if not, there is a dryad being harassed by a group of pixies in italian accents
-- They are looking for their friend Marco
-> Say you don't look like you're from around here, say, whatta ya up to out here uh?
-
-> We're lookin to bust these kids out ourselves you know, as a show of good faith to the higher ups you know?
-
-> Say, if you want to help us why don't you see our boss? He doesn't like people helpin us without him knowin you know? Besides, you might get paid.
-
-- If Juan agrees,the put a sack on his head and say don't worry, this is standard protocol, and they offer you a drink. If you take it, you shrink down to tiny size and they forcibly put a bad on your head and say, no need to panic, but our boss likes to keep his whereabouts hidden.
-
-### The Pixies
-1. Vinnie
-1. Paulie
-1. Leo
-
-- Really they are looking to establish a casino in Yon and want a friendship from those in power to set up the operation in Yon.
-- He needs to establish in Yon because of the energy provided by the storms, and we can set up an operation to siphon it from endelyn.
-
-Godfather motivation: the forest is slowly dying under granny nightshade, who rely on the forests health for its fairy ring network as fey crossings on his own plane, the shadowfell. He can plane shift buy many of his employees cannot.
-
-## Meeting the Fairy Godfather
-
-- put on the correct music
-> You walk into a dim office where a fairy with an underbite rests with a cigar in hand and on his desk, a mostly finished plate of spagheti and meatballs. In his lap is a small beetle that he strokes like a house cat. What brings you to my office?
-
-- The Fairy Godfather offers a relationship in which you are given a hexblade warlock pact. To initiate the relationship he wants you to bring Will to him. He is also interested in the children getting out of Loomlurch.
-
-# The Others
-
-> You guys awake in a small Prison, slumped against the walls resting in about 8 inches of water. The only light that enters the room are faint glows that reach through the ill fitted floorboards from above and that of a small trap door in the ceiling. You guys are all in the same cell, you can just make out another where you see another figure populating it, but can't make out any distinct features. In your own cell you see you guys aren't alone in your own cell either, you are accompanied by 2 mostly rotten corpses, they've been here for some time now. You also notice faint footsteps on the wooden floor above you and distinctly smell potatoes. As you awake you begin to notice you feel lighter. You pat around your bodies and you realize your weapons are missing and you stachel with spell components is gone. The figure  in the room with you notices you stirring and says, "Ah, I was wondering when you guys would wake up. I see you've met the same fate as I." 
-
-- Considered to have short rested
-
-
-## Getting out of the Prison
-- DC 18 Dex with thieves tools
-- DC 22 Strength (or combined strength)  
-
-If they fail to get out of prison on their own, have Mishka come down and they can try again. 
-
-## Things Elkhorn knows
-- Part of an adventuring party called Valor's call. We came to track down the League of Malevolence, a crew that has been committing heinous crimes on other planes. We believed they were here, and sought to create an alliance with Zybilna to bring them down.
-- We came in contact with the League of Malevolence in the palace of hearts desire and we fought in glorious battle. The next thing I remember though is waking up here. 
-- Skabatha interviewed me but she seems to have lost interest and forgot about me. Left me here to die. I gave her a piece of my mind when she dropped you guys off though don't get me wrong.
-- Every once in a while Mishka would come down and say hi and give me a piece of bread to me going, if I get out of here I want to save each and every one of these children.
-
-## Valor's Call
-- Strongheart
-- Mercion
-- Ringleron
-- Elkhorn
-- Mollivor
-
-## Where is Skabatha?
-
-- She has taken to her bedroom for an early rest.
-
-## What kids are in what rooms?
-
 # The Kitchen (L13)
 
 - Doors to L14 and L15 (study and outside) are locked
@@ -93,10 +6,10 @@ If they fail to get out of prison on their own, have Mishka come down and they c
 
 > A young human girl shackled to a worktable is hard at work peeling potatoes. A green dragon the size of a large dog is coiled up near the oven, apparently dozing, Fumes rise from the wyrmling's nostrils.
 
-## Children 
-- Mishka (a 9-year-old female human) serves Granny Nightshade as a scullery maid. Mishka has managed to escape from Loomlurch twice, only to be tracked down by Cradlefall and recaptured both times; that's why Granny Nightshade now chains her to the worktable. 
+## Mishka 
+Child Worker. Mishka (a 9-year-old female human) serves Granny Nightshade as a scullery maid. Mishka has managed to escape from Loomlurch twice, only to be tracked down by Cradlefall and recaptured both times; that's why Granny Nightshade now chains her to the worktable. 
 
-- As an action, a character using thieves' tools can pick the lock on Mishka's ankle cuff with a successful DC 15 Dexterity check. Any key that unlocks the kitchen doors also unlocks Mishka's chains. If done so, she shares the password that unlocks Granny Nightshades dollhouse (FizzleBuzz)
+- As an action, a character using thieves' tools can pick the lock on Mishka's ankle cuff with a successful DC 15 Dexterity check. Any key that unlocks the kitchen doors also unlocks Mishka's chains.
 
 If Skabatha isn't present, Mishka tells the characters about the hag's daily routine and describes Granny Nightshade's minions (see Where's Skabatha? and " Skabatha's Minions" earlier in the chapter). She suggests that they lure Granny Nightshade into the oven and burn her up.
 
@@ -227,27 +140,3 @@ Once the living doll leaves or is defeated, the characters can search the sewing
 1. A spool of barbed, golden yarn (15 gp)
 1. Three bolts of silk in shades of putrid green and cesspit brown (10 gp each)
 1. A set of five painted thimbles depicting poisonous Feywild plants (25 gp for the set)
-
-## Workshop
-Door to outside is locked.
-
-> Flickering lanterns illuminate a cluttered workshop filled with soft, ambient music produced by bells and chimes. Parts of toys are heaped on the tables—leering doll's heads, half-built rocking horses, unpainted wooden balls, and the stuffed limbs of soft toys. A stove at the back of the room holds a saucepan of smelting metal. Three doors exit the workshop, and two storefront windows overlook the market outside.
-
-> Three young children are gathered around a wooden worktable. The eldest, a drow boy, prances on the tabletop with a bar of soap in one hand, while a halfling girl and a human girl giggle at his audacity.
-
-> Looking Bereft there is another child, Obi, sadly looking at his hands wondering how he has come back to this horrible place.
-
-## Children
-- Naal (11 year old male drow) - stole a kitchen key from Pincushion. He took an impression of it using a bar of soap before fastening the key back to pincusion's belt. He just wants milk from the kitchen.
-- Sung (9 year old female human)
-- Philomena (8 year old female halfing) - Weeps if she is forced to leave without her piglet, Oink, who is in the pigpen in area L5.
-
-They have been here longer than any can remember, here they do not age.
-
-## Treasure. 
-Characters who ransack the workshop uncover the following valuables:
-1. A jar of iridescent glass eyes (10 gp)
-1. A silver hammer and chisel in a green leather tool belt (15 gp for the set)
-1. Iron metalworking tongs shaped like the jaws of a snapping dragon (15 gp)
-
-# Granny NightShade's Bedroom
