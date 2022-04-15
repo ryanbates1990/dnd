@@ -44,9 +44,27 @@ A **DC 15 Animal Handling** check is required to tame the beast. It must eat 8 l
 - She asks the others if there is anything that she can do for them, she says, "I'm in quite a generous mood."
 - If asked about Skabatha, Bavlorna exclaims, "She can be a crotchety bitch."
 
+**Pool**  
+With a **DC 14 Nature Check** can determine that the acidity felt from the pool belongs to a gelatenous cube. The cube can be seen when peering into the drain. 
+
+The gelatinous cylinder lurks 10 feet down inside the well and is invisible in the water. It attacks any creature and dissolves any organic material that comes in contact with it. If a creature lowers itself into the water, attacks the ooze from above, and then exits the well, the gelatinous cylinder squirms up the shaft in pursuit, emerging from the well and thus unplugging it. The cylinder is 10 feet high and 10 feet in diameter. When it is lured out of the well or killed, the flow of water resumes in a torrent, filling the pool to a depth of 3 feet in 1 minute.
+
 **Potion Cabinet In the study.** The cabinet in the corner is made of wood that is still covered with bark and patches of moss. There's a lock in the middle of the right panel, but it's obscured beneath hanging moss. (Bavlorna swallowed the key for safekeeping but can regurgitate it as needed.) A character can use an action and thieves' tools to try to pick the lock, doing so with a successful DC 15 Dexterity check.
 
 **IMPORTANT** Make sure to freshly describe each room so Sam can interact with the different items.
+
+**Bedroom** has a chest as well. The padlocked chest has clawed iron feet and the initials B.B. crudely carved into its lid. It takes 1 minute and a successful DC 15 Dexterity check using thieves' tools to pick the padlock. On a check that fails by 5 or more, or if the lock is smashed off, the chest transforms into a Small animated object and attacks whoever tried to open it (see the animate objects spell for its statistics).
+
+**Bedroom Chest Treasure**
+1. A 12-inch-tall marionette that Bavlorna stole from her sister, Endelyn. It has faces on opposite sides of its head. One face is a moon, and the other is a sun. As an art object, the marionette is worth 25 gp.
+1. An unpunched ticket from the Witchlight Carnival. The ticket is signed by Isolde, the carnival's original owner.
+1. Three spell scrolls of identify tied together with a lute string
+
+**Hoard Treasure**
+1. A wooden mannequin wears a helm of telepathy. If the helm is removed from the mannequin, the mannequin animates and tries to get the helm back by attacking whoever has it. The mannequin uses the animated armor stat block but has AC 15. If it reacquires the helm, the mannequin dons the helm and reverts to its inanimate state until the helm is removed again. Placing a different piece of headgear on its bare head has the effect of rendering the mannequin inanimate permanently.
+
+1. Bronze Frog Items
+
 
 # Yon
 >Mikey moose has a feeling that his lost thing (sense of direction) is near. Even though you can sense that it is close, this stirrs up an insecurity in you as you recall times where you've found yourself lost and confused due to your poor sense of direction.
@@ -56,17 +74,31 @@ A **DC 15 Animal Handling** check is required to tame the beast. It must eat 8 l
 `Interaction with Amidor and Gleam`
 
 `Casino - Develop side quest (or additional motivation)`
-The Casino has dim lighting and it flickers on an off but is overall well furnished and probably floating at about half capacity. Italian Pixies are fluttering about and recognize Rael and Mikey. They say they would pay a hefty price for Endelyns secret on how to greater harness the energy from the skies. She has quite an impressive theater that she runs and we want in on that abilty. 
+The Casino has dim lighting and it flickers on an off but is overall well furnished and probably floating at about half capacity. Italian Pixies are fluttering about and recognize Rael and Mikey.
 
-have a rival gambler or a shady individual that may be causing a ruckus. Come up with a couple cool character ideas. Need something to be happening here.
-- A guy that every once in a while when the electricity dims, he wins a big prize at a slot machine. If the players catch him they are thanked mightily and can ask a favor (can be denied) otherwise they are given 200 gold, as long as they spend some time gambling it.
-- A pickpocket
-- Elves doing lines of some substance in the back (insinuating this is some potent shit).
-- multitude of races.
-- people simply being routy at the bar
-- people know something about Endelyn here (more than just theater and electricity. look this up).
-- If they go out back, people wheeling in crates to a small garage like door and lock it up behind them.
+If The players press questions about Endelyn they are questioned:
+- Why do are you concerned about her?
+- She is theatrical, always anxious about the future
+- and told to go speak to Giovanni, he might have more information.
+- If heard questioning about Endelyn, several Italian Pixies (**Vinnie** and **Paulie**) are fluttering about escort them to Giovanni.
 
+If they never ask about Endelyn, Vinnie and Paulie recognize Rael and Mikey and start a conversation.
+
+**Giovonni** The owner is in his office. Can't impart much knowledge on Endelyn herself, but knows she has a secret on how to greater harness the energy from the skies. She has quite an impressive theater that she runs and we want in on that abilty. He offers 4000 gold for her secret.
+
+**A Scrawny, swashbuckling dressed Goblin named Wyatt** every once in a while when the electricity dims, he wins a big prize at a slot machine. If the players investigate and **Insight check DC 17** can tell he is cheating. An **Investigation check DC 15** Reveals that when the lights dim he pulls the lever twice in quick succession and wins a jackpot. If brought to Giovanni, they are thanked mightily and can ask a favor (can be denied) otherwise they are given 200 gold, as long as they spend some time gambling it.
+
+**Throughout the casino there are**
+- Elves doing lines of some substance in the back (**Intelligence check of 10 you can conclude this must be some powerful stuff**).
+- multitude of races (elves, goblins, dejected looking fairies).
+- A cyclops named **Rodney, nicknamed Big Rod** that keeps eyeballing Rex from across the room.
+
+**Through the Back Door**  
+Loading Dock, you can see Crates and Crates being loaded onto a dock. Most of them are casino needs (slot machines, drinks, kegs, chips, etc.). An **investigation check of DC 12** reveals a mass amount of children's toys.
+
+These Childrens toys are being filled with drugs made from modified pixie dust. The toys are traded from skabatha. The drugs are taken to the material world and sold. The operation is being run by the Fairy Godfather.
+
+**They can make a deal to** take a crate of drugs to an elf named Sliske who operates as an apothecary near Motherhorn). Sliske will pay handsomly. If players accept they are offered 300 gold pieces. If they don't deliver the goods they will be hunted.
 
 # Casino Games
 - Roulette (D20 odds or evens or specific number for 18 times payout)
