@@ -28,6 +28,7 @@ These Childrens toys are being filled with drugs made from modified pixie dust. 
 **Giovanni's office**
 - has a portal to the shadowfell behind a large portait of himself with a large dog.
 - has 2 mobsters keeping him company at all times, there names are "Julius" and "Leo"
+- A large safe that can be opened via a Dexterity check of 20 that contains 5,000 gold, a packed bag with a tuxedo, and a pouch with some various spell components including 2 diamonds worth about 400gp each.);
 
 # Casino Games
 - Roulette (D20 odds or evens or specific number for 18 times payout)
