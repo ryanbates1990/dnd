@@ -61,6 +61,12 @@ Banishment, Counterspell
 
 Multi attack, +6 to hit, d6 + 6 damage
 
+# Gleam and Amidor Enter the Casino
+- drenched from the rain they enter. People seem reluctant to be hospitable to them.
+
+# Castle on the Hill
+ > You stand on a path that wends between rocky crags on a mountainside. The sky is dark and full of roiling thunderclouds. You are greeted by a howling wind. For a second, lightning splits the sky, striking nearby mountaintops and illuminating a distant pinnacle of rock that has a foreboding castle carved out of it. 
+
 # Astronomer's Den
 - Find a small cave that takes looks a little treacherous to get to. Players must succeed on a `DC 12 Dexterity Check` or fall and Take 1 d6 damage before getting up
 - A stone golem that understands Elvish guards a door leading to a den
