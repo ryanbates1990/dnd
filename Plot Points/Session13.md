@@ -18,3 +18,26 @@
 - Rael also noticed a misplaced floorboard in the ceiling that led to a bell tower. That bell had engraved in it, "Toll the bell within this spire, To journey to your heart's desire."
 - You guys later went to Endelyn's bedroom where you found Mikey's lost thing (orb of direction). Along with his thing you found some expensive bottles of wine and a presumably magic ring on a shriveled hand which you guys took.
 - Someone made too much noise when exiting Endelyn's room and the marionnettes which dangled from the ceiling of her room started screeching, and as you guys exited, Bavlorna Blightsraw was waiting for you on the other side of the orrery's balcony.
+
+# Bavlorna
+
+> You find yourselves at on the second floor balcony of a cylindrical chamber. The balcony moves around the full perimeter of the chamber. An eighty foot copper pole extends from the 1st floor through the top of the ceiling. Looking down into the 1st floor you can see rotating spheres and sickles attached to long metal arms that sweep back and forth as lighting shoots out from the center pole through them. Smokey runes exhale out of the rotating arms when this happens. 
+
+> Across the balcony on the other side, you see a large, rotund silhouette that you recognize as Bavlorna Blightstraw. When the lighting from the copper rod courses through the pole and lights the room you can see that she is postured for violence, like a dog with the hair standing up on it's back. Her hair is dishelved and wearing a scowl. She outstretches her hands from her unwashed cloak and says,
+
+> "You have meddled for the last time. Give me the horn or prepare to be obliterated." 
+
+### Mid combat lines
+- "your carcasses will be the newest additions in my parlour."
+- "Watch out, your face might get stuck like that."
+- (Before a swallow) "Let's see if you taste as good as you look."
+- (Before a withering Ray) "Let's wipe that smile off your face shall we?"
+
+### DM notes
+- Two Quicklings are behind bavlorna in the hall and are not currently visible behind bavlorna. They roll initiative at the same time as everyone else.
+- A creature that touches any part of the lightning rod, enters the contraption's space for the first time on a turn, or starts its turn in the contraption's space must make a DC 15 Dexterity saving throw, taking 44 (8d10) lightning damage on a failed save, or half as much damage on a successful one. A creature in metal armor makes the saving throw with disadvantage.
+
+# Other
+
+- Prep on Skylla and the brigganock engineer in case they search
+- Prep the landing and a good portion of the palace of heart's desire.
