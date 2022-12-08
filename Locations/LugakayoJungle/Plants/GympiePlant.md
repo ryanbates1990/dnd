@@ -1,5 +1,0 @@
-## The Gympie Plant
-
-Inspired by the real, Gympie Gympie aka the suicid plant. when rubbed against results in excruciating pain that can last for hours or days at a time. Results only in a minor rash and no actual lasting damage.. but consequences are dire. The plant is known for it's "furry leaves" which gain the appearance from small hairs and is a light, seafoam green colour and grows in vine like fashion either across the floor of the jungle or on other plants. The hairs are what injects the toxin. When the plant is heavily disrupted, the hairs flake off and effect anyone in a 5 foot radius (this is to prevent players from abusing the plant for its effect, though it is possible I suppose)
-
-When exposed, players (or NPC's) must make a DC constitution save of 13. On a failed save, the player is in excruciating pain and has disadvantages on all skill checks for 20 minutes.
