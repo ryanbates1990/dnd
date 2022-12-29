@@ -83,5 +83,14 @@ The tracks lead to a long downhill slope.
     - a ramp is a `DC 10 acrobatics` or take a d4 of damage from landing. Failig with a 5 or less means missing the ramp and taking a d8 tree stump to the chest and you fall off your sled which keeps moving without you
     - steering around the trees is a `DC 15 Dexterity check` or take a d4 of damage as a tree branch slaps you in the face as you move by. Failing with a 9 or less means you're taking a d8 tree stump to the chest and you fall off your sled which keeps moving without you
 
+# Base of the Canyon
 
+At the base of the canyon the player with the highest `Passive Perception` or any ranger picks up on the set of yeti tracks that lead into a hallway of ice. After following the tracks for a little bit you come upon the following.
+
+> A set of stairs carved into the ice wall appears and you can see that they ascend to a front door made from felled pine trees half-hazardly put together. Out of two windows emminate a flickering, sterile light, and you can faintly hear canned laughter and silly sounding music. The tracks you were following lead to the front door. An stone ornament rests at the bottom of the stairs. It's the shape of a human holding a sign that says, 'Welcome to the Abonimable's Home'
+
+## The Yeti family
+Consisting of the mother, Anita Abominable, and three children, Bobby, Tommy, and Chucky Abominable.
+
+The boyfriend is Heath Snowfoot who is out being a degenerate.
 
