@@ -18,3 +18,6 @@ The cities entertainment comes mostly from bars/singing. There is a center court
 
 The university is beautiful with statues of old scholars and mages that patrol the campus. The university, as an effort to protect its students, has installed a few areas with glyphs of the sun (sunlight spell). They take the form of floating, glowing crystals that when touched, shoot a temporary light to the sky
 
+# Amendments I would like to make
+
+- Among the educated, the most agreed upon cosmology is the Great Wheel Cosmology. However, while there does seem to remain stronger connections to the material plane via the ethereal, shadowfell, and feywild, those in the laboratory seem to have made discoveries that the planes seem to all be closely tied and connections seem to be stronger or weaker to other planes. Comparable to that of a highway from the material plane to the ethereal, but trail barely traveled, marked by carvings on a tree to get the abyss. They've demonstrated this by being able to successfully port into the astral plane. They hypothesize that all planes are mirrors of each other, just some of the connections are difficult to recognize, and the astral plane is the glue. 
