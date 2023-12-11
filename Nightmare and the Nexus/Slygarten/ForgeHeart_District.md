@@ -4,4 +4,6 @@ Nestled on the outskirts of the city, the Warehouse and Metallurgy District, kno
 
 The district is defined by towering smokestacks and industrial chimneys that pierce the sky, casting a perpetual orange haze over the distrcit. The air is thick with the scent of burning coal and the echoes of labor. 
 
+`GM History Note: ` TODO
+
 ## Landmarks

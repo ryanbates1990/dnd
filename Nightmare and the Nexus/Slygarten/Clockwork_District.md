@@ -4,6 +4,6 @@ Welcome to the bustling district of innovation and intellect within the city. Th
 
 Massive reservoirs containing distilled magical energy, harnessed from various sources snake through tubes and conduits thoughout the district, delivering power to laboratories and workshops.
 
-`GM only note:` The district's name gets its name from a gnomish inventor who developed the first clock that could reliably tell time. The town was shrouded by magical darkness, leaving the sun-dials useless. Legend has it that military leaders knew an attack was planned at a particular time and the inventors clock allowed them to set up an effective counter-attack, saving the town. It has sense been a popular homage to wear a black stopwatch in remembrance of his contribution.
+`GM History Note:` The district's name gets its name from a gnomish inventor who developed the first clock that could reliably tell time. The town was shrouded by magical darkness, leaving the sun-dials useless. Legend has it that military leaders knew an attack was planned at a particular time and the inventors clock allowed them to set up an effective counter-attack, saving the town. It has sense been a popular homage to wear a black stopwatch in remembrance of his contribution.
 
 ## Landmarks

@@ -4,4 +4,6 @@ At the heart of the city's economic pulse lies the Merchant District, where bust
 
 The central square, Grand Exchange Square, is a bustling hub of trade where merchants from various walks of life converge. Stalls, kiosks, and traders' tents fill the square with an array of goods and merchandise.
 
+`GM History Note: ` TODO
+
 ## Landmarks

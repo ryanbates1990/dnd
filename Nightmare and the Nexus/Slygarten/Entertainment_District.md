@@ -4,6 +4,8 @@ Step into the heart of the city's revelry and enchantment – The Whimsical Wond
 
 The main boulevard, Feylight Avenue, is lined with whimsical lampposts that emit a gentle glow. Street performers, illusionists, and fortune tellers create an ever-shifting spectacle for passersby.
 
+`GM History Note: ` TODO
+
 ## Landmarks
 
 **Vertucci's**

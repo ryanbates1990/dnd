@@ -4,4 +4,6 @@ Situated on the fringes of the city, Humble Haven is a district that embodies th
 
 The winding cobblestone streets of Humble Haven are worn but well-tended. Shops, stalls, and small residences form a close-knit tapestry, creating an atmosphere of communal warmth that to some, make up for what it lacks in outward beauty.
 
+`GM History Note: ` TODO
+
 ## Landmarks

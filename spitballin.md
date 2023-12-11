@@ -84,7 +84,9 @@ Other ideas for beginning ‘villains’:
 
 
 # Next Steps
-- For the Gazzeteer (sp) we need disctricts with basic descriptions
+- For the Gazzeteer (sp) we need disctricts with basic descriptions.
+    - would be nice to add a note about the basic history of the district, along with what populations live there.
 - itemizing a couple of landmarks
 - itemizing a couple services
+- itemize some locations with basic descriptions/characters within each district
 - come up with an adventure site for each faction??
