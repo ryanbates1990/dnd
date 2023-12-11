@@ -59,6 +59,7 @@ Other ideas for beginning ‘villains’:
 - Entertainment District
 - Poor Area
 - Warehouse and Metallurgy District (blue collar work)
+- Merchant District
 
 ### Potential Adventure Sites
 - Astral Nexus lab
@@ -80,3 +81,10 @@ Other ideas for beginning ‘villains’:
         - Idea for situation, college kid wants to buy an engagement ring but its outrageously expensive
 - Silas and the gang
     - Think something is funny going on with the astral nexus. Former colleagues haven't been seen in months, they want to the bottom of it.
+
+
+# Next Steps
+- For the Gazzeteer (sp) we need disctricts with basic descriptions
+- itemizing a couple of landmarks
+- itemizing a couple services
+- come up with an adventure site for each faction??
