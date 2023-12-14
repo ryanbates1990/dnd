@@ -16,4 +16,7 @@ Ornate theaters showcase magical plays, spellbinding operas, and fantastical per
 
 ## Locations
 
+## Situation Ideas
+
+- A house of mirrors/haunted house type place has become a popular attraction for couples to get away and get a thrill as a part of a night out. There are a couple instances where people have reported that their partner has left the house acting... different, before eventually removing themselves from their lives. The reality is that a doppelganger serial killer is luring its targets into a deep part of the attraction and butchering them for fun. The doppelgangers would be servants of lolth
 

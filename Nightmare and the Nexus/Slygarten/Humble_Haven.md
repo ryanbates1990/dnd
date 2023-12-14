@@ -4,6 +4,8 @@ Situated on the fringes of the city, Humble Haven is a district that embodies th
 
 The winding cobblestone streets of Humble Haven are worn but well-tended. Shops, stalls, and small residences form a close-knit tapestry, creating an atmosphere of communal warmth that to some, make up for what it lacks in outward beauty.
 
-`GM History Note: ` TODO
+`GM History Note: ` While this is a typical working class residential area, it is much more common to see women working here as they have a moderate population advantage given that on occasion men are pulled to fight. 
+
+There is an old wives tale that a small gemstone should be placed on any entrance to your home within the district to protect you from the shadows. It is true that on occasion a shadow demon summoned by a servant of lolth to extract blood and dreams for its master. The gemstones protect the home by reminding the intruder of the many eyes of lolth which is to fear inducing to carry out its duty. However... the gemstones make a fine target for thieves.
 
 ## Landmarks

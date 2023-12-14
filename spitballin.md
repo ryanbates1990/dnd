@@ -29,7 +29,7 @@ has started searching exports for particular outgoing metals that bond properly 
 His goal of course, is to amass incredible sums of money for his own satisfaction. To do this, his lab needs to be secret, he needs a buyer for resources he uncovers (and for buyers to understand their value), and he needs security.
 
 (From slack, a separate note) Point of inspiration: The evil mayor could be after a means to teleport through the astral plane at will - It turns out he is a shardar-kai in disguise who’s lover is trapped in a ‘quarantined’ demi plane of undead. He means to create a breach in the astral plane and force his way in and release an artifact that is responsible for the planar tether.
-- If investigating his home/office he could have a painted portrait of a vampyric lady stowed in a closet.
+- If investigating his home/office he could have a painted portrait of a royal drow lady stowed in a closet.
 - His past is generally unknown
 - Some of his followers worship the Raven Queen
 - He is known in the town to be single
@@ -90,3 +90,12 @@ Other ideas for beginning ‘villains’:
 - itemizing a couple services
 - itemize some locations with basic descriptions/characters within each district
 - come up with an adventure site for each faction??
+
+## History Note
+- Undead and other evil remnants weren't behind the screen with the divine quarantine was issued. This creates certain dangers and superstitions.
+
+- for luke's character pockets of undead are quarantined and house Blackburne's woman is a part of a group of drow being harvested by vampyres. His master is locked behind the divine quarantine that is a city state ruled by vampyres. The vampyres rule a slum of drow people kept alive for their blood.
+
+- we will `need churches` dedicated to whatever god put the undead behind the quarantine as gratitude.. however some people may have a 'what have they done for me lately type attitude'
+
+- It seems that the *Great Wheel Cosmology* theory has some flaws. The boys at the astral nexus laboratory have come up with a more accurate mathematical model that can greater predict the relationships between the planes
