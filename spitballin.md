@@ -38,8 +38,9 @@ The undead tower could have several legendary artifacts working together. Wall o
 
 Would need to make a key dungeon for his home
 
-Other ideas for beginning ‘villains’:
+## Rael
 
+Servant of Lolth with his lover, has escaped to a life of seculusion and decadence that sometimes results in the abuse of others.
 
 ### Toolkit
 
