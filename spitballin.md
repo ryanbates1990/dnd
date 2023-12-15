@@ -82,7 +82,7 @@ Servant of Lolth with his lover, has escaped to a life of seculusion and decaden
         - Idea for situation, college kid wants to buy an engagement ring but its outrageously expensive
 - Silas and the gang
     - Think something is funny going on with the astral nexus. Former colleagues haven't been seen in months, they want to the bottom of it.
-
+- druids outside of the city that get upset with the pollution from the factory?
 
 # Next Steps
 - For the Gazzeteer (sp) we need disctricts with basic descriptions.
@@ -100,3 +100,5 @@ Servant of Lolth with his lover, has escaped to a life of seculusion and decaden
 - we will `need churches` dedicated to whatever god put the undead behind the quarantine as gratitude.. however some people may have a 'what have they done for me lately type attitude'
 
 - It seems that the *Great Wheel Cosmology* theory has some flaws. The boys at the astral nexus laboratory have come up with a more accurate mathematical model that can greater predict the relationships between the planes
+
+- could be a river for the forgeheart district to use as a cooling agent? Upsets Druids outside of the city.

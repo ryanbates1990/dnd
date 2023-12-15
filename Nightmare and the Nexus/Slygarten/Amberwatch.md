@@ -1,0 +1,7 @@
+# Amberwatch
+
+Nestled in the heart of the city, the Opulent Quarter stands as a testament to wealth, power, and aristocratic influence. This district, meticulously planned and adorned, is a captivating tapestry of extravagant estates, opulent gardens, and grand thoroughfares. The district is dominated by sprawling mansions with gated entrances decorated with gargoyles and angels. Each block opens into a square with large fountains featuring sculptures of large beasts being slain by mighty heroes. 
+
+`GM History Note: ` Originally was just land occupied by wealthy estates, it quickly became the focal point for politcal machinations and clandestine dealings. The Noble District weathered periods of turmoil, including civil unrest, invasions, and internal conflicts. Despite challenges, the aristocracy displayed resilience, using their resources to rebuild and reinforce their status. The district's enduring presence became a symbol of noble strength and determination. Today, the Noble District remains a center of cultural refinement and social elegance. It hosts exclusive events, galas, and cultural festivals that attract both the aristocracy and the city's elite. The district's theaters, galleries, and social clubs continue to be venues for high-profile gatherings.
+
+## Landmarks

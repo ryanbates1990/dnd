@@ -4,7 +4,7 @@ Step into the heart of the city's revelry and enchantment – The Whimsical Wond
 
 The main boulevard, Feylight Avenue, is lined with whimsical lampposts that emit a gentle glow. Street performers, illusionists, and fortune tellers create an ever-shifting spectacle for passersby.
 
-`GM History Note: ` TODO
+`GM History Note: ` It originated as a humble gathering of street performers and traveling shows where minstrels, jesters, and performers sought to entertain the local populace. The district evolved with the cities growth and experienced a golden age of performance and experienced a cultural renaissance. However, tragedy struck and swept through the district, leaving much of the district in ruins. With civic pride, the district was rebuilt, incorporating modern amenities and architectural marvels while preserving its cultural heritage. Embracing teh advancements of the age, the district seamlessly integrated magical and technological innovations into its performances. Illusion enhanced plays, enchanted gaming experiences, and captivating holographic displays became staples, setting the district apart as a pioneer in cutting-edge entertainment.
 
 ## Landmarks
 
