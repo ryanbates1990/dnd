@@ -1,4 +1,4 @@
-**The Clockwork District**
+# The Clockwork District
 
 Welcome to the bustling district of innovation and intellect within the city. This district is home to a blend of brick buildings, open garage workshops, and a bustling population of hard working people. They are often seen with white coats, clipboards, coffee, and a smoke. The Clockwork District is the realm of seasoned researchers, engineers, and entrepreneurial minds who push the boundaries of scientific understanding and magical integration. 
 
