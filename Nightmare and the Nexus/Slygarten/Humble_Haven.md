@@ -8,4 +8,26 @@ The winding cobblestone streets of Humble Haven are worn but well-tended. Shops,
 
 There is an old wives tale that a small gemstone should be placed on any entrance to your home within the district to protect you from the shadows. It is true that on occasion a shadow demon summoned by a servant of lolth to extract blood and dreams for its master. The gemstones protect the home by reminding the intruder of the many eyes of lolth which is to fear inducing to carry out its duty. However... the gemstones make a fine target for thieves.
 
-## Landmarks
+# Landmarks
+
+## Cathedral of Kelemvor
+
+As you approach the outskirts of Humble Haven, the imposing silhouette of the Sentinel Sanctuary of Kelemvor comes into view. While not adorned with excessive opulence, the cathedral stands as a testament to both solemnity and strength. Constructed from sturdy stone and adorned with minimalistic but finely crafted ironwork, the sanctuary reflects a sense of seriousness and bluntness. In front of the church is a lone willowtree.
+
+# Locations
+
+## H1 - Cathedral of Kelemvor
+
+**Exterior:** The architecture of the cathedral is characterized by clean lines and functional design. The structure consists of a series of sturdy stone walls with large, unembellished windows allowing muted light to filter through. A tall, peaked roof reaches skyward, crowned with a simple but dignified iron emblem representing Kelemvor's scales of judgment. The exterior is enclosed by a wrought iron fence, its gates adorned with symbols of Kelemvor – an upright skeletal arm holding balanced scales. The fencing serves as a symbolic boundary, separating the sacred space within from the secular world outside. At the front of the cathedral, a serene garden features a solitary weeping willow tree. Beneath its branches are simple gravestones, a somber reminder of the cycle of life and death that Kelemvor oversees.
+
+### Keyed Locations
+
+The atmosphere within the Sentinel Sanctuary is one of quiet reverence. The clergy, dressed in simple yet dignified robes, move silently through the halls, offering solace and guidance to those seeking Kelemvor's wisdom.
+
+`GM Note:` The Sentinel Sanctuary of Kelemvor stands as a place where the living acknowledge the transient nature of their existence and find solace in the orderly, impartial judgment of the Lord of the Dead. The symbols are raven and scales, representing the passage of souls and then the following judgment.
+
+**1 - Dimly Lit Halls**: Stepping inside, you find the interior of the cathedral to be dimly lit, creating an atmosphere of quiet contemplation. The walls are adorned with tapestries depicting scenes of souls being judged and guided to their final resting places.
+
+**2 - The Judgment Hall**: The central nave leads to a raised dais known as the Judgment Hall. Here, a large-scale symbol of Kelemvor is displayed prominently. The hall is used for ceremonies, rituals, and gatherings of the faithful. There is an altar that is an unadorned stone slab. Above it, an iron sculpture of the scales of justice hangs suspended, casting a shadow on the altar during daylight hours.
+
+**3 - The Whispering Crypts**: Beneath the cathedral, a network of crypts known as the Whispering Crypts houses the remains of the departed. Soft whispers echo through the hallowed halls as mourners pay their respects to the deceased.

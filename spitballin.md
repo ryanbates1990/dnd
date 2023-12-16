@@ -89,6 +89,7 @@ Servant of Lolth with his lover, has escaped to a life of seculusion and decaden
 - itemizing a couple services
 - itemize some locations with basic descriptions/characters within each district
 - come up with an adventure site for each faction??
+- we need to come up with one off locations within the city for prison etc.
 
 ## History Note
 - Undead and other evil remnants weren't behind the screen with the divine quarantine was issued. This creates certain dangers and superstitions.
