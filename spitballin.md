@@ -85,8 +85,6 @@ Servant of Lolth with his lover, has escaped to a life of seculusion and decaden
 - druids outside of the city that get upset with the pollution from the factory?
 
 # Next Steps
-- For the Gazzeteer (sp) we need disctricts with basic descriptions.
-    - would be nice to add a note about the basic history of the district, along with what populations live there.
 - itemizing a couple of landmarks
 - itemizing a couple services
 - itemize some locations with basic descriptions/characters within each district
@@ -102,3 +100,10 @@ Servant of Lolth with his lover, has escaped to a life of seculusion and decaden
 - It seems that the *Great Wheel Cosmology* theory has some flaws. The boys at the astral nexus laboratory have come up with a more accurate mathematical model that can greater predict the relationships between the planes
 
 - could be a river for the forgeheart district to use as a cooling agent? Upsets Druids outside of the city.
+
+# Pantheon
+
+- People worship `Kelemvor`, who was responsible for quarantining the undead.
+    - Kelemvor has a neutral relationship with the Ravenqueen, however, the individual followers don't exactly see eye to eye. Similar to how maybe christians view mormons.
+- Kelemvor is at extreme odds with `Velsharoon` who is responsible for the undead hordes from the Shadowfell, and `Talona` for her causing unnatural disease and death.
+- Kelemvor has a positive relationship with `Lathander` who strictly opposes death. 
