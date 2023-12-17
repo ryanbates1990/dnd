@@ -10,6 +10,12 @@ There is an old wives tale that a small gemstone should be placed on any entranc
 
 # Landmarks
 
+## Hearthstone Square
+
+As you enter deeper into the city you start to smell the wood fire and see the smoke of the large, communal hearth that lies in the heart of the district. 
+
+`GM Note:` This central square serves as a meeting point for residents, where they share stories, exchange goods, and gather for impromptu performances. The hearth, always kept burning, symbolizes the warmth and solidarity within the community.
+
 ## Cathedral of Kelemvor
 
 As you approach the outskirts of Humble Haven, the imposing silhouette of the Sentinel Sanctuary of Kelemvor comes into view. While not adorned with excessive opulence, the cathedral stands as a testament to both solemnity and strength. Constructed from sturdy stone and adorned with minimalistic but finely crafted ironwork, the sanctuary reflects a sense of seriousness and bluntness. In front of the church is a lone willowtree.

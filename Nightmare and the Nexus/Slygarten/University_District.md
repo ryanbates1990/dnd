@@ -6,4 +6,14 @@ The first thing you notice about Slygarten University is that the air is filled 
 
 This led to great advancement in Elemental Convergence. Elemental convergence allows us to harness the power of elemental forces in innovative ways. This led to the development of elemental-infused materials, advanced energy sources, and the creation of powerful elemental constructs for various purposes. The foul immigration piqued interest in planar studies, given that undead could seemingly crossover so easily from the Shadowfell. Planar travel is still not fully understood, but after the `Great Wheel Cosmology` theory, planologists were able to harness planar energy. This includes creating powerful magical batteries, energy sources for large-scale enchantments, and sustainable magical infrastructure that powers various aspects of the city.
 
-## Landmarks
+# Landmarks
+
+## Arcane Rotunda
+
+As you enter the University District, your gaze is immediately drawn to the Arcane Rotunda, a towering structure with a domed roof adorned with magical runes that glow softly in various hues. A large, levitating crystal at the pinnacle of the rotunda channels magical energy, creating a mesmerizing display visible from afar.
+
+`GM Note:` The rotunda serves as a central hub for academic gatherings, hosting lectures, debates, and public discussions on magical theories and scientific breakthroughs.
+
+## Slygarten Library Tower
+
+Rising majestically above the other buildings is the Slygarten Library Tower, a structure dedicated to the preservation of knowledge and the pursuit of wisdom. The tower houses an extensive collection of ancient tomes, magical manuscripts, and scholarly works. The exterior is decorated with intricate carvings depicting scenes from the district's history, emphasizing its role as the academic heart of the city.
