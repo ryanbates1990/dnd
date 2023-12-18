@@ -94,6 +94,7 @@ Cockfighting: Humble Haven
 **Specialists**
 - Metal Workers (forgeheart)
 - Magic Infusion (CW District)
+- Legal Services (Atrani)
 
 **Knowledge**
 - Slygarten University Library Tower
