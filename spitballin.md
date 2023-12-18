@@ -88,6 +88,7 @@ Cockfighting: Humble Haven
 **Shopping**
 - Jewelers (Atrani: Adolphus Rockwell's place)
 - Weapons/Armour (Forgeheart)
+- Magic Weapons/Amour (CW)
 - Potions (Humble Haven)
 
 **Specialists**
