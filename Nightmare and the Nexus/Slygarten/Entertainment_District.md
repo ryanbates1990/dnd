@@ -6,13 +6,15 @@ The main boulevard, Feylight Avenue, is lined with whimsical lampposts that emit
 
 `GM History Note: ` It originated as a humble gathering of street performers and traveling shows where minstrels, jesters, and performers sought to entertain the local populace. The district evolved with the cities growth and experienced a golden age of performance and experienced a cultural renaissance. However, tragedy struck and swept through the district, leaving much of the district in ruins. With civic pride, the district was rebuilt, incorporating modern amenities and architectural marvels while preserving its cultural heritage. Embracing teh advancements of the age, the district seamlessly integrated magical and technological innovations into its performances. Illusion enhanced plays, enchanted gaming experiences, and captivating holographic displays became staples, setting the district apart as a pioneer in cutting-edge entertainment.
 
-## Landmarks
+# Landmarks
 
-**Vertucci's**
-A bustling gaming hall where goblins oversee games of chance and skill. From magical card games to enchanted dice, visitors can try their luck against clever goblin croupiers.
+## Vertucci's Game House
+beams of light shoot to the sky drawing attention to an impressive building with large, marble columns and is topped with a golden crown. The entrance is framed by an arched doorway adorned with intricate carvings depicting iconic game pieces, playing cards, fey creatures. A pair of whimsically crafted gargoyle statues, each holding a giant twenty-sided die flank the entrance, beckoning you to enter.  Each window is adorned with intricate wrought-iron designs shaped like dice, game tokens, and playing cards, creating an intricate tapestry of gaming symbols.
 
-**The Fable Theater**
-Ornate theaters showcase magical plays, spellbinding operas, and fantastical performances. Each venue boasts enchantments that bring stories to life, blurring the lines between reality and the fantastical realms portrayed on stage.
+`GM Note`: Ran by goblins
+
+## The Fable Theater
+The Fable Theater, an illustrious jewel of The Whimsical Wonders, stands at the heart of the entertainment district, its exterior a testament to the enchantment that awaits within. The theater is a grand structure, its facade adorned with intricate carvings and magical embellishments. Twin marble staircases with ornate railings lead up to the theater's entrance, where a pair of enchanted doors crafted to resemble open storybooks beckon patrons to step into a world of wonder. The doors are inscribed with swirling scripts of ancient tales, and as they swing open, a soft, melodious tune reminiscent of magical storytelling fills the air. The theater's name, "Fable Theater," is written in elegant, swirling script above the marquee. The letters appear to dance and shift, as if each performance contributes to the ongoing narrative of the venue itself.
 
 ## Locations
 
