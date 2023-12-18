@@ -4,4 +4,12 @@ Nestled in the heart of the city, the Opulent Quarter stands as a testament to w
 
 `GM History Note: ` Originally was just land occupied by wealthy estates, it quickly became the focal point for politcal machinations and clandestine dealings. The Noble District weathered periods of turmoil, including civil unrest, invasions, and internal conflicts. Despite challenges, the aristocracy displayed resilience, using their resources to rebuild and reinforce their status. The district's enduring presence became a symbol of noble strength and determination. Today, the Noble District remains a center of cultural refinement and social elegance. It hosts exclusive events, galas, and cultural festivals that attract both the aristocracy and the city's elite. The district's theaters, galleries, and social clubs continue to be venues for high-profile gatherings.
 
-## Landmarks
+# Landmarks
+
+## Heroes' Plaza
+
+Heroes' Plaza is a central square within the Atrani District, featuring large fountains with sculptures depicting mighty heroes triumphing over ferocious beasts. The square is a gathering place for the aristocracy, and the rhythmic flow of water from the fountains adds a soothing ambiance to the surroundings. Elaborate benches and lampposts with golden embellishments provide an ideal setting for leisurely strolls and socializing.
+
+## The Grand Atrium
+
+At the heart of the Atrani District stands The Grand Atrium, a majestic structure that serves as a venue for high-profile gatherings and galas. The exterior is characterized by grand archways, intricate stained glass windows, and a towering dome. Elaborate carvings and gold leaf details embellish the facade, creating an air of opulence and refinement.
