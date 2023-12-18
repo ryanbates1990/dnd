@@ -10,4 +10,12 @@ Anymore, the district is largely owned by a famous jeweler (who lives in the wea
 
 city produces not just steel but precious metals as well.
 
-## Landmarks
+# Landmarks
+
+## Rockwell Foundry
+
+Dominating the skyline of Forgeheart is the imposing Rockwell Foundry, a massive industrial complex owned by the influential jeweler, Adolphus Rockwell. The foundry is a labyrinth of interconnected workshops, smelters, and forges, surrounded by a high metal fence adorned with elaborate wrought-iron designs. The exterior is marked by a colossal smokestack that billows thick clouds of smoke into the sky, an ever-present testament to the district's industrious activity.
+
+## The Ember Plaza
+
+As you step into Forgeheart, you find yourself in the Ember Plaza, a bustling square at the heart of the district. The plaza is adorned with a towering sculpture made entirely of molten metal, depicting a stylized forge hammer striking an anvil. The sculpture radiates heat, and its surface gleams with the glow of freshly forged steel. Surrounding the plaza are small stalls and shops, each showcasing intricately crafted metalwork and tools.
