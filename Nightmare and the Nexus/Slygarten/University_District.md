@@ -14,6 +14,6 @@ As you enter the University District, your gaze is immediately drawn to the Arca
 
 `GM Note:` The rotunda serves as a central hub for academic gatherings, hosting lectures, debates, and public discussions on magical theories and scientific breakthroughs.
 
-## Slygarten Library Tower
+## Slygarten University Library Tower
 
 Rising majestically above the other buildings is the Slygarten Library Tower, a structure dedicated to the preservation of knowledge and the pursuit of wisdom. The tower houses an extensive collection of ancient tomes, magical manuscripts, and scholarly works. The exterior is decorated with intricate carvings depicting scenes from the district's history, emphasizing its role as the academic heart of the city.

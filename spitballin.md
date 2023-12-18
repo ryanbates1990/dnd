@@ -18,40 +18,12 @@ would like for the players to ultimately discover the lab and uncover things hap
 1. A Githyanki creature disrobed and sitting in an uncomfortable chair being interrogated by men in white coats and you can see one put out a smoke on the skin of the Gith.
 1. A large amount of precious gems and metals being put into crates with false bottoms and filled with innocuous materials and being loaded into carts.
 
-# Villains
-
-## Mayor Theodore Blackburne 
-
-He came to power by persuading (financially) a vote to elect from several university memberes who sit on the board of the city. This bribery is kept secret. The Van Green family has suspected this and is desperate to uncover this fact and bring it to light.
-
-has started searching exports for particular outgoing metals that bond properly with a newly discovered metal from the astral plane. This was discovered within the Astral Nexus Laboratory, a laboratory specializing in planar discovery. Mayor Blackburne cut all funding for the project when he took office 2 years ago, however, unbeknownst to the public, he continued operation privately after finding out they discovered a convenient way to enter the astral plane.
-
-His goal of course, is to amass incredible sums of money for his own satisfaction. To do this, his lab needs to be secret, he needs a buyer for resources he uncovers (and for buyers to understand their value), and he needs security.
-
-(From slack, a separate note) Point of inspiration: The evil mayor could be after a means to teleport through the astral plane at will - It turns out he is a shardar-kai in disguise who’s lover is trapped in a ‘quarantined’ demi plane of undead. He means to create a breach in the astral plane and force his way in and release an artifact that is responsible for the planar tether.
-- If investigating his home/office he could have a painted portrait of a royal drow lady stowed in a closet.
-- His past is generally unknown
-- Some of his followers worship the Raven Queen
-- He is known in the town to be single
-- Think the key is that we need to have reasons why he was persuasive as a ‘new’ political candidate
-The undead tower could have several legendary artifacts working together. Wall of Force/antilife shell, etc. Or it could have Godly interference.
-
-Would need to make a key dungeon for his home
-
-## Rael
-
-Servant of Lolth with his lover, has escaped to a life of seculusion and decadence that sometimes results in the abuse of others.
-
 ### Toolkit
 
 1. High Inquisitor Seraphina Darkspire
 1. City guards (He can use these to 'imprison' the players on trumped up charges and delay any sort of investigation they're doing.)
 1. A Goon Squad
 1. Former Employer (Silas) to feed information to the players.
-
-### Religion Notes
-- She was originally a much beloved elf queen from the Feywild. The Ravenqueen was originally ushering the elves to Arvandor (a divine realm), but some of her wizard follwers siphoned some of the ritual magic into themselves for their own gain. In retaliation the Ravenqueen pushed them severely with a burst of divine fury. This corrupted the ritual and dragged the queen and her followers into the Shadowfell where she was killed. But because of her divine powers arose and grew in madness and grief (probably obsessed with memories of her previous life). She then transformed the wizards into wretched avian forms known as nagpas and banished them forever. Her form dissolved into disconnected sensory perceptions and is now extremely mysterious because of that.
-- It is Rumored that she led a campaign against a god of death who held dominion in Pluton, an a gloom plane in Hades
 
 ### City Districts:
 - University
@@ -91,20 +63,34 @@ Servant of Lolth with his lover, has escaped to a life of seculusion and decaden
 - come up with an adventure site for each faction??
 - we need to come up with one off locations within the city for prison etc.
 
-## History Note
-- Undead and other evil remnants weren't behind the screen with the divine quarantine was issued. This creates certain dangers and superstitions.
+# Services
 
-- for luke's character pockets of undead are quarantined and house Blackburne's woman is a part of a group of drow being harvested by vampyres. His master is locked behind the divine quarantine that is a city state ruled by vampyres. The vampyres rule a slum of drow people kept alive for their blood.
+These locations should be keyed and detailed with basic actions and characters within
 
-- we will `need churches` dedicated to whatever god put the undead behind the quarantine as gratitude.. however some people may have a 'what have they done for me lately type attitude'
+**Entertainment:**  
+Entertainment District: gambling house, theater, house of illusions  
 
-- It seems that the *Great Wheel Cosmology* theory has some flaws. The boys at the astral nexus laboratory have come up with a more accurate mathematical model that can greater predict the relationships between the planes
+**Bars:**  
+- one in Humble Haven
+- one in Atrani
+- a strip of bars between the university and clockwork districts
+- and a strip of bars (more like clubs) in the entertainment district
 
-- could be a river for the forgeheart district to use as a cooling agent? Upsets Druids outside of the city.
+**Inns:**
+- one in Atrani
+- one in the merchants district
+- one in Humble Haven
 
-# Pantheon
+**Banking:**
+merchants guild
 
-- People worship `Kelemvor`, who was responsible for quarantining the undead.
-    - Kelemvor has a neutral relationship with the Ravenqueen, however, the individual followers don't exactly see eye to eye. Similar to how maybe christians view mormons.
-- Kelemvor is at extreme odds with `Velsharoon` who is responsible for the undead hordes from the Shadowfell, and `Talona` for her causing unnatural disease and death.
-- Kelemvor has a positive relationship with `Lathander` who strictly opposes death. 
+**Shopping**
+
+**Knowledge** (libary)
+
+**Religion**
+- Cathedral of Kelemvor
+
+**Hospitals**
+
+**Prison**
