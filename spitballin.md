@@ -68,7 +68,8 @@ would like for the players to ultimately discover the lab and uncover things hap
 These locations should be keyed and detailed with basic actions and characters within
 
 **Entertainment:**  
-Entertainment District: gambling house, theater, house of illusions  
+Entertainment District: gambling house, theater, house of illusions
+Cockfighting: Humble Haven
 
 **Bars:**  
 - one in Humble Haven
@@ -82,15 +83,20 @@ Entertainment District: gambling house, theater, house of illusions
 - one in Humble Haven
 
 **Banking:**
-merchants guild
+- merchants guild
 
 **Shopping**
+- Jewelers (Atrani: Adolphus Rockwell's place)
+- Weapons/Armour (Forgeheart)
+- Potions (Humble Haven)
 
-**Knowledge** (libary)
+**Specialists**
+- Metal Workers (forgeheart)
+- Magic Infusion (CW District)
+
+**Knowledge**
+- Slygarten University Library Tower
 
 **Religion**
-- Cathedral of Kelemvor
-
-**Hospitals**
-
-**Prison**
+- Cathedral of Kelemvor (Humble Haven)
+- Church of the Raven Queen (Merchants District)
