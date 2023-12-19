@@ -13,3 +13,12 @@ Heroes' Plaza is a central square within the Atrani District, featuring large fo
 ## The Grand Atrium
 
 At the heart of the Atrani District stands The Grand Atrium, a majestic structure that serves as a venue for high-profile gatherings and galas. The exterior is characterized by grand archways, intricate stained glass windows, and a towering dome. Elaborate carvings and gold leaf details embellish the facade, creating an air of opulence and refinement.
+
+# Locations
+
+## A1 - The Pelican
+
+Sophisticated, yet cozy, and warmly lit. The bar boasts a collection of nautical decor, including a crystal chandelier in the shape of a ship's wheel. The Bar has much wine and cocktails to choose from. The barmaid is dressed in what looks like 'formal' seafarring apparel (white puffy shirt, black pants). The patrons are nicely dressed, predominantly men, and are mostly engaged in quite conversation, a few puffing on pipes
+
+- Barmaid's name is 'Roxanne'
+- names on hand: 'Albert, Horas, Seamus (dwarf) 
