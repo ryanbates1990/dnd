@@ -61,8 +61,11 @@ would like for the players to ultimately discover the lab and uncover things hap
     - Need 'task table' for merchants guild
     - Need 'Rumor table' for bars
     - Need 'background event table' for flyers
-- itemize some locations with basic descriptions/characters within each district
+    - Should come up with a list of magical items/ammo/clothing/potions/etc. stock the shops.
+- Need Scenic Encounter Tables populated 
+    - need these for each district as well.
 - come up with an adventure site for each faction??
+    - maybe just harden the factions motives and what they are working towards.
 - we need to come up with one off locations within the city for prison etc.
 
 # Services
@@ -78,6 +81,9 @@ Entertainment District: gambling house, theater, house of illusions
 
 **Shopping**
 - Jewelers (Atrani: Adolphus Rockwell's place)
+- clothing shop/magical robes/leather
+- Hunter's shop (ammo, bows)
+- magic shop for rarer spell components
 
 **Knowledge**
 - Slygarten University Library Tower
