@@ -16,7 +16,7 @@ At the heart of the Atrani District stands The Grand Atrium, a majestic structur
 
 # Locations
 
-## A1 - The Pelican
+## A1 - The Pelican (Bar)
 
 Sophisticated, yet cozy, and warmly lit. The bar boasts a collection of nautical decor, including a crystal chandelier in the shape of a ship's wheel. The Bar has much wine and cocktails to choose from. The barmaid is dressed in what looks like 'formal' seafarring apparel (white puffy shirt, black pants). The patrons are nicely dressed, predominantly men, and are mostly engaged in quite conversation, a few puffing on pipes
 
@@ -24,7 +24,7 @@ Sophisticated, yet cozy, and warmly lit. The bar boasts a collection of nautical
 - names on hand: 'Albert, Horas, Seamus (dwarf) 
 
 
-## A2 - The Ivory Retreat
+## A2 - The Ivory Retreat (Inn)
 > An opulent inn situated in the heart of the Noble District, The Ivory Retreat exudes an air of refined elegance. The polished marble floors reflect the warm glow of crystal chandeliers hanging from the high ceilings. A discreet pianist plays a soft melody near the entrance, creating a sophisticated backdrop to the conversations that fill the room.
 
 - Innkeeper is Lady Isabella, a poised and graceful woman with a keen eye for detail.
@@ -35,3 +35,17 @@ Sophisticated, yet cozy, and warmly lit. The bar boasts a collection of nautical
 - Patrons often include nobles, diplomats, and distinguished travelers. Notable guests: Lord Reginald, Lady Genevieve, Sir Percival, Countess Elara.
 
 "Welcome to The Ivory Retreat, how can I help you?"
+
+## A3 - Ivorybane Legal Services
+
+> Ivorybane Legal Services is an esteemed establishment that offers legal services to the city's elite. The exterior boasts intricately carved pillars and a grand entrance adorned with the scales of justice. As you step into The Gilded Court, you are enveloped in an aura of sophistication and privilege. It is quiet. You hear soft speaking but predominantly the sound of shoes on a marble floor. Clients await their appointments surrounded by tasteful artwork and shelves of legal tomes. Upon entrance, you have garnered the attention of a secretary (`Jennifer`), eager to help.
+
+- **Senior Advocate:** Lady Seraphina Ivorybane (elf), a highly respected, but stiff, legal expert with a reputation for both integrity and flexibility.
+
+**Legal Services Offered:**
+1. **Litigation Support:** The Gilded Court handles civil and criminal cases, representing clients in the city's highest courts.
+2. **Legal Consultations:** Individuals seek advice on matters of inheritance, property disputes, and legal intricacies.
+3. **Contract Drafting:** Skilled scribes and advocates create meticulous legal documents, from marriage contracts to business agreements.
+
+**Opportunity for Bribery:**
+- **Shadowed Corridors:** Whispers abound of discreet corridors leading to the offices of certain clerks and judges. A perceptive individual might catch wind of opportunities to influence legal outcomes through less-than-legal means.

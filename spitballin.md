@@ -57,8 +57,10 @@ would like for the players to ultimately discover the lab and uncover things hap
 - druids outside of the city that get upset with the pollution from the factory?
 
 # Next Steps
-- itemizing a couple of landmarks
 - itemizing a couple services
+    - Need 'task table' for merchants guild
+    - Need 'Rumor table' for bars
+    - Need 'background event table' for flyers
 - itemize some locations with basic descriptions/characters within each district
 - come up with an adventure site for each faction??
 - we need to come up with one off locations within the city for prison etc.
@@ -71,29 +73,11 @@ These locations should be keyed and detailed with basic actions and characters w
 Entertainment District: gambling house, theater, house of illusions
 
 **Bars:**  
-- one in Humble Haven (done)
-- one in Atrani (done)
 - a strip of bars between the university and clockwork districts
 - and a strip of bars (more like clubs) in the entertainment district
 
-**Inns:**
-- one in Atrani (done)
-- one in the merchants district (done)
-- one in Humble Haven (done) 
-
-**Banking:**
-- merchants guild
-
 **Shopping**
 - Jewelers (Atrani: Adolphus Rockwell's place)
-- Weapons/Armour (Forgeheart) (done)
-- Magic Weapons/Amour (CW) (done)
-- Potions (Humble Haven)
-
-**Specialists**
-- Metal Workers (forgeheart)
-- Magic Infusion (CW District)
-- Legal Services (Atrani)
 
 **Knowledge**
 - Slygarten University Library Tower
@@ -101,3 +85,4 @@ Entertainment District: gambling house, theater, house of illusions
 **Religion**
 - Cathedral of Kelemvor (Humble Haven)
 - Church of the Raven Queen (Merchants District)
+- Church of Lathander?

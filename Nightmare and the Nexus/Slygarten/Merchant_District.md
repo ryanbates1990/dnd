@@ -26,3 +26,43 @@ Standing as a symbol of unity and strength, the Guildhall of the Merchant's Guil
 - Rooms are reasonably priced at 2 gold pieces per night, featuring comfortable furnishings, artistic decor, and private baths.
 - The menu offers Spiced Riverfish stew, golden saffron risotto, and artisinal flatbreads, as well as locally brewed beers and wines, and a small selection of liquors.
 - Regular patrons include traders, artisans, and scholars. Notable guests: Master Artisan Selena, Trader Eamon, and Scholar-in-Residence Alaric.
+
+## M2 - Guildhall of the Merchant's Guild
+
+> The exterior boasts ornate carvings and a majestic banner displaying the guild's emblem. The hall is packed with people during the day and well guarded at night
+
+`GM Note:` The guildhall as a group of desperate traders who needed to protect their investments and came up with armored carts/hired swords, and other more crafty means of protected their trade. More modern advancement includes magical communication systems with other cities including scrying pools, and secret routes.
+
+- Guildmaster is `Lady Yvanna Harrowind`, a shrewd and influential figure with a keen mind for business and diplomacy.
+    - if enough favor is gained, can gain access to group storage or clued in on locations of legendary treasures.
+
+**1. Guildmaster's Office:**
+   - A lavishly decorated office, belonging to Lady Yvanna Harrowind, the Guildmaster. The room exudes authority and sophistication, with shelves lined with ledgers and scrolls containing the guild's records.
+
+**2. Marketplace Pavilion:**
+   - A spacious area where guild members set up stalls to showcase their wares. Vibrant displays of goods, from exotic spices to finely woven textiles, create a visual feast for visitors and guild members alike.
+
+**3. Guild Assembly Hall:**
+   - A large hall with a raised platform for addressing guild members during meetings. Elaborate tapestries depicting successful trade routes and historic agreements adorn the walls, showcasing the guild's achievements.
+
+**4. Contract Board:**
+   - A centralized board displaying various contracts, requests, and trade opportunities. Guild members peruse the board for potential jobs, partnerships, or investment opportunities.
+
+**5. Workshop Rooms:**
+   - Spaces designated for workshops and seminars. Knowledgeable members impart insights on topics such as negotiation tactics, market trends, and the intricacies of international trade.
+
+**6. Treasury Vault:**
+   - A secure vault guarded by sturdy doors and enchanted locks. Within, precious resources, important documents, and the guild's treasury are safeguarded against theft or unauthorized access.
+
+**7. Emissary's Lounge:**
+   - A comfortable lounge area for guild emissaries and diplomats. Plush furnishings, maps of trade routes, and exotic artifacts collected from various regions create an atmosphere of worldly sophistication.
+
+**8. Market Research Bureau:**
+   - A dedicated space where market researchers analyze data, study trends, and compile reports. The room is filled with charts, maps, and magical devices for scrying on distant markets.
+
+**9. Legal Consultation Office:**
+   - A quiet office where legal consultants provide advice to guild members. The shelves are lined with legal tomes, and a large table serves as a meeting space for legal discussions.
+
+
+
+
