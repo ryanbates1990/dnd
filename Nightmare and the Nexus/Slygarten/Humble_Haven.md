@@ -52,7 +52,7 @@ As you approach the outskirts of Humble Haven, the imposing silhouette of the Se
 
 ## H3 - The Fox Hole (Inn)
 
-> The Fox HOle provides a humble sanctuary for weary travelers and locals alike. The creaking wooden floors tell tales of countless footsteps, and the aroma of simple, hearty meals wafts from the small kitchen. The communal area features mismatched tables and chairs, and a roaring fireplace in the corner provides warmth and a comforting crackle.
+> You first notice creaky wooden floors, and the aroma of simple, hearty meals wafts from the small kitchen. The communal area features mismatched tables and chairs, and a roaring fireplace in the corner provides warmth and a comforting crackle.
 
 - Innkeeper is Old Maggie
 - Rooms are available for a modest 3 silver piece per night, offering a basic but clean space with well-worn quilts and a washbasin.
