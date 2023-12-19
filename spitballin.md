@@ -72,22 +72,22 @@ Entertainment District: gambling house, theater, house of illusions
 
 **Bars:**  
 - one in Humble Haven (done)
-- one in Atrani
+- one in Atrani (done)
 - a strip of bars between the university and clockwork districts
 - and a strip of bars (more like clubs) in the entertainment district
 
 **Inns:**
-- one in Atrani
-- one in the merchants district
-- one in Humble Haven
+- one in Atrani (done)
+- one in the merchants district (done)
+- one in Humble Haven (done) 
 
 **Banking:**
 - merchants guild
 
 **Shopping**
 - Jewelers (Atrani: Adolphus Rockwell's place)
-- Weapons/Armour (Forgeheart)
-- Magic Weapons/Amour (CW)
+- Weapons/Armour (Forgeheart) (done)
+- Magic Weapons/Amour (CW) (done)
 - Potions (Humble Haven)
 
 **Specialists**

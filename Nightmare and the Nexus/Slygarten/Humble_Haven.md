@@ -42,10 +42,19 @@ As you approach the outskirts of Humble Haven, the imposing silhouette of the Se
 **3 - The Whispering Crypts**: 
 > Beneath the cathedral, a network of crypts known as the Whispering Crypts houses the remains of the departed. Soft whispers echo through the hallowed halls as mourners pay their respects to the deceased.
 
-## H2 - The Poisoned Well
+## H2 - The Poisoned Well (Bar)
 
 > A dim, divey bar with squeaky floorboords and a greasy barman with a gut that could clear a table if he turned to quickly. Couple of drunk and alone types, a couple men and women doing their reading over a pint, and some older folk having murmering conversation in a booth in the back of the pub. The menu is
 
 - Barman is Hector
 - Beer is 5cp, other offerings include peanuts and pretzels
 - Names for patrons: Philip, Howell, Clyde, Cecelia, Maude
+
+## H3 - The Fox Hole (Inn)
+
+> The Fox HOle provides a humble sanctuary for weary travelers and locals alike. The creaking wooden floors tell tales of countless footsteps, and the aroma of simple, hearty meals wafts from the small kitchen. The communal area features mismatched tables and chairs, and a roaring fireplace in the corner provides warmth and a comforting crackle.
+
+- Innkeeper is Old Maggie
+- Rooms are available for a modest 3 silver piece per night, offering a basic but clean space with well-worn quilts and a washbasin.
+- The menu consists of hearty, affordable fare – stew, bread, and simple ales.
+- Named patrons: Gruff, Lily, Tom, Greta, and Little Jake.

@@ -15,3 +15,14 @@ Grand Exchange Square is the vibrant heart of the Merchant District, a bustling 
 ## Guildhall of the Merchant's Guild
 
 Standing as a symbol of unity and strength, the Guildhall of the Merchant's Guild is an impressive structure at the edge of the central square. The guildhall is a multi-story building with a grand entrance adorned with gilded motifs representing various trade routes and symbols of protection. A large clock, a gift from the Clockwork District, hangs prominently on the facade
+
+# Locations
+
+## M1 - The Gilded Quill Inn
+
+> The Gilded Quill Inn is a charming establishment. The exterior is adorned with tasteful wooden carvings and a wrought-iron sign displaying a stylized quill. The common area boasts a cozy fireplace, inviting sofas, and a well-stocked bookshelf for patrons to peruse at their leisure.
+
+- Innkeeper is Master Thaddeus, a friendly and well-spoken individual who prides himself on providing quality service.
+- Rooms are reasonably priced at 2 gold pieces per night, featuring comfortable furnishings, artistic decor, and private baths.
+- The menu offers Spiced Riverfish stew, golden saffron risotto, and artisinal flatbreads, as well as locally brewed beers and wines, and a small selection of liquors.
+- Regular patrons include traders, artisans, and scholars. Notable guests: Master Artisan Selena, Trader Eamon, and Scholar-in-Residence Alaric.

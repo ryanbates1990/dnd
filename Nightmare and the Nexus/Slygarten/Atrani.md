@@ -22,3 +22,16 @@ Sophisticated, yet cozy, and warmly lit. The bar boasts a collection of nautical
 
 - Barmaid's name is 'Roxanne'
 - names on hand: 'Albert, Horas, Seamus (dwarf) 
+
+
+## A2 - The Ivory Retreat
+> An opulent inn situated in the heart of the Noble District, The Ivory Retreat exudes an air of refined elegance. The polished marble floors reflect the warm glow of crystal chandeliers hanging from the high ceilings. A discreet pianist plays a soft melody near the entrance, creating a sophisticated backdrop to the conversations that fill the room.
+
+- Innkeeper is Lady Isabella, a poised and graceful woman with a keen eye for detail.
+- 3 Doormen
+- Rooms start at 10 gold pieces per night, adorned with silken drapes, plush furnishings, and intricately carved furniture.
+- Complimentary services include a personal valet for each guest and access to a well-maintained library.
+- The menu features an extensive selection of fine wines, aged spirits, and delicacies prepared by a renowned chef.
+- Patrons often include nobles, diplomats, and distinguished travelers. Notable guests: Lord Reginald, Lady Genevieve, Sir Percival, Countess Elara.
+
+"Welcome to The Ivory Retreat, how can I help you?"

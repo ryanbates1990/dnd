@@ -19,3 +19,14 @@ Dominating the skyline of Forgeheart is the imposing Rockwell Foundry, a massive
 ## The Ember Plaza
 
 As you step into Forgeheart, you find yourself in the Ember Plaza, a bustling square at the heart of the district. The plaza is adorned with a towering sculpture made entirely of molten metal, depicting a stylized forge hammer striking an anvil. The sculpture radiates heat, and its surface gleams with the glow of freshly forged steel. Surrounding the plaza are small stalls and shops, each showcasing intricately crafted metalwork and tools.
+
+# F1 - Kaldor's Forge
+
+> Located in the heart of the Forgeheart District Kaldor's Forge stands as a testament to craftsmanship and skill in metallurgy. The exterior of the shop is adorned with intricately wrought iron and steel work, showcasing samples of the exquisite armor and weapons forged within. The interior is filled with the rhythmic clanging of hammers on anvils and the warm glow of the forge, creating an immersive atmosphere of craftsmanship.
+
+- Proprietor is `Master Blacksmith Kaldor Ironhand`, a seasoned dwarven artisan with a reputation for quality craftsmanship and custom designs.
+- A skilled, joyful apprentice, `Elara`, assists in managing the shop and interacting with customers.
+- The shop offers an impressive array of standard armor, weapons, and tools, showcasing Kaldor's meticulous attention to detail and expert metalworking.
+- Custom Orders: Patrons can commission armor, weapons, or other metalwork tailored to their specifications, with consultations available for personalized designs.
+- Services include repairs, sharpening, and enchantment enhancement for existing equipment.
+
