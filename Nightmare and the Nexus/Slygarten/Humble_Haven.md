@@ -58,3 +58,14 @@ As you approach the outskirts of Humble Haven, the imposing silhouette of the Se
 - Rooms are available for a modest 3 silver piece per night, offering a basic but clean space with well-worn quilts and a washbasin.
 - The menu consists of hearty, affordable fare – stew, bread, and simple ales.
 - Named patrons: Gruff, Lily, Tom, Greta, and Little Jake.
+
+## H4 - Apothecary
+
+> Nestled amidst the narrow lanes of Humble Haven, the apothecary is identified by a weathered wooden sign swings gently overhead, bearing a simplistic illustration of a potion bottle. The shop is adorned with dried herbs, hanging plants, and warm-colored curtains, creating a cozy and welcoming environment and providing a floral scent. You can hear an apprentice unpacking boxes in the background
+
+- Proprietor is Apothecary `Thessa Hearthwise`, a kind-hearted healer with a wealth of knowledge in herbalism and potion-making.
+- - Apprentice Healer, `Tomas Brightwater`, assists customers with inquiries and helps manage the inventory.
+- The shop offers a variety of potions, salves, and elixirs designed mostly to address common ailments and enhance daily life.
+- Custom Brews: Thessa takes requests for custom potions, tailoring remedies to specific needs. Customers can consult with her about personalized concoctions.
+- Affordable Prices: Recognizing the economic constraints of the district, Thessa prices her potions affordably, ensuring accessibility to all residents.
+
