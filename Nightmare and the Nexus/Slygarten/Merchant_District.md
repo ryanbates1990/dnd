@@ -60,8 +60,6 @@ Standing as a symbol of unity and strength, the Guildhall of the Merchant's Guil
 **8. Market Research Bureau:**
    - A dedicated space where market researchers analyze data, study trends, and compile reports. The room is filled with charts, maps, and magical devices for scrying on distant markets.
 
-**9. Legal Consultation Office:**
-   - A quiet office where legal consultants provide advice to guild members. The shelves are lined with legal tomes, and a large table serves as a meeting space for legal discussions.
 
 
 
