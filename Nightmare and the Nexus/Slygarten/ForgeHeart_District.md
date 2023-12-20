@@ -20,7 +20,9 @@ Dominating the skyline of Forgeheart is the imposing Rockwell Foundry, a massive
 
 As you step into Forgeheart, you find yourself in the Ember Plaza, a bustling square at the heart of the district. The plaza is adorned with a towering sculpture made entirely of molten metal, depicting a stylized forge hammer striking an anvil. The sculpture radiates heat, and its surface gleams with the glow of freshly forged steel. Surrounding the plaza are small stalls and shops, each showcasing intricately crafted metalwork and tools.
 
-# F1 - Kaldor's Forge
+# Locations
+
+## F1 - Kaldor's Forge
 
 > Located in the heart of the Forgeheart District Kaldor's Forge stands as a testament to craftsmanship and skill in metallurgy. The exterior of the shop is adorned with intricately wrought iron and steel work, showcasing samples of the exquisite armor and weapons forged within. The interior is filled with the rhythmic clanging of hammers on anvils and the warm glow of the forge, creating an immersive atmosphere of craftsmanship.
 
@@ -29,4 +31,24 @@ As you step into Forgeheart, you find yourself in the Ember Plaza, a bustling sq
 - The shop offers an impressive array of standard armor, weapons, and tools, showcasing Kaldor's meticulous attention to detail and expert metalworking.
 - Custom Orders: Patrons can commission armor, weapons, or other metalwork tailored to their specifications, with consultations available for personalized designs.
 - Services include repairs, sharpening, and enchantment enhancement for existing equipment.
+
+## Automata Marvels
+
+> The shop's exterior is adorned with brass gears and enchanted lights that flicker in a rhythmic dance. A sign above the entrance depicts a metallic golem in various poses. Upon entering Automata Marvels, the air hums with the gentle whirring of gears and the faint scent of enchanted oils. Shelves are lined with miniature constructs, intricate clockwork animals, and enchanted figurines. 
+
+The shopkeeper, a gnomish artificer named `Felicity Gearspark`, greets visitors with a warm smile.
+
+#### **Services**
+
+- *Custom Construct Orders:* offers the creation of custom constructs tailored to the customer's specifications.
+- *Repairs and Upgrades:* Felicity provides maintenance services for constructs, as well as enhancements and magical upgrades.
+- *Clockwork Curiosities:* Aside from large constructs, the shop sells smaller clockwork curiosities, including animated trinkets and tiny automatons.
+
+#### **Notable Features**
+
+1. *Golem Showcase:* A dedicated section of the shop showcases impressive golem models of various materials and sizes, each accompanied by a plaque detailing its unique capabilities.
+  
+2. *Enchanting Station:* A magical workstation where Felicity, with a discerning eye and nimble fingers, imbues constructs with enchanted enhancements. The faint glow of arcane runes illuminates the area.
+
+3. *Automaton Workshop:* In the partially visible workshop area, Felicity tirelessly tinkers with gears and magical components, bringing her creations to life.
 

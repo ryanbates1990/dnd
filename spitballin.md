@@ -64,6 +64,7 @@ would like for the players to ultimately discover the lab and uncover things hap
     - Should come up with a list of magical items/ammo/clothing/potions/etc. stock the shops.
 - Need Scenic Encounter Tables populated 
     - need these for each district as well.
+- Come up with encounters/clues for each faction and what that faction is trying to do.
 - come up with an adventure site for each faction??
     - maybe just harden the factions motives and what they are working towards.
 - we need to come up with one off locations within the city for prison etc.
@@ -76,7 +77,6 @@ These locations should be keyed and detailed with basic actions and characters w
 Entertainment District: gambling house, theater, house of illusions
 
 **Shopping:**  
-Construct shop (forgeheart)
 
 **Bars:**  
 - a strip of bars between the university and clockwork districts
