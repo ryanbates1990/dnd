@@ -75,6 +75,9 @@ These locations should be keyed and detailed with basic actions and characters w
 **Entertainment:**  
 Entertainment District: gambling house, theater, house of illusions
 
+**Shopping:**  
+Construct shop (forgeheart)
+
 **Bars:**  
 - a strip of bars between the university and clockwork districts
 - and a strip of bars (more like clubs) in the entertainment district
