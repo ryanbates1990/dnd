@@ -64,10 +64,27 @@ would like for the players to ultimately discover the lab and uncover things hap
     - Should come up with a list of magical items/ammo/clothing/potions/etc. stock the shops.
 - Need Scenic Encounter Tables populated 
     - need these for each district as well.
-- Come up with encounters/clues for each faction and what that faction is trying to do.
+- `Come up with encounters/clues for each faction and what that faction is trying to do.`
 - come up with an adventure site for each faction??
     - maybe just harden the factions motives and what they are working towards.
 - we need to come up with one off locations within the city for prison etc.
+
+# Kicking Things off
+1. Let players get footing in the city
+1. Loose cart/cargo has false bottoms. Silas witnesses, tries to persuade characters to come to their safehouse unseen that evening.
+    - need to prep Silas's safehouse
+        - the gang provides an engineer that they helped build
+            - The location of the entrance changes (finding an engineer will help them predict the location).
+                - players can identify individuals who are employed, and follow
+                - players can predict the location
+        - the gang notes that a keycard is used to pass the constructs... but doens't know of a modern one
+            - Clockwork Engineer (prep a small lab for this). 
+                - `GM Note`: key cards are activated by reading a sequence that shows under laser light and that sequence needs programmed into a construct.
+                - A constructs's mind is ran on a 'hum' from the small oscillations of a crystal. A constructs mind is synced with the hum of a master crystal. If the master crystal is found, he can read passcodes that he can create a recognizeable key on.
+    - Silas wants to gather information on how to regain access to `Dreese Labs`
+        
+        - Adventure site that for sure needs prepped.
+    - There are a couple engineers/contractors that hold different information that will help the characters reach farther into the laboratory.
 
 # Services
 
