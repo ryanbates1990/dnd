@@ -82,9 +82,10 @@ would like for the players to ultimately discover the lab and uncover things hap
                 - `GM Note`: key cards are activated by reading a sequence that shows under laser light and that sequence needs programmed into a construct.
                 - A constructs's mind is ran on a 'hum' from the small oscillations of a crystal. A constructs mind is synced with the hum of a master crystal. If the master crystal is found, he can read passcodes that he can create a recognizeable key on.
     - Silas wants to gather information on how to regain access to `Dreese Labs`
-        
         - Adventure site that for sure needs prepped.
     - There are a couple engineers/contractors that hold different information that will help the characters reach farther into the laboratory.
+    - the gang can be confronted by mobs/minions to interfere with their progress/bad things can happen to people that they talk to.
+        - need a reason to do this though... maybe they are being tracked by someone using locate object on the stone they took from the cart in the beginning?
 
 # Services
 
