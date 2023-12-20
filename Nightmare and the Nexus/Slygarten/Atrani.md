@@ -49,3 +49,20 @@ Sophisticated, yet cozy, and warmly lit. The bar boasts a collection of nautical
 
 **Opportunity for Bribery:**
 - **Shadowed Corridors:** Whispers abound of discreet corridors leading to the offices of certain clerks and judges. A perceptive individual might catch wind of opportunities to influence legal outcomes through less-than-legal means.
+
+## A4 - Rockwell's (Adolphus Rockwell's Jewel Shop)
+
+> Rockwell's stands as  a beacon of luxury and indulgence, owned by the charismatic Adolphus Rockwell. The exterior boasts grand arched windows framed in gilded gold, showcasing the finest jewels and gems within. Glistening showcases exhibit an array of exquisite jewels, diamonds, and gemstones, each meticulously arranged to catch the light.
+
+`GM Note:` Adolphus runs a blood mine, employs the 'mob' and tries to buy up goods of potential competitors. His dealings are organized in his home, which is reachable through a tunnel from his office. The tunnel is armed by construct golems.
+
+- **Proprietor:** **Adolphus Rockwell:** A portly, impeccably dressed gnome with a twirled mustache, known for his extravagant taste and flamboyant demeanor.
+
+**Luxurious Features:**
+1. **Gemstone Spa Experience:** Adjoining the emporium is a lavish spa where clients can enjoy a massage or indulge in rejuvenating treatments surrounded by the radiant glow of precious stones.
+2. **Consultation Lounges:** Plush lounges adorned with silk pillows provide a comfortable space for clients to discuss bespoke jewelry designs and browse catalogs of rare and unique gems.
+
+**Merchandise:**
+1. **Exquisite Jewelry:** Rings, necklaces, bracelets, and tiaras crafted with the utmost precision and adorned with the rarest gemstones.
+2. **Collector's Gems:** Rare and unique gems, including star sapphires, moonstone diamonds, and elemental crystals, each with a certificate of authenticity.
+3. **Custom Design Service:** Skilled artisans offer personalized jewelry design services, ensuring each piece is a unique reflection of the client's taste and style.

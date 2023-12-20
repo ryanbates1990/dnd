@@ -79,16 +79,7 @@ Entertainment District: gambling house, theater, house of illusions
 - a strip of bars between the university and clockwork districts
 - and a strip of bars (more like clubs) in the entertainment district
 
-**Shopping**
-- Jewelers (Atrani: Adolphus Rockwell's place)
-- clothing shop/magical robes/leather
-- Hunter's shop (ammo, bows)
-- magic shop for rarer spell components
-
-**Knowledge**
-- Slygarten University Library Tower
-
 **Religion**
-- Cathedral of Kelemvor (Humble Haven)
 - Church of the Raven Queen (Merchants District)
 - Church of Lathander?
+

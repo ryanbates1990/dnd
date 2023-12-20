@@ -18,7 +18,7 @@ The Clocktower is a tall and slender tower, reaching several stories high. Its a
 
 # Locations
 
-## C1 - Arcane Armaments Emporium
+## C1 - Arcane Armaments Emporium (Magic armour, weapons)
 
 > The Arcane Armaments Emporium boasts a shimmering sign adorned with arcane symbols that seem to dance with ethereal light. The enchanting ambiance of the shop is enhanced by floating orbs of light, softly illuminating the various magical wares on display. The shop smells like fruity fireworks
 
@@ -28,3 +28,19 @@ The Clocktower is a tall and slender tower, reaching several stories high. Its a
 - Custom Enchantments: Lirella provides consultations for custom enchantments, tailoring magical effects to suit the preferences and needs of discerning customers. Fees may apply.
 - Discounts for Rare Materials: Patrons offering rare magical materials receive discounts on both standard and custom enchanted items.
 - Knowledgeable Assistant, `Thrain Stonescribe`, assists customers in understanding the properties and potential of magical items.
+
+## C2 - Magic Supply Co (Spell supplies, scrolls)
+
+> The exterior exudes an otherworldly glow, with runic symbols adorning the windows and a magical chime that announces each entrance. As you enter the shop, your hair stands up like you're being electrified by lightning. Shelves are lined with crystal vials, arcane sigils, and carefully preserved specimens of magical flora, creating an ambiance of arcane elegance.
+
+- **Proprietress:** `Esmeralda Starwhisper`,  A tall and elegant elven sorceress with silver hair standing on end, wearing flowing robes adorned with celestial motifs.
+
+**Merchandise:**
+1. **Rare Spell Components:** Uncommon herbs, ethereal essences, and other components required for advanced magical rituals and spells.
+2. **Enchanted Crystals:** Gemstones imbued with latent magical energy, suitable for enhancing spells or crafting magical items.
+3. **Scrolls and Tomes:** Grimoires and scrolls containing esoteric spells, rituals, and incantations from various magical traditions.
+4. **Magical Artifacts:** Curiosities such as amulets, trinkets, and small magical devices that are both ornamental and functional.
+
+**Services:**
+- **Component Identification:** Esmeralda offers identification services for unknown magical components, unveiling their properties and potential uses.
+- **Custom Spell Component Kits:** Spellcasters can request personalized kits tailored to their preferred schools of magic or specific needs.

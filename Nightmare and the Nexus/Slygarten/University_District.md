@@ -17,3 +17,29 @@ As you enter the University District, your gaze is immediately drawn to the Arca
 ## Slygarten University Library Tower
 
 Rising majestically above the other buildings is the Slygarten Library Tower, a structure dedicated to the preservation of knowledge and the pursuit of wisdom. The tower houses an extensive collection of ancient tomes, magical manuscripts, and scholarly works. The exterior is decorated with intricate carvings depicting scenes from the district's history, emphasizing its role as the academic heart of the city.
+
+# Locations
+
+## U1 - Slygarten University Library Tower
+
+> Its towering structure overlooks the campus, visible from every corner of the university. Within feature rows and rows of books. On the perimeter are lecture halls that host scholars, mages, and students for discussions, presentations, and seminars.
+
+- **Guardian Librarian:** **Master Archivist Alarion Swiftwind:** A venerable elven scholar with a long, flowing beard and robes adorned with ancient symbols, 
+
+`GM Note`: known for his encyclopedic knowledge and unwavering commitment to the preservation of wisdom.
+
+**Library Tower Features:**  
+1. **Magical Warding:** Protective enchantments safeguard the vast collection within, warding off unauthorized access and ensuring the preservation of the university's treasures.  
+2. **Astral Observatory:** At its peak, an astral observatory allows scholars to study celestial phenomena, making it a hub for astronomers and astrologers.
+
+**Library Collections:**
+1. **Ancient Tomes:** A section dedicated to rare and ancient tomes, containing knowledge from civilizations long gone.
+2. **Arcane Grimoires:** An extensive collection of spellbooks and magical treatises, attracting wizards and sorcerers from far and wide.
+3. **Historical Archives:** Chronicles of the city's history, regional lore, and accounts of past events, meticulously maintained by the university's historians.
+
+**Notable Section:**
+- **The Celestial Vault:** A restricted area housing artifacts and texts related to extraplanar entities, guarded by a celestial guardian, giving and accessible only to the most esteemed scholars. `This is a Planetar`
+
+- **Scriptorium:** A tranquil space where scribes and researchers meticulously copy and transcribe ancient texts.
+
+
