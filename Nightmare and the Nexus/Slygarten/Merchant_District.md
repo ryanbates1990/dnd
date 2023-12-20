@@ -71,19 +71,18 @@ Copy code
 
 > Steelwind Outfitters is a renowned emporium catering to hunters, archers, and outdoor enthusiasts. The exterior boasts a wooden façade adorned with trophies of exotic creatures, and the scent of treated leather wafts from the open door. The shop has a log cabin, cowboy and indians meets big game hunter feel.
 
-- **Proprietor:** Grizzled and seasoned, `Brogan Steelwind`, a former ranger with a wealth of knowledge about the wilderness and its inhabitants.
-- **Hunting Trophies:** Mounted heads of rare beasts, antlers, and other trophies line the walls, showcasing the owner's expertise and the quality of the shop's goods.
+### Proprietor
 
-**Merchandise:**
+Grizzled and seasoned, `Brogan Steelwind`, a former ranger with a wealth of knowledge about the wilderness and its inhabitants.
+
+### Merchandise
 1. **Specialty Arrows:** bg3 arrows basically
 2. **Fine Leather Goods:** Sturdy leather armor, gloves, boots, and belts made from the hides of exotic creatures. Each piece is a testament to both functionality and craftsmanship.
 3. **Bows and Crossbows:** Racks display a variety of bows, crossbows, and slings, catering to hunters of different skill levels.
 4. **Survival Gear:** Backpacks, tents, grappling hooks, and other equipment designed for those who venture into the wild.
 
-**Services:**
-- **Custom Bow Crafting:** Brogan offers personalized bow crafting services, tailoring bows to the unique preferences and strengths of individual hunters.
-- **Arrow Enchanting:** Enchantment services are available for arrows, allowing hunters to add magical effects to their shots.
-
-**Notable Feature:**
-- **Trophy Exchange:** Hunters can exchange impressive trophies for discounts on merchandise or specialized services.
+### Services
+1. **Custom Bow Crafting:** Brogan offers personalized bow crafting services, tailoring bows to the unique preferences and strengths of individual hunters.
+1. **Arrow Enchanting:** Enchantment services are available for arrows, allowing hunters to add magical effects to their shots.
+1. **Trophy Exchange:** Hunters can exchange impressive trophies for discounts on merchandise or specialized services.
 
