@@ -21,3 +21,6 @@ The university is beautiful with statues of old scholars and mages that patrol t
 # Amendments I would like to make
 
 - Among the educated, the most agreed upon cosmology is the Great Wheel Cosmology. However, while there does seem to remain stronger connections to the material plane via the ethereal, shadowfell, and feywild, those in the laboratory seem to have made discoveries that the planes seem to all be closely tied and connections seem to be stronger or weaker to other planes. Comparable to that of a highway from the material plane to the ethereal, but trail barely traveled, marked by carvings on a tree to get the abyss. They've demonstrated this by being able to successfully port into the astral plane. They hypothesize that all planes are mirrors of each other, just some of the connections are difficult to recognize, and the astral plane is the glue. 
+
+- To accommodate the desire to have a blue dragon who prefers desert. The land should be semi arid and the agriculture can still do barley and hops in some areas, also grow grapes, olives, and figs. The more royal parts of town are still rich with botanical gardens, similar to maybe the hanging gardens of babylon.  
+`Secret Sauce:` there is a small pocket of land that receives an incredible amount of rain thanks to the thunderstorm effect of the blue dragon's lair.

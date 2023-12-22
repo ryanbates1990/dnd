@@ -45,7 +45,11 @@ would like for the players to ultimately discover the lab and uncover things hap
     - They have figured out how to create a tear in the astral plane similar to a gate spell through scientific means
 - Cultists of the Raven Queen
     - Mayor Blackburne being a shadar-kai leader of this cult, wants to find a way to free his lover in a quarantined pocket of undead nearby. Her lover, being a servant of the raven queen, was in battle to destroy the undead that inhabited the area. He believes she is still alive and in danger. Unbeknownst to him, she is petrified and being used as bait by a Nagpa in wait, determined to eradicate any followers of the Ravenqueen.
-    - T
+- Adolphus Rockwell
+    - Jeweler, supplying diamonds to Mayor Blackburne in favor of law enforcement to turn a blind eye to his dealings. Mayor Blackburne is using the diamonds to supply to the Astral Nexus Scientists for portal research so he can reach the quarantine to save his lover. Adolphus is using his mob to run a human trafficking ring. The trade attracts the most wealth and desperate individuals.
+    - A polymorphed adult blue dragon with his lair locked away in a system of crystallized tunnels north of the city.
+        - within this lair, is a system of tunnels that looked like they have been blocked but out of one tunnel remains the skeleton of a 120 foot long creature, a defeated purple worm.
+        - air elementals, storm elementals, and kobold minions all inhabit the dragons lair.
 - Van Green Family (Suspicious of Mayor Blackburne - wants to smear him)
     - this is where we can use Mayor Blackburne's sudden appearance and claim to fame against him
 - (Needs Name) and his gang
@@ -102,5 +106,27 @@ Entertainment District: gambling house, theater, house of illusions
 
 **Religion**
 - Church of the Raven Queen (Merchants District)
+    - should this be a thing or is it more discrete. speaking through the ravens though potions of animal speak?
 - Church of Lathander?
 
+**Other**
+- Observatory on a hill in the university district
+
+# Questions that need answered
+- How does Adolphus accomplish his human trade operation? We need to answer how his operation takes place so that we can drop clues to different parts of it. We want the clues to eventually lead to adolphus's home, which has a trap door that leads to the blue dragon's lair.
+
+- What clues could lead to the discovery of the operation?
+    - probably need to be a suspicious nobleman.
+    - girls could have gone missing throughout the city.
+        - clues could lead to a particular guard who was paid off and told to turn a blind eye
+
+- How does Mayor Blackburne plan to leave the quarantine, is he trying to leave the portal open and bring undead to the material plane?
+- What needs to happen for Mayor Blackburne to be able to open the portal to the quarantine. Point of the question is to have a longer 'trail' to the lab for the players to follow - or allow them to find the lab but they aren't effectively traveling across the astral plane. Mayor blackburne is looking for an artifact to be able to connect to the quarantine? Maybe he is looking for a link and needs to steal an artefact from the church.
+    - How are the scientists detecting connections for planar travel?
+    - Do they have a ship to navigate the astral sea?
+
+# Things that are happening
+- The universities Elemental Studies department is preparing to send a research team to investigate the ongoing thunderstorms to the north of Slygarten
+    - They hope to come to answers as to how this storm has been able to persist and how they replicate that in a lab setting to utilize the electrical enegy.
+
+- Adolphus Rockwell is running a human trafficking operation. His lackey's are using modify memory to establish the roots of stockholm syndrome and steal their prey.
