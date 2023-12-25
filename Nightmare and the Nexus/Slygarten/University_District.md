@@ -39,6 +39,9 @@ Rising majestically above the other buildings is the Slygarten Library Tower, a 
 
 **Notable Section:**
 - **The Celestial Vault:** A restricted area housing artifacts and texts related to extraplanar entities, guarded by a celestial guardian, giving and accessible only to the most esteemed scholars. `This is a Planetar`
+    - Illithid wyrms
+    - demonomicon
+    - Powerful spell scrolls.
 
 - **Scriptorium:** A tranquil space where scribes and researchers meticulously copy and transcribe ancient texts.
 
