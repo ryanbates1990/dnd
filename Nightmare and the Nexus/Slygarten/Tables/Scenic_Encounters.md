@@ -3,7 +3,7 @@
 | Roll | Encounter Description |
 |------|------------------------|
 | 1    |    **City Watch Inspection** Members of the city watch are conducting inspections or searching for contraband in a specific area. The players may be questioned or asked to assist, and they could uncover illegal activities or corruption.                   |
-| 2    |  **Pickpocket** One of the players is bumped into by a very attractive person who emphatically apologizes. The player closest to the person must make a DC 12 perception check to see that something was stolen from the player. Otherwise the player realizes later what they lost. The pickpocketer is accompanied by 3 friends. [Statblock](/Nightmare%20and%20the%20Nexus/StatBlocks.md/Pickpocketer.md)                 |
+| 2    |  **Pickpocket** One of the players is bumped into by a very attractive person who emphatically apologizes. The player closest to the person must make a DC 12 perception check to see that something was stolen from the player. Otherwise the player realizes later what they lost. The pickpocketer is accompanied by 3 friends. [Statblock](/Nightmare%20and%20the%20Nexus/StatBlocks/Pickpocketer.md)                 |
 | 3    |                      |
 | 4    |                      |
 | 5    |                      |

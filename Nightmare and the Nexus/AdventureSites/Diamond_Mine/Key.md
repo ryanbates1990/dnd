@@ -36,5 +36,6 @@ If the players touch the sequence in the correct order, a light will hover aroun
 - Secret door being hidden by illusion, can be detected by a `DC 15 Perception Check`.
 
 ## Secret Barracks
-- `Contains 2 sleeping dragonborn slave drivers` [Click Here for Statblock](Nightmare and the Nexus\StatBlocks.md\Blue_Dragonborn_Slave_Driver.md)
+- `Contains 2 sleeping dragonborn slave drivers` [Click Here for Statblock](/Nightmare%20and%20the%20Nexus/StatBlocks/Blue_Dragonborn_Slave_Driver.md)
 - Contains a pain of ore and gems containing small diamonds worth about 200 gp and a pouch of 120 gold.
+- Can sneak with a `DC 12 stealth check`
