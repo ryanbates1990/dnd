@@ -38,9 +38,10 @@ Rising majestically above the other buildings is the Slygarten Library Tower, a 
 3. **Historical Archives:** Chronicles of the city's history, regional lore, and accounts of past events, meticulously maintained by the university's historians.
 
 **Notable Section:**
-- **The Celestial Vault:** A restricted area housing artifacts and texts related to extraplanar entities, guarded by a celestial guardian, giving and accessible only to the most esteemed scholars. `This is a Planetar named Socratius`
-    - The Planetar will detect Luke's curse if it is present
-
+- **The Celestial Vault:** A restricted area housing artifacts and texts related to extraplanar entities, guarded by a celestial guardian, giving and accessible only to the most esteemed scholars. `This is a Planetar named Socratius`. The Planetar will detect Luke's curse if it is present
+    - Illithid wyrms
+    - demonomicon
+    - Powerful spell scrolls.
 - **Scriptorium:** A tranquil space where scribes and researchers meticulously copy and transcribe ancient texts.
 
 
