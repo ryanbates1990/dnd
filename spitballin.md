@@ -59,7 +59,6 @@
 - build dungeons
     - sewer system
     - blue dragon lair
-    - diamond mine
     - The lab
     - house of illusions
     - Place where adolphus's minions do the trafficking (abandoned warehouse)
