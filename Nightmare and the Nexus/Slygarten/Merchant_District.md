@@ -73,7 +73,7 @@ Copy code
 
 ### Proprietor
 
-Grizzled and seasoned, `Brogan Steelwind`, a former ranger with a wealth of knowledge about the wilderness and its inhabitants.
+Grizzled and seasoned, `Brogan Steelwind`, ranger with a wealth of knowledge about the wilderness and its inhabitants.
 
 ### Merchandise
 1. **Specialty Arrows:** bg3 arrows basically

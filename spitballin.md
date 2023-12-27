@@ -1,5 +1,3 @@
-would like for the players to ultimately discover the lab and uncover things happening in the lab.
-
 # Situation Ideas
 
 1. A Wagon carrying precious materials is being imported and robbers are set to ambush. The boxes carrying the goods have false bottoms.
@@ -8,15 +6,17 @@ would like for the players to ultimately discover the lab and uncover things hap
 1. The plants that are grown in the university that act as a fuel source are caught fire!! This could be from Blackburne trying to threaten one of the deans not making good on his end of a deal (a bribery).
 1. One of the Van Green family members is found dead.
 1. If the players have been around several of these 'events' Silas comes and slips them a note to a hideout but warns the players that they're being watched (and as they look around, they catch a glimpse of a woman in a black coat, that being Seraphina Darkspire)
-1. This hideout can have people that know the whereabouts of the laboratory and have seen people going in and out of it, as well as hearing of recent disappearances of former employees.
 1. One of the University lights goes off nearby - if the players investigate, they see a girl being dragged away by a group of muscular dudes. In a nearby household they hear muffled shouts and clangs. This is an assassination gone awry. 
-1. Constructs outside of the laboratory
 1. Group of jocks from the local university that think the party is trying to steal the ‘leader’s’ girl. The party could rescue the girl from a near danger. Like a wagon incoming or getting out of the way of a bar fight.
 
 # In the lab
 
 1. A Githyanki creature disrobed and sitting in an uncomfortable chair being interrogated by men in white coats and you can see one put out a smoke on the skin of the Gith.
 1. A large amount of precious gems and metals being put into crates with false bottoms and filled with innocuous materials and being loaded into carts.
+1. Ships being worked on/welded
+1. Notes dealing with how to travel through the astal plane.
+1. Pictures of graphs detailing different planes (populated with '?' as well)
+1. Construct door passes
 
 ### Toolkit
 
@@ -24,19 +24,6 @@ would like for the players to ultimately discover the lab and uncover things hap
 1. City guards (He can use these to 'imprison' the players on trumped up charges and delay any sort of investigation they're doing.)
 1. A Goon Squad
 1. Former Employer (Silas) to feed information to the players.
-
-### City Districts:
-- University
-- Science District
-- Noble Housing
-- Entertainment District
-- Poor Area
-- Warehouse and Metallurgy District (blue collar work)
-- Merchant District
-
-### Potential Adventure Sites
-- Astral Nexus lab
-- Sewer system?
 
 ### Factions in the City
 - Astral Nexus Scientists/Geologists
@@ -61,35 +48,25 @@ would like for the players to ultimately discover the lab and uncover things hap
 - druids outside of the city that get upset with the pollution from the factory?
 
 # Next Steps
+- entertainment district locations
 - itemizing a couple services
     - Need 'task table' for merchants guild
-    - Need 'Rumor table' for bars
-    - Need 'background event table' for flyers
     - Should come up with a list of magical items/ammo/clothing/potions/etc. stock the shops.
 - Need Scenic Encounter Tables populated 
     - need these for each district as well.
 - `Come up with encounters/clues for each faction and what that faction is trying to do.`
+- build rough ideas of neighboring regions
+- build dungeons
+    - sewer system
+    - blue dragon lair
+    - diamond mine
+    - The lab
+    - house of illusions
+    - Place where adolphus's minions do the trafficking (abandoned warehouse)
+    - Ravenqueen culstist's hideout
 - come up with an adventure site for each faction??
     - maybe just harden the factions motives and what they are working towards.
 - we need to come up with one off locations within the city for prison etc.
-
-# Kicking Things off
-1. Let players get footing in the city
-1. Loose cart/cargo has false bottoms. Silas witnesses, tries to persuade characters to come to their safehouse unseen that evening.
-    - need to prep Silas's safehouse
-        - the gang provides an engineer that they helped build
-            - The location of the entrance changes (finding an engineer will help them predict the location).
-                - players can identify individuals who are employed, and follow
-                - players can predict the location
-        - the gang notes that a keycard is used to pass the constructs... but doens't know of a modern one
-            - Clockwork Engineer (prep a small lab for this). 
-                - `GM Note`: key cards are activated by reading a sequence that shows under laser light and that sequence needs programmed into a construct.
-                - A constructs's mind is ran on a 'hum' from the small oscillations of a crystal. A constructs mind is synced with the hum of a master crystal. If the master crystal is found, he can read passcodes that he can create a recognizeable key on.
-    - Silas wants to gather information on how to regain access to `Dreese Labs`
-        - Adventure site that for sure needs prepped.
-    - There are a couple engineers/contractors that hold different information that will help the characters reach farther into the laboratory.
-    - the gang can be confronted by mobs/minions to interfere with their progress/bad things can happen to people that they talk to.
-        - need a reason to do this though... maybe they are being tracked by someone using locate object on the stone they took from the cart in the beginning?
 
 # Services
 
@@ -113,20 +90,28 @@ Entertainment District: gambling house, theater, house of illusions
 - Observatory on a hill in the university district
 
 # Questions that need answered
-- How does Adolphus accomplish his human trade operation? We need to answer how his operation takes place so that we can drop clues to different parts of it. We want the clues to eventually lead to adolphus's home, which has a trap door that leads to the blue dragon's lair.
+- What cures Luke's disease?
 
-- What clues could lead to the discovery of the operation?
-    - probably need to be a suspicious nobleman.
-    - girls could have gone missing throughout the city.
-        - clues could lead to a particular guard who was paid off and told to turn a blind eye
+# Events
+- Mayor Blackburne
+- Adolphus
 
-- How does Mayor Blackburne plan to leave the quarantine, is he trying to leave the portal open and bring undead to the material plane?
-- What needs to happen for Mayor Blackburne to be able to open the portal to the quarantine. Point of the question is to have a longer 'trail' to the lab for the players to follow - or allow them to find the lab but they aren't effectively traveling across the astral plane. Mayor blackburne is looking for an artifact to be able to connect to the quarantine? Maybe he is looking for a link and needs to steal an artefact from the church.
-    - How are the scientists detecting connections for planar travel?
-    - Do they have a ship to navigate the astral sea?
+## Max
+Part of a tribe displaced by the undead immigration and he is championing the return and he needs help doing it.
+- he's getting the Vampire Lord who is feeding off his tribes originally members and has force bread them to be used for blood sources.
+- Maybe some of his current tribe is being used in Adolphus's Jewel mines.
 
-# Things that are happening
+### Spitballing for Max
+- recognized as part of one of the displaced by a Kellemvor cleric who offers to show him that Kellemvor's actions were just.
+
+## Rex
+Something about dragons :D
+
+## Luke
+He is diseased (was cursed by some character) and needs to find a cure. Is suspicious that an illithid spawn could cure his disease. Him and his family were cursed after enterring an enchanted forest and made examples of after killing a sacred deer for food. It is currently unknown what will cure his disease
+
+## Other
 - The universities Elemental Studies department is preparing to send a research team to investigate the ongoing thunderstorms to the north of Slygarten
     - They hope to come to answers as to how this storm has been able to persist and how they replicate that in a lab setting to utilize the electrical enegy.
 
-- Adolphus Rockwell is running a human trafficking operation. His lackey's are using modify memory to establish the roots of stockholm syndrome and steal their prey.
+- A shadow demon is feeding off of the fears of people at humble haven. The demon is a pet summoned by Rael, who feeds off of the fear harvested and offers a portion to Lolth. Rael lives in Humble Haven but has a trap door basement where him and his wife offer their Prayers.
