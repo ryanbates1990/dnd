@@ -1,6 +1,7 @@
 # Dungeon Themes
 - Dark unless lit by natural means or by the dancing shadows
 - Most hallways are lined with mine cart tracks that snake and bend around dark corridors.
+- Occasionally on either side opens up large rooms of excavated cavern, populated only by abandoned picks and and the occasional decomposing body of a laborer.
 
 # Rooms
 `First Minecart is available in the Chamber of Shadows`
