@@ -2,8 +2,8 @@
 *Medium Elemental, Neutral*
 
 **Armor Class** 17 (natural armor)  
-**Hit Points** 60 (7d8 + 21)  
-**Speed** 30 ft., burrow 30 ft.
+**Hit Points** 110 (7d8 + 21)  
+**Speed** 30 ft.
 
 **STR** 18 (+4)  
 **DEX** 8 (-1)  
@@ -18,9 +18,7 @@
 **Senses** Darkvision 60 ft., Tremorsense 60 ft.,  
 **Languages** Terran
 
-**Challenge** 3 (700 XP)
-
-***Earth Glide.*** The elemental can burrow through nonmagical, unworked earth and stone. While doing so, the elemental doesn't disturb the material it moves through.
+**Challenge** 4
 
 ***Siege Monster.*** The elemental deals double damage to objects and structures.
 
