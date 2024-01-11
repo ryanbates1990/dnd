@@ -24,3 +24,13 @@
     - A polymorphed adult blue dragon with his lair locked away in a system of crystallized tunnels north of the city.
         - within this lair, is a system of tunnels that looked like they have been blocked but out of one tunnel remains the skeleton of a 120 foot long creature, a defeated purple worm.
         - air elementals, storm elementals, and kobold minions all inhabit the dragons lair.
+
+# Hooks
+- University District Emergency Light at night
+    - creates scene in botanical garden
+- Rumor Drop/Job Board
+    - creates scene in an Atrani Home.
+
+# Graph
+
+Think a funny idea for the warehouse is a bad guy who has taken the love potion and is being restrained until it wears off. He is begging to woo one of his companions

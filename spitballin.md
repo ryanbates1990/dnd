@@ -48,7 +48,10 @@
 - druids outside of the city that get upset with the pollution from the factory?
 
 # Next Steps
+- religous sites
 - entertainment district locations
+- come up with really early game combat ideas
+- random encounter table (good for sewer or just in general)
 - itemizing a couple services
     - Need 'task table' for merchants guild
     - Should come up with a list of magical items/ammo/clothing/potions/etc. stock the shops.
@@ -63,8 +66,6 @@
     - house of illusions
     - Place where adolphus's minions do the trafficking (abandoned warehouse)
     - Ravenqueen culstist's hideout
-- come up with an adventure site for each faction??
-    - maybe just harden the factions motives and what they are working towards.
 - we need to come up with one off locations within the city for prison etc.
 
 # Services
@@ -103,11 +104,23 @@ Part of a tribe displaced by the undead immigration and he is championing the re
 ### Spitballing for Max
 - recognized as part of one of the displaced by a Kellemvor cleric who offers to show him that Kellemvor's actions were just.
 
-## Rex
-Something about dragons :D
+## Rex (Raiden Skyreaper)
+- childhood tragedy caused by a black dragon with red eyes that spewed lightning.
+    - I like making this adolphus's half brother. Adolphus's vanity would disallow any acknowledgment that his half-brother is more powerful in anyway
+- He was trained under a sellsword named Isolde Silverhawk.
+- Rex is haunted by the dragon in his dreams, specifically the eyes.
+- Got his name from a legendary beast slayer named Elandor Skyreaper
+    - This could be a point of insult towards Rex, people could believe that he hasn't earned his name.
 
-## Luke
+## Luke (Harken Callahan)
 He is diseased (was cursed by some character) and needs to find a cure. Is suspicious that an illithid spawn could cure his disease. Him and his family were cursed after enterring an enchanted forest and made examples of after killing a sacred deer for food. It is currently unknown what will cure his disease
+
+One Idea I have for him is that the energy that exists in his body is otherworldly and he would be drawn to another plane if they were to travel in the astral sea. This other plane being something like the beastlands and finding a sacred pool of cleansing or something like that. 
+
+What is the disease? Maybe some magic that ordinarly hastens the process of decomposition/rot? ie, part of his flesh is dying though he is still alive.
+
+He can also find a genie on the elemental plane if he so desires.
+>Those who wished to gain the brief service of a djinn should gift them with fine meals, gemstones, magical items, flattery, and other forms of bribery.
 
 ## Other
 - The universities Elemental Studies department is preparing to send a research team to investigate the ongoing thunderstorms to the north of Slygarten

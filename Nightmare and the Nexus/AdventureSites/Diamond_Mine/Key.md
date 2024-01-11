@@ -66,7 +66,7 @@ For goodness thrives in honest light.
 
 `GM Note:` When disturbed, turns into a large Earth Elemental accompanied by 3 pickaxes animated pickaxes. [Animated Weapon](/Nightmare%20and%20the%20Nexus/StatBlocks/AnimatedWeapon.webp), [Earth Elemental](/Nightmare%20and%20the%20Nexus/StatBlocks/Earth_Elemental.md)
 
-**Pits** - when observed, can see a small stream of water with steam rising from it flowing into a serene pool. `GM NOTE: This pool heals players to fool if sat in for 5 minutes`
+**Pits** - when observed, can see a small stream of water with steam rising from it flowing into a serene pool. `GM NOTE: This pool heals players to full if sat in for 5 minutes`
 
 **Treasure** The earth elemental drops a diamond worth 300 gp
 

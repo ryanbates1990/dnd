@@ -33,3 +33,6 @@ Mayor Blackburne is facilitating research to try and create a method of teleport
     - There are a couple engineers/contractors that hold different information that will help the characters reach farther into the laboratory.
     - the gang can be confronted by mobs/minions to interfere with their progress/bad things can happen to people that they talk to.
         - need a reason to do this though... maybe they are being tracked by someone using locate object on the stone they took from the cart in the beginning?
+
+# Encounters
+- Loose cart/cargo has false bottoms. Silas witnesses, tries to persuade characters to come to their safehouse unseen that evening.
