@@ -1,3 +1,5 @@
+# Belbor's Home
+
 - Has enchanted basement with an enchanted machine that has different ‘weather’ orbs for different plants
 - Scene is overall rustic with some clear sophistication - good at what he does
 - is a Firbolg that is fairly dumb, dumb enough for it to be believable that he doesn’t understand his recent buyers are evil
