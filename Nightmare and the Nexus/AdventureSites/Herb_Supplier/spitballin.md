@@ -21,3 +21,9 @@
 - bedroom
 - outdoor garden area
 - basement
+
+# Clues
+
+- one clue is that it simply isn't Belbor
+- The tree talks about the hooded man
+- pieces of scrap paper as reminders by his bedroom mirror which has order numbers and delivery addresses. A large order of cadaceus leave's
