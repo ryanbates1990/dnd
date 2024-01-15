@@ -48,6 +48,9 @@
 - druids outside of the city that get upset with the pollution from the factory?
 
 # Next Steps
+- Details for the Crime Scene
+- Stats for 'hooded figure' that is a single servant in the house of illusions
+- Stats for potion warehouse mooks
 - religous sites
 - entertainment district locations
 - come up with really early game combat ideas
