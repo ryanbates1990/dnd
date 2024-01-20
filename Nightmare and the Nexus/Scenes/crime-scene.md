@@ -23,3 +23,4 @@ The home is lit by the soft glow of oil-lamp light and has smells of candles pro
 - flecks of an herb unknown to you can be found on the rug, on the pillow, and near the window, and on the roof.. as if his tin of whatever it was had busted open 
 
 # Points of Interest
+- Bart points out that a gem is in fact on his door
