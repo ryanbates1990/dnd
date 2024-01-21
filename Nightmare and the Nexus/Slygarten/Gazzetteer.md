@@ -11,8 +11,8 @@
 - Heroes' Plaza
 - The Grand Atrium
 
-# Clockwork District
-[Link](/Nightmare%20and%20the%20Nexus/Slygarten/Districts/Clockwork_District.md)
+# Clocktown
+[Link](/Nightmare%20and%20the%20Nexus/Slygarten/Districts/Clocktown.md)
 
 - Arcane Armaments Emporium (Magic armour, weapons)
 - Magic Supply Co (Spell supplies, scrolls)
@@ -27,8 +27,8 @@
 - McPherson Labs (firm that specializes in arcane energy)
 - Astral Nexus Laboratory (defunk lab on planer magic)
 
-# Entertainment District
-[Link](/Nightmare%20and%20the%20Nexus/Slygarten/Districts/Entertainment_District.md)
+# Feylight District
+[Link](/Nightmare%20and%20the%20Nexus/Slygarten/Districts/Feylight_District.md)
 
 
 - Vertucci's Game House
@@ -64,8 +64,8 @@
 - Hearthstone Square
 - Cathedral of Kelemvor
 
-# Merchant District
-[Link](/Nightmare%20and%20the%20Nexus/Slygarten/Districts/Merchant_District.md)
+# Traders Alley
+[Link](/Nightmare%20and%20the%20Nexus/Slygarten/Districts/Traders_Alley.md)
 
 
 - The Guilded Quill (Inn)
