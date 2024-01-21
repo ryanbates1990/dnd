@@ -16,3 +16,11 @@ The local university specializes in and has made great strides in the fields of 
 
 The city is currently ruled by a Mayor named Theodore Blackburn and his appointed counce. The office is decided by way of democratic vote. Taxpaying households are issued a single vote. This method of gaining a right to vote extends to the farmlands encircling the city. The mayor's predecessor, Frederick Van Greene, served 3 terms before losing the position.
 
+You know some basic information about the city's districts:
+**Atrani** is extraordinarily wealthy and is populated only by the noble and the elite.
+**Clocktown** is primarily laboratories, engineering firms, and small businesses that help facilitate the workday
+**Forgeheart** is industrial. Factories/workshops are prevalent here
+**Humble Haven** is working class homes and businesses
+**Slygarten University** has a famous library that is open to the public.
+**Traders Alley** is a merchant district, famous for its merchant guild and grand exchange
+**Feylight District** is for entertainment. Many bars/clubs are here as well as casinos, theaters, and other forms of entertainment.
