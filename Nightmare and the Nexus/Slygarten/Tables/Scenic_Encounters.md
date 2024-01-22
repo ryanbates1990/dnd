@@ -4,21 +4,21 @@
 |------|------------------------|
 | 1    |    **City Watch Inspection** Members of the city watch are conducting inspections or searching for contraband in a specific area. The players may be questioned or asked to assist, and they could uncover illegal activities or corruption.                   |
 | 2    |  **Pickpocket** One of the players is bumped into by a very attractive person who emphatically apologizes. The player closest to the person must make a DC 12 perception check to see that something was stolen from the player. Otherwise the player realizes later what they lost. The pickpocketer is accompanied by 3 friends. [Statblock](/Nightmare%20and%20the%20Nexus/StatBlocks/Pickpocketer.md)                 |
-| 3    |   **A group of halfling** street performers has a small crowd gathered and beckon for you to to join in the spectacle. If someone does, one comes around and offers a cap for them to put money in. If the players don't, people grumble at the players                |
+| 3    |   **A group of halfling** street performers has a small crowd gathered and beckon for you to to join in the spectacle. If someone does, one comes around and offers a cap for them to put money in. If the players don't, people grumble at the players and a drunk man comes up and aggressively spits at them                |
 | 4    |    **A thief** snatches a purse from an old lady nearby and charges away from into a nearby ally                  |
 | 5    |    **A Festival** is happening and is similar to what we would call a rennaissance festival. People dressed up in outfits from tribal times. Everyone kind of looks like Max's character and praise him for his incredible outfit. People act in a way that should offend Max for the poor likeness.                  |
 | 6    |    **A fat man face down into the street** with a pool of vomit around him is clogging a busy street. He's too heavy to move on his own and someone offers to help move him.    |
 | 7    |   **A Portal** opens before you and people ooh and ah. It closes just as quickly as it came, besides a small boy who stuck his head in. An arcana check would reveal it to be an opening to the astral plane. If asked, the boy says he couldn't breathe on the other side, and saw some kind of vessel and a bright beam of light                |
 | 8    |   **A construct** notices your weary feet and offers to carry you to your destination. If a player accepts, it asks for payment.                   |
-| 9    |                      |
-| 10   |                      |
-| 11   |                      |
-| 12   |                      |
-| 13   |                      |
-| 14   |                      |
-| 15   |                      |
-| 16   |                      |
-| 17   |                      |
+| 9    |   **The Mysterious Collector** A well-dressed individual approaches the players, claiming to be a collector of rare artifacts. They offer a reward for any unique items the players might come across during their adventures and says, "Remember Me".                  |
+| 10   |   **Charity Drive** Volunteers are collecting donations for a local charity or orphanage. The players can choose to contribute, gaining goodwill in the city, or they may investigate the charity's legitimacy. `GM Note: It is not a legit charity and is being pocketed 100% by kids`                  |
+| 11   |   **Street Food Festival** A row of food stalls offers a variety of exotic and delicious dishes. The players can sample local cuisine, and some vendors might have information or quests to share. Magic foods are being sold and sampled, see the food table [here](/Nightmare%20and%20the%20Nexus/Slygarten/Tables/Magical_Foods.md)                 |
+| 12   |   **Weather Wizard's Display** A talented wizard is using magic to create a dazzling display of lights, sounds, and minor weather effects. The performance might serve as entertainment or mask a secret magical experiment. `GM Note: He has gained knowledge of a blue dragon's lair creating storms to the north and he is interested in replicating this magic.. he may be evil`                   |
+| 13   |   **City Beautification** Project Volunteers are planting flowers, painting murals, or engaging in other activities to beautify the city. The players can join in, gaining favor with the locals. `GM Note: there is a basement shown to the brothel`                  |
+| 14   |   **Street Preacher** An impassioned shadar-kai individual is delivering a fervent speech about how the Kelemvor's interference prohibited the Ravenqueen's anhiliation of undead creatures in the shadowfell affecting his home.            |
+| 15   |   **The Bard's Serenade**: A skilled bard is performing a captivating melody in a crowded square. The music is so enchanting that some listeners feel a surge of inspiration or temporary relief from stress. If the players stay and listen they gain an `inspiration`                  |
+| 16   |   **A Gaggle of Geese**: A flock of mischievous geese has taken residence in a park or plaza. Their antics include chasing pedestrians, stealing food, and generally causing harmless chaos. A local vendor offers bags of feed to anyone willing to befriend the feathered troublemakers.   |
+| 17   |   **A Street Artist's Canvas**: A talented street artist is creating a vibrant mural on a building's exterior. The mural depicts a fantastical scene, and the artist invites passersby to contribute by adding their own small details. `GM Note: Luke would recognize the scene as it is the sacred grove that caused him his illness`                   |
 | 18   |                      |
 | 19   |                      |
 | 20   |                      |
