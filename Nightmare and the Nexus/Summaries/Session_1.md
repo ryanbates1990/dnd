@@ -1,0 +1,12 @@
+- Raiden and Harken agreed to help each other get to Slygarten
+- They ran into Beif along the way
+- Harken and Bief bonded over throwing rocks
+- Everyone arrived at the southern entrance to the city, promptly ignoring the welcome booth which was just me trying to give you guys a list of locations that might be useful to you.
+- Bief thought it would be best to go to a place that worships a god he doesn't care about and you guys had a conversation with Father Gabriel.
+- After learning the Ravenqueen's followers have the common goal of popping the bubble, you guys decided to head off to talk to Michael, a friend of Father Gabriel.
+- On the way you were confronted by a widower who claimed that a girl belonging to Beif's clan named Rose had been kidnapped from under his roof.
+- You discovered no sign of major injury, however there were small drops of blood. While examining the crime scene you found a small piece of cloth that you were able to detect magic in in the window, a yellow residue that appears likely to be a potion of some sort, and flakes of an unrecognizable herb. All of which you preserved in small mason jars that Bart, the widower, left you.
+- You met with Michael and learned that Ravenqueen followers met in a rotating location biweekly under the guise of Father Gabriel.
+- Unsatisfied with your conversation, after leaving, returned to him and killed him and smashed his things.
+- Raiden took the lock off his front door and smashed his window.
+- The inconspicuous horse of yours waited patiently outside of his home for you, tied up to a railing.
