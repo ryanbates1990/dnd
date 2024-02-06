@@ -130,15 +130,3 @@ He can also find a genie on the elemental plane if he so desires.
     - They hope to come to answers as to how this storm has been able to persist and how they replicate that in a lab setting to utilize the electrical enegy.
 
 - A shadow demon is feeding off of the fears of people at humble haven. The demon is a pet summoned by Rael, who feeds off of the fear harvested and offers a portion to Lolth. Rael lives in Humble Haven but has a trap door basement where him and his wife offer their Prayers.
-
-## Deep in the sewers
-
-- is Rael, turned to a drider, who will not attack players who enter his lair. He wants players to come back and tell the tale to bring a multitude of adventurers to feast off of.
-- Rael, after turning to a drider, banished from the shadowfell, traversed back to the material plane, wanting to find acceptance and belonging.
-- He found himself beneath the newly developed city of Slygarten and settled deep in the sewers, finding that his presence incited violence and fear in people. He was a monster that needed vanquished.
-- However, a small sect of curious minds sought to study him and Rael, desparate for acceptance, allowed them in his presence.
-- They were able to study the effects of Lolth's magic, and made strides in their own understanding in transmutative magic.
-- They practiced on rats of the sewers, growing them larger and stronger and fed them to Rael who saw this sacrifice as something of worship of him. It was the closest he felt to love since his lover was eaten by Lolth herself.
-- The magical waste of the cultists transformations permated the slow drippings of the sewer, creating rivers of slime that mutates that it touches. 
-- The cultists, so greedy, accidentally created mutated vermin to strong for them to control and were eaten by their own creations.
-- Rael, hungry still for flesh, growing sick of mutated rats, creeps to the surface every once in a while (if he can escape Lolth's gaze) to dine on something more... supple.

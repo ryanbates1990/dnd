@@ -14,7 +14,7 @@
 | 10   | Ravenqueen is amassing an underground following                     |
 | 11   | Funny smells coming from an abandoned warehouse in the forgeheart district (alluding to charm potions being brewed)                    |
 | 12   | Farmers have been attacked from druids coming from the woodlands to the southeast                     |
-| 13   |                      |
+| 13   | There is rumors of a rivers of flowing green slime underneath Humble Haven... and strange rats                     |
 | 14   |                      |
 | 15   |                      |
 | 16   |                      |
