@@ -24,7 +24,7 @@ Sophisticated, yet cozy, and warmly lit. The bar boasts a collection of nautical
 - names on hand: 'Albert, Horas, Seamus (dwarf) 
 
 
-## A2 - The Ivory Retreat (Inn)
+## A2 - The Retreat (Inn)
 > An opulent inn situated in the heart of the Noble District, The Ivory Retreat exudes an air of refined elegance. The polished marble floors reflect the warm glow of crystal chandeliers hanging from the high ceilings. A discreet pianist plays a soft melody near the entrance, creating a sophisticated backdrop to the conversations that fill the room.
 
 - Innkeeper is Lady Isabella, a poised and graceful woman with a keen eye for detail.

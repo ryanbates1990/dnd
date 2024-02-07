@@ -2,7 +2,7 @@
 [Link](/Nightmare%20and%20the%20Nexus/Slygarten/Districts/Atrani.md)
 
 - The Pelican (Bar)
-- The Ivory Retreat (Inn)
+- The Retreat (Inn)
 - IvoryBane Legal Services
 - Rockwell's (Jewel Shop)
 
