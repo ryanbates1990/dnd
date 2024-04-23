@@ -99,6 +99,33 @@ Entertainment District: gambling house, theater, house of illusions
 - Mayor Blackburne
 - Adolphus
 
+# Immediate TODOs
+
+## Rose Quest
+- Brothel Basement dungeon
+- Come up with motivations for the mooks at the warehouse... why would someone want to join them.
+- How does Adolphus benefit from this motivation exactly?
+- Where exactly IS Rose - Is she in the basement of the brothel?
+
+## 9 Finger Nova
+- How can she actually exploit the Mayor?
+- What does her operation look like exactly?
+    - She could have investigated him herself and come up with the following information
+        - not much is known about him before about 6 years ago.
+        - Found Records of him working in one of adolphus Rockwell's diamond mine northeast of the city
+        - Nothing has been found of the ravenqueen associations... yet.
+    - Actuals:
+        - He crossed to the material plane via a portal deep within the depths of the mine
+        - He helped lead adolphus to the shadowfell to acquire 'smoke quartz', a jewel with magical properties that can be enhanced to dampen sound or create shrouds of darkness (and also possessing some intrinsic beauty)
+        - He has taken refuge in the mobile 'astral nexus' which is made by the magnificent mansion spell
+
+## Diamond Mine
+- May need updating to include a portal to the shadowfell.
+
+## Laboratores
+- We need some additional details here.
+- We want to have specific creatures that guard the place (Ie, elemental lab might have elementals, mechanical may have automata, etc.)
+
 ## Max
 Part of a tribe displaced by the undead immigration and he is championing the return and he needs help doing it.
 - he's getting the Vampire Lord who is feeding off his tribes originally members and has force bread them to be used for blood sources.
