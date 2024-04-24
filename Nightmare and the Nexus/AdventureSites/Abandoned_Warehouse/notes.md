@@ -47,15 +47,38 @@ Contains a 3x orcish [Hammer thugs](/Nightmare%20and%20the%20Nexus/StatBlocks/Ha
 ## 5 - Warehouse Floor
 
 - rows 1, 3, and 4 (of 7) have tripwire (noise alarms) that can be spotted with a `DC 12 Perception Check`. If tripped, alerts all denizens in the main floor
-- An [Alchemical thug](/Nightmare%20and%20the%20Nexus/StatBlocks/Alchemical_Thug.md) is patroling the outer ailes (6 and 7 and the right entrance)
-- 3x [Researchers](/Nightmare%20and%20the%20Nexus/StatBlocks/commoner.png) are working on tables prepping ingredients
+- An [Alchemical thug](/Nightmare%20and%20the%20Nexus/StatBlocks/Alchemical_Thug.md) is patroling the outer ailes (6 and 7 and the right entrance).
+    - He is a muscular human in regular clothing with the sleeves torn off. His name is Bruce, he is assembling wooden crates from a pile of materials.
+- 3x [Researchers](/Nightmare%20and%20the%20Nexus/StatBlocks/commoner.png) are working on tables prepping ingredients and have a few boiling pots going over magical heat sources.
+    - Names are Gale, Dilbert, and Gordon
+    - (will flee in a fight, if caught, will squeal all sorts of information.)
+
+### Researchers
+- use the commoner stat block
+- humans in white lab coats
+- names: Gordon, 
 
 ## 6 - Brewing Room
 
-- contains 1 [Alchemical Enforcer](/Nightmare%20and%20the%20Nexus/StatBlocks/Alchemical_Enforcer.md) and 2 [Alchemical thugs](/Nightmare%20and%20the%20Nexus/StatBlocks/Alchemical_Thug.md).
-- Alchemical Enforcer drops the necklace and a sending stone that is connected to an officer at the Boobonic
-    - The officer provides information about guard patrols and when it is safe to drop off goods.
-    - He wants to prevent pattern of visitation for deliveries in case someone is compromised.
+- contains 1 [Alchemical Enforcer](/Nightmare%20and%20the%20Nexus/StatBlocks/Alchemical_Enforcer.md)
+    - name is "The Juicer" or "Juice" for short.
+    - a broad orc that is missing his left arm but wears a prosthetic backpack that has a long arm coming out of his back.
+    - His long arm is currently pulling things off of high to reach places.
+- 2 [Alchemical thugs](/Nightmare%20and%20the%20Nexus/StatBlocks/Alchemical_Thug.md).
+    - 1 human, 1 orc, named Mark and Gazmug respectively. They are seen collaboratively dialing in valves on a giant vat and are seen bickering about the order of operations.
+
+### Treasure
+- Alchemical Enforcer drops the orcish necklace and a sending stone that is connected to an officer at the Boobonic
+
+### Information
+
+If a fight breaks out and goes poorly for the bad guys they offer a bribe for their lives up to a thousand gold. They may start with the following information, however:
+- They work for someone he calls the 'faceless' man. He is incredibly afraid of this person.
+- He wants to prevent pattern of visitation for deliveries in case someone is compromised.
+
+If the fight goes extraordinarily well for them
+- Will offer a job as delivery, for a 200 gold a week, provides information about guard shift changes at the boobonic, and secret back entrance for shady goods. Says to bring the cart around back and give a pass phrase. The phrase changes each week, so come back for the phrase.
+    - If they accept, they need to prove their loyalty somehow (an acid brand)
 
 ## 7 - Packing Room
 

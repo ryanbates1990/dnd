@@ -103,8 +103,6 @@ Entertainment District: gambling house, theater, house of illusions
 
 ## Rose Quest
 - Brothel Basement dungeon
-- Come up with motivations for the mooks at the warehouse... why would someone want to join them.
-- How does Adolphus benefit from this motivation exactly?
 - Where exactly IS Rose - Is she in the basement of the brothel?
 
 ## 9 Finger Nova
@@ -123,8 +121,10 @@ Entertainment District: gambling house, theater, house of illusions
 - May need updating to include a portal to the shadowfell.
 
 ## Laboratores
-- We need some additional details here.
 - We want to have specific creatures that guard the place (Ie, elemental lab might have elementals, mechanical may have automata, etc.)
+
+## Other
+- Need an explanation for the Kobolds!
 
 ## Max
 Part of a tribe displaced by the undead immigration and he is championing the return and he needs help doing it.

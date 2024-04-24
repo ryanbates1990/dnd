@@ -24,7 +24,7 @@
 
 - **Warhammer.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (1d10 + 3) bludgeoning damage.
 
-- **Intimidating Presence.** The enforcer can use its `bonus action` to attempt to frighten a creature within 30 feet of it that can see and hear it. The target must succeed on a `DC 13 Wisdom` saving throw or be frightened until the end of the enforcer's next turn.
+- **Intimidating Presence.** The enforcer can use its `bonus action` to attempt to frighten a creature within 30 feet of it that can see and hear it. The target must succeed on a `DC 13 Wisdom` saving throw or be frightened until the end of the enforcer's next turn. (Recharge 5/6)
 
 - **Retreat.** The Alchemical Enforcer can use the Disengage action as a `bonus action` on each of its turns.
 
