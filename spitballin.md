@@ -120,11 +120,23 @@ Entertainment District: gambling house, theater, house of illusions
 ## Diamond Mine
 - May need updating to include a portal to the shadowfell.
 
+## RavenQueen Followers
+- where do they actually meet?
+    - the abandoned Astral Nexus laboratory
+- who is there?
+    - Mostly drow, The mayor and his cabinet, wealthy humans (mostly men) that likely are employed in planar studies engineering and research roles
+- who knows about them?
+- what is their purpose besides releasing the quarantine?
+    - They are the ones that heard of a servant of lolth causing havoc in humble haven.
+- We need stats for the Mayor and some of his cabinet (should have 3 minions)
+
 ## Laboratores
 - We want to have specific creatures that guard the place (Ie, elemental lab might have elementals, mechanical may have automata, etc.)
 
 ## Other
 - Need an explanation for the Kobolds!
+    - They are just coming into town to party basically, and are able to find harder drugs on the edge of forgeheart/humble haven
+    - They work as slave drivers in the diamond mine
 
 ## Max
 Part of a tribe displaced by the undead immigration and he is championing the return and he needs help doing it.

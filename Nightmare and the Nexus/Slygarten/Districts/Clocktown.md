@@ -106,3 +106,18 @@ Common Properties:
 1. `Steam-Powered Vehicle Prototype:` Engineer Victor Ironsoul spearheads the development of a revolutionary steam-powered airship prototype, which promises to revolutionize transportation and exploration. The project combines cutting-edge propulsion systems with lightweight materials to achieve unprecedented speed and maneuverability.
 1. `Automaton Intelligence Integration:` Dr. Clara Steamfrost oversees research into integrating artificial intelligence systems into automatons, blurring the lines between machine and sentient being. The project explores ethical considerations and safeguards to ensure the responsible development of AI-driven technology.
 1. `Precision Machining Automation:`Research Assistant Finn Coppergear leads efforts to automate precision machining processes, streamlining production and improving the efficiency of manufacturing operations. The project leverages robotic systems and advanced algorithms to achieve unparalleled levels of accuracy and consistency.
+
+## The Astral Nexus (Abandoned - now Ravenqueen Meeting Place)
+
+The front looks like it is still maintained by the city, however the curtains are all drawn shut over all the windows. It is a large brick building. In the lawn boasts an ornate sculpture with a gyroscope fixture that has spinning rings representative of a multitude of different planes.
+
+`Note` if the lab is not being used as a hideout it is entirely dark, otherwise it is lit by suspended 'glow globes'
+
+Inside:
+- unfurnished
+- white tile floors
+- dusty
+- empty pond (koi pond)
+- can here each of your footsteps reverberate, highlighting the empty space
+
+If there is a meeting, they are meeting deep inside the lab on stacked pallets around a chalkboard
