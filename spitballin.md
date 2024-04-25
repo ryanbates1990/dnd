@@ -102,8 +102,15 @@ Entertainment District: gambling house, theater, house of illusions
 # Immediate TODOs
 
 ## Rose Quest
-- Brothel Basement dungeon
 - Where exactly IS Rose - Is she in the basement of the brothel?
+
+## Brothel Dungeon
+- brothel has a secret back entrance
+- should look initially like an ordinary cellar
+- should have lots of illusory magic
+- the main guy is 'the faceless man'
+    - modifies memories of the victims
+    - there should be some reveal that adolphis is behind the faceless man
 
 ## 9 Finger Nova
 - How can she actually exploit the Mayor?
