@@ -104,6 +104,12 @@ Entertainment District: gambling house, theater, house of illusions
 - Summary
 - Set scene for beginning of the session
 
+## Opening Scene for Current Session
+- Belbor the giant's home. and took the devices controlling the climate of his indoor garden
+- dogs are dead,
+- found a ledger of clients noting an order for a large amount of cadaceous leaves to an address within the forgeheart district
+
+
 ## 9 Finger Nova
 - How can she actually exploit the Mayor?
 - What does her operation look like exactly?
