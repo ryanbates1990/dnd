@@ -94,7 +94,8 @@ The hallway patrols an `arcane eye` sent from the faceless man
 
 - offices contains 3 potions of greater healing
 - modify memory spell scroll
-- paintings of a spire in the shadowfell
+- potion of clairvoyance
+- a satchel of a 1230 gold
 
 # Statblocks
 
