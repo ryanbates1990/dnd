@@ -6,12 +6,6 @@ They are confronting a group of thugs working for Adolphus Rockwell. They know t
 - The potions make someone love you temporarily... You do things for people  you  love, you wouldn't do for other people
 - Boss
 
-# Clues
-- coded message that contains a password to the house of memories
-- Old timey painting of a well-known brothel in town
-- Boxes with false bottoms addressed to brothel
-- A single sending stone
-
 # Treasure
 - 4x vials of acid that create 10 feet of dangerous terrain when thrown and a d6 on a hit or when 1st enterring a splash
 - Love potions
@@ -28,7 +22,7 @@ They are confronting a group of thugs working for Adolphus Rockwell. They know t
 ## 1 - Lobby
 
 Door to 4 is ajar and can hear the sound of brutish laughter with a small amount of light creeping into the room. This room is only dimly lit and contains 2 other closed doors. This room contains just a desk with nothing in it, a cork-board with some old papers containing shift notes, team mantras, etc, and a couple wooden chairs stacked vertically against the wall.
-
+b
 ## 2 - Testing Chamber (locked, DC 10)
 
 - A rudimentary cage has been built in this room with a piss bucket, some food scraps, and rats scurry about and are feeding on a dead corpse of an older woman who appears to have recently passed away due to neglect.
@@ -41,6 +35,7 @@ Door to 4 is ajar and can hear the sound of brutish laughter with a small amount
 
 Contains a 3x orcish [Hammer thugs](/Nightmare%20and%20the%20Nexus/StatBlocks/Hammer_Thug.md) that are drinking and playing cards. Since they are drinking they have disadvantage on all their attacks.
 
+**Clue**
 - Room contains bed rolls, basic living items, and an old timey painting of the Boobonic (brothel)
 
 
@@ -68,7 +63,7 @@ Contains a 3x orcish [Hammer thugs](/Nightmare%20and%20the%20Nexus/StatBlocks/Ha
     - 1 human, 1 orc, named Mark and Gazmug respectively. They are seen collaboratively dialing in valves on a giant vat and are seen bickering about the order of operations.
 
 ### Treasure
-- Alchemical Enforcer drops the orcish necklace and a sending stone that is connected to an officer at the Boobonic
+- **Clue** Alchemical Enforcer drops the orcish necklace and a sending stone that is connected to Ceril Montgomery at the Boobonic
 
 ### Information
 
@@ -82,4 +77,5 @@ If the fight goes extraordinarily well for them
 
 ## 7 - Packing Room
 
-- contains wagon, boxes with false bottoms, lables addressed to the Boobonic.
+- contains wagon  
+- **Clue:** boxes with false bottoms, lables addressed to the Boobonic.

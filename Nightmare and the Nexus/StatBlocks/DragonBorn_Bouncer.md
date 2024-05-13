@@ -1,0 +1,12 @@
+**Dragonborn Bouncer (x2)**:
+  - **Armor Class**: 18 (Plate Armor)
+  - **Hit Points**: 65 (10d8 + 20)
+  - **Speed**: 30 ft.
+  - **Abilities**: Str 18 (+4), Dex 10 (+0), Con 14 (+2), Int 10 (+0), Wis 12 (+1), Cha 10 (+0)
+  - **Skills**: Athletics +7, Intimidation +3
+  - **Senses**: Normal
+  - **Languages**: Common, Draconic
+  - **Challenge**: 2 (450 XP)
+  - **Actions**:
+    - *Multiattack*: The bouncer makes two melee attacks with its warhammer.
+    - *Warhammer*: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (1d8 + 4) bludgeoning damage, or 13 (1d10 + 4) bludgeoning damage if wielded with two hands.

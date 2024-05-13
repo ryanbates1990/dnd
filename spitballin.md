@@ -101,16 +101,43 @@ Entertainment District: gambling house, theater, house of illusions
 
 # Immediate TODOs
 
+- Summary
+- Set scene for beginning of the session
+
 ## Rose Quest
 - Where exactly IS Rose - Is she in the basement of the brothel?
 
 ## Brothel Dungeon
+- location: in the feylight district, in view of the Atrani hill
 - brothel has a secret back entrance
 - should look initially like an ordinary cellar
 - should have lots of illusory magic
 - the main guy is 'the faceless man'
     - modifies memories of the victims
     - there should be some reveal that adolphis is behind the faceless man
+- practicals
+    - how does business typically operate there?
+        - typical strip club/bar/ pay by hour whores which is 50 gold an hour
+        - then there is vip treatment which is appointment only which is 500 gold an hour
+            - when purchased, they are given a ticket
+            - they show the ticket to some bouncers who unlock the door when shown
+    - How do people signal they want to enter the dungeon
+        - schedule a vip appointment with the first hour paid for and they receive a key
+    - what is security like?
+        - typical bouncers in the main floor of the brothel
+        - dragonborn guards + the faceless man in the vip area
+        - the schedule keeper knows some magic ,
+    - what treasure can they find there?
+        - book of vip clients
+            - one is of Van Greene, who in actuality is not a client, but was a doppelganger
+- clues to ties to adolphus rockwell 
+    - the faceless man can reveal it if close to death and promised life.
+    - dragonborn guards (can point out this is an unusual place for them) and that kobolds are known employ in a diamond mine
+    - small gaps in rose's coherence
+
+- other
+    - someone will try to escape to alarm adolphus of 
+    - number of kobolds in the brothel being loud and overly comfortable
 
 ## 9 Finger Nova
 - How can she actually exploit the Mayor?

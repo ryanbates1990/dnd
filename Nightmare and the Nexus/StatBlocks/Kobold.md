@@ -1,0 +1,11 @@
+- **Greasy Kobold Ticket Attendant**:
+  - **Armor Class**: 12 (Natural Armor)
+  - **Hit Points**: 22 (5d8)
+  - **Speed**: 30 ft.
+  - **Abilities**: Str 7 (-2), Dex 15 (+2), Con 10 (+0), Int 8 (-1), Wis 7 (-2), Cha 8 (-1)
+  - **Skills**: Sleight of Hand +4, Perception +0
+  - **Senses**: Darkvision 60 ft., Passive Perception 10
+  - **Languages**: Common, Draconic
+  - **Challenge**: 1/4 (50 XP)
+  - **Actions**:
+    - *Dagger*: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
