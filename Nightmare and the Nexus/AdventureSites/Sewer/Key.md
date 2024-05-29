@@ -234,3 +234,7 @@ the nest. If the party search the nest they will find the following
 - a small chest that contains a dead mouse and 8 gold pieces.
 
 ### Right Hand Path (Prince of Swarms)
+
+- roll on insanity table
+- meet the prince of swarms, survive 3 rounds of combat with him
+- then rael comes and haults the combat
