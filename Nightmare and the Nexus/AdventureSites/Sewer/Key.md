@@ -6,6 +6,8 @@
 
 ## History
 
+- Rael's lover refused to submit to Lolth who had no patience for defiance, and was eaten.
+- In a frenzy, Rael violently raged against anyone and everyone, and Lolth transmuted him into an abomination.
 - Rael, turned to a drider, who will not attack players who enter his lair. He wants players to come back and tell the tale to bring a multitude of adventurers to feast off of.
 - Rael, after turning to a drider, banished from the shadowfell, traversed back to the material plane, wanting to find acceptance and belonging.
 - He found himself beneath the newly developed city of Slygarten and settled deep in the sewers, finding that his presence incited violence and fear in people. He was a monster that needed vanquished.
@@ -151,7 +153,7 @@ tools and instruments designed for pain and cruelty, hang from the rafters, gent
 clanking together.
 
 If the players search the skeleton on the table they will find
-The Ring Of Mega Therion upon its finger
+`The Ring Of Mega Therion` upon its finger
 
 ### Morgue
 
