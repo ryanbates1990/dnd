@@ -8,7 +8,7 @@
 
 - Rael's lover refused to submit to Lolth who had no patience for defiance, and was eaten.
 - In a frenzy, Rael violently raged against anyone and everyone, and Lolth transmuted him into an abomination.
-- Rael, turned to a drider, who will not attack players who enter his lair. He wants players to come back and tell the tale to bring a multitude of adventurers to feast off of.
+- Rael was excommunicated and discovered new depths to loneliness.
 - Rael, after turning to a drider, banished from the shadowfell, traversed back to the material plane, wanting to find acceptance and belonging.
 - He found himself beneath the newly developed city of Slygarten and settled deep in the sewers, finding that his presence incited violence and fear in people. He was a monster that needed vanquished.
 - However, a small sect of curious minds sought to study him and Rael, desparate for acceptance, allowed them in his presence.
@@ -16,6 +16,8 @@
 - They practiced on rats of the sewers, growing them larger and stronger and fed them to Rael who saw this sacrifice as something of worship of him. It was the closest he felt to love since his lover was eaten by Lolth herself.
 - The magical waste of the cultists transformations permated the slow drippings of the sewer, creating rivers of slime that mutates that it touches. 
 - The cultists, so greedy, accidentally created mutated vermin to strong for them to control and were eaten by their own creations.
+
+- will not attack players who enter his lair if they agree to give him food. He wants players to come back and tell the tale to bring a multitude of adventurers to feast off of.
 
 # Locations
 
