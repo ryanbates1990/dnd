@@ -2,12 +2,12 @@
 
 ## Purpose
 
-- Rael, hungry still for flesh, growing sick of mutated rats, creeps to the surface every once in a while (if he can escape Lolth's gaze) to dine on something more... supple. 
+- Rael, hungry still for flesh, growing sick of mutated rats, creps to the surface every once in a while (if he can escape Lolth's gaze) to dine on something more... supple.
+- Rael believes meat is best when fear was strongest before the victim's death
 
 ## History
 
-- Rael's lover refused to submit to Lolth who had no patience for defiance, and was eaten.
-- In a frenzy, Rael violently raged against anyone and everyone, and Lolth transmuted him into an abomination.
+- Rael lived among the drow, seeking a new  life and belonging. And while he was praised for his might, his character was always in question. To prove his loyalty, he was to offer his lover as a sacrifice to Lolth. He refused to do so, and Lolth transmuted him into an abomination and consumed his lover anyway before his eyes.
 - Rael was excommunicated and discovered new depths to loneliness.
 - Rael, after turning to a drider, banished from the shadowfell, traversed back to the material plane, wanting to find acceptance and belonging.
 - He found himself beneath the newly developed city of Slygarten and settled deep in the sewers, finding that his presence incited violence and fear in people. He was a monster that needed vanquished.
@@ -17,7 +17,8 @@
 - The magical waste of the cultists transformations permated the slow drippings of the sewer, creating rivers of slime that mutates that it touches. 
 - The cultists, so greedy, accidentally created mutated vermin to strong for them to control and were eaten by their own creations.
 
-- will not attack players who enter his lair if they agree to give him food. He wants players to come back and tell the tale to bring a multitude of adventurers to feast off of.
+- will not attack players who enter his lair if they agree to give him food. Or if they are unafraid, finding the meat too 'pungent'
+- He wants players to come back and tell the tale to bring a multitude of adventurers to feast off of.
 
 # Locations
 
