@@ -49,12 +49,12 @@ Contains a 3x orcish [Hammer thugs](/Nightmare%20and%20the%20Nexus/StatBlocks/Ha
     - He is a muscular human in regular clothing with the sleeves torn off. His name is Bruce, he is assembling wooden crates from a pile of materials.
 - 3x [Researchers](/Nightmare%20and%20the%20Nexus/StatBlocks/commoner.png) are working on tables prepping ingredients and have a few boiling pots going over magical heat sources.
     - Names are Gale, Dilbert, and Gordon
-    - (will flee in a fight, if caught, will squeal all sorts of information.)
+    - (will flee in a fight, if caught, will squeal all sorts of information IF the thugs are taken care of)
 
 ### Researchers
 - use the commoner stat block
 - humans in white lab coats
-- names: Gordon, 
+- names: Gordon, Dilbert, Gale
 
 ## 6 - Brewing Room
 
@@ -67,7 +67,9 @@ Contains a 3x orcish [Hammer thugs](/Nightmare%20and%20the%20Nexus/StatBlocks/Ha
     - 1 human, 1 orc, named Mark and Gazmug respectively. They are seen collaboratively dialing in valves on a giant vat and are seen bickering about the order of operations.
 
 ### Treasure
-- **Clue** Alchemical Enforcer drops the orcish necklace and a sending stone that is connected to Ceril Montgomery at the Boobonic
+- Orcish Necklace
+- a code with written on scratch paper that reads `30781`
+- **Clue:** Dale's pockets have a crumpled up receipt in his coin pouch that reads 'VIP access: 7-8pm (2 days ago)'
 
 ### Information
 

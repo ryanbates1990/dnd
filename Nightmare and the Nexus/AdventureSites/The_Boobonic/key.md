@@ -86,8 +86,7 @@ The hallway patrols an `arcane eye` sent from the faceless man
 - `2 kobolds named Syd and Markle` are responsible for changing out the rooms between stays.
     - carry cleaning supplies, bed sheets, hotel cart basically.
 - `The faceless man` has his own room at the end of the hallway
-    - his room consists of his own bed, and items for ritual casting many spells. He has strange vials and devices all around.
-        - bat fur,
+    - his room consists of his own bed (a couple boards elevated off the ground), and items for ritual casting many spells. He has strange vials and spell components and devices all around.
 
 ### Faceless man
 

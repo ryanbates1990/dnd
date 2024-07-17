@@ -39,3 +39,7 @@
 **Reactions**
 
 ***Uncanny Dodge.*** When an attacker that the wizard can see hits it with an attack, the wizard can use its reaction to halve the attack’s damage against it.
+
+**Modify Memory Ideas**
+
+- a small girl came out of her room and one of the party beheaded her and her body was quickly carried away by some kobolds
