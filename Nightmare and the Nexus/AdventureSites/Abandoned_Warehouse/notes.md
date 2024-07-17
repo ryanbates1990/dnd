@@ -1,10 +1,13 @@
 # Concept
 location: Forgeheart
-denizens: Alchemical Thug, Hammer Thug, Alchemical Enforcer
+denizens: Researchers, Alchemical Thug, Hammer Thug, Alchemical Enforcer
 
 They are confronting a group of thugs working for Adolphus Rockwell. They know the following information about their use:
 - The potions make someone love you temporarily... You do things for people  you  love, you wouldn't do for other people
 - Boss
+
+The place is generally noisy, with bubbling and gurgling of a brewing potion as well as the juicer stocking materials, so some noise can be masked by other things.
+A `stealth check of 12` is really all it should take to hide behind the noise at least.
 
 # Treasure
 - 4x vials of acid that create 10 feet of dangerous terrain when thrown and a d6 on a hit or when 1st enterring a splash
@@ -25,7 +28,7 @@ Door to 4 is ajar and can hear the sound of brutish laughter with a small amount
 b
 ## 2 - Testing Chamber (locked, DC 10)
 
-- A rudimentary cage has been built in this room with a piss bucket, some food scraps, and rats scurry about and are feeding on a dead corpse of an older woman who appears to have recently passed away due to neglect.
+- A rudimentary cage has been built in this room with a piss bucket, some food scraps, and rats scurry about.
 
 ## 3 - Utility closet
 
@@ -59,6 +62,7 @@ Contains a 3x orcish [Hammer thugs](/Nightmare%20and%20the%20Nexus/StatBlocks/Ha
     - name is "The Juicer" or "Juice" for short.
     - a broad orc that is missing his left arm but wears a prosthetic backpack that has a long arm coming out of his back.
     - His long arm is currently pulling things off of high to reach places.
+    - He carries a code with written on scratch paper that reads `30781`
 - 2 [Alchemical thugs](/Nightmare%20and%20the%20Nexus/StatBlocks/Alchemical_Thug.md).
     - 1 human, 1 orc, named Mark and Gazmug respectively. They are seen collaboratively dialing in valves on a giant vat and are seen bickering about the order of operations.
 

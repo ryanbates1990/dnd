@@ -67,6 +67,7 @@ Down a small hallway behind the front desk. Behind a false wall there (that is o
 
 ## Storage room
 
+- This has alley access and is a locked door with a padlock with a code '30781'. This padlock is enchanted and can't be harmed by physical weapons.
 - Locked from the outside, mostly supplies for the bar upkeep, makeups, clothes, etc.
 - has a hidden cellar door that opens up to take goods to the vip area
 

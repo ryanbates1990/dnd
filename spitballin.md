@@ -104,12 +104,6 @@ Entertainment District: gambling house, theater, house of illusions
 - Summary
 - Set scene for beginning of the session
 
-## Opening Scene for Current Session
-- Belbor the giant's home. and took the devices controlling the climate of his indoor garden
-- dogs are dead,
-- found a ledger of clients noting an order for a large amount of cadaceous leaves to an address within the forgeheart district
-
-
 ## 9 Finger Nova
 - How can she actually exploit the Mayor?
 - What does her operation look like exactly?
@@ -142,6 +136,20 @@ Entertainment District: gambling house, theater, house of illusions
 - Need an explanation for the Kobolds!
     - They are just coming into town to party basically, and are able to find harder drugs on the edge of forgeheart/humble haven
     - They work as slave drivers in the diamond mine
+
+# Boobonic
+- Might need to review the treasure from this encounter/come up with some traps/interactable pieces of the environment.
+- Need a bigger lore drop to connect the crime to Adolphus - a notable gem or something (on his necklace), have this be noticeable
+
+## Rael
+- He wants a piece of Amber. It was his girlfriends favorite gemstone because it came from the trees and can preserve history in the rock. It would remind him of his youth. Amber can be found deep within the diamond mine northeast of the city. The mine has long been forgotten by the populace, but is being used by dragonkin and their slaves to search for diamonds. The mine also contains deep within it, a portal to the shadowfell.
+- Would be cool to have someone else know about him (rumors/religious studies at the University, cult members that want to meet him)
+
+## Cenarius Hook
+What IS he up to?
+- think I have some notes about a religion somewhere.
+
+# Character Specific
 
 ## Max
 Part of a tribe displaced by the undead immigration and he is championing the return and he needs help doing it.
