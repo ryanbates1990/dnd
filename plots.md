@@ -65,7 +65,7 @@ Him and his family were cursed after enterring an enchanted forest and made exam
 - mentioned that all should avenge his death if it occurs on a druid named cenarius
 
 ### Unknowns
-- The disease hastens aging, such that his life would be capped at around 28
+- The disease hastens aging, such that his life would be capped at around 30
 
 ### Potential Cures
 - pool of cleansing in the beastlands

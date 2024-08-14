@@ -38,6 +38,5 @@
 - druids outside of the city that get upset with the pollution from the factory?
 
 # Next Session TODOs
-- Prepare Scene at fox Hole (to meet with Jean Tannen and Locke Lamora)
 - Key the boobonic
 - Create encounter pieces for the boobonic
