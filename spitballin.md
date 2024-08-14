@@ -36,3 +36,8 @@
 - Silas and the gang
     - Think something is funny going on with the astral nexus. Former colleagues haven't been seen in months, they want to the bottom of it.
 - druids outside of the city that get upset with the pollution from the factory?
+
+# Next Session TODOs
+- Prepare Scene at fox Hole (to meet with Jean Tannen and Locke Lamora)
+- Key the boobonic
+- Create encounter pieces for the boobonic
