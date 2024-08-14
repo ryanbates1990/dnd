@@ -15,7 +15,7 @@ Overall atmosphere:
 - (a piano plays by itself)
     - `Note` if they 'guide' the piano it will inspire them with a d6 on charisma checks
 - spy `Ceril` at the front desk, who every once in a while has pixies flit in and out from the door behind him handing him notes. He takes a glance and files them away
-
+- A dragonborn bouncer guards the hallway to the vip area.
 
 
 **Ceril Montgomery** is the proprieter
@@ -43,6 +43,10 @@ An arched hallway leads from the Lobby to the Taproom which is notably more live
 
 people are drinking, playing cards, and occasional regulars are reading
 
+## 3. Dressing Rooms
+
+- mostly just the working girls
+
 ## 4. Ceril's Office
 
 - bookcase
@@ -59,46 +63,22 @@ Down a small hallway behind the front desk. Behind a false wall there (that is o
     - satchel of gold
     - scroll of disguise self
 - filing cabinet
-    - contains mostly letters from adolphus washington
+    - contains letters, notably there are some from adolphus washington which Harken would recognize as an incredibly influental person in the city.
 
-## Dressing Rooms
+## Hallway by by Ceril's Office
 
-- mostly just the working girls
+past the dressing rooms and before the storage room is a set of stairs that descends into darkness and is guarded by 2 dragonborn bouncers (named Tharok, and Sylara). the hallway veers to the right so you can't see the guards as a normal patron.
 
-## Storage room
+## 5. Utility Closet
+
+## 6. Storage room
 
 - This has alley access and is a locked door with a padlock with a code '30781'. This padlock is enchanted and can't be harmed by physical weapons.
 - Locked from the outside, mostly supplies for the bar upkeep, makeups, clothes, etc.
 - has a hidden cellar door that opens up to take goods to the vip area
 
-## Vip area
+## 7. Kitchen
 
-past the dressing rooms and before the storage room is a set of stairs that descends into darkness and is guarded by 2 dragonborn bouncers (named Tharok, and Sylara). the hallway veers to the right so you can't see the guards as a normal patron.
+## 8-15 Upstairs rooms
 
-It is just a long hallway with small, well furnished rooms. There is a small room in the front and back. There is a makeshift lobby in the front, and storage room in the back (underneath the upstairs storage room)
-
-There are 6 rooms that resemble hotel rooms with living supplies for the girls. 4 are occupied. One by Rose. 2 are of similar age, 1 is of a young child. The names are Luthien, Cora, and the little girl is Penelope. None have been here more than 6 months, and are regularly brainwashed by the faceless man.
-
-The hallway patrols an `arcane eye` sent from the faceless man
-
-- The ticketmaster is a `kobold named snik`. He holds the keys and takes the tickets.
-    - gives customers a vial of the cadaceous leaf potion upon ticket entry and a key
-- `2 kobolds named Syd and Markle` are responsible for changing out the rooms between stays.
-    - carry cleaning supplies, bed sheets, hotel cart basically.
-- `The faceless man` has his own room at the end of the hallway
-    - his room consists of his own bed (a couple boards elevated off the ground), and items for ritual casting many spells. He has strange vials and spell components and devices all around.
-
-### Faceless man
-
-`GM note` He is a skeletal mage who's undead skull contains an enchanted device that sets the wearers intelligence to 18. It can be seen as a cold blue glow in the left eye socket of his hollow skull and produces a small rhythmic hum. He has tendons that creak and crack as he walks. He is a bondsmage which come from a guild of mages for hire that are gifted but come with extraordinary costs, some costing upwards of a thousand gold a day
-
-- offices contains 3 potions of greater healing
-- 2x modify memory spell scroll
-- potion of clairvoyance
-- a satchel of a 1230 gold
-
-# Statblocks
-
-- [Kobold](/Nightmare%20and%20the%20Nexus/StatBlocks/Kobold.md)
-- [Dragonborn bouncer](/Nightmare%20and%20the%20Nexus/StatBlocks/DragonBorn_Bouncer.md)
-- [Faceless Man](/Nightmare%20and%20the%20Nexus/StatBlocks/Faceless_Man.md)
+guarded by regular bouncers
