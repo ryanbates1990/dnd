@@ -120,4 +120,4 @@ Inside:
 - empty pond (koi pond)
 - can here each of your footsteps reverberate, highlighting the empty space
 
-If there is a meeting, they are meeting deep inside the lab on stacked pallets around a chalkboard
+If there is a meeting, they are meeting deep inside the lab on stacked pallets around a chalkboard and populated bymMostly drow, The mayor and his cabinet, wealthy humans (mostly men) that likely are employed in planar studies engineering and research roles
