@@ -8,5 +8,6 @@
   - **Languages**: Common, Draconic
   - **Challenge**: 2 (450 XP)
   - **Actions**:
+    - *Lightning Breath (Recharge 5-6)*: 10 foot cone of lightning dealing 4d8 damage
     - *Multiattack*: The bouncer makes two melee attacks with its warhammer.
-    - *Warhammer*: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (1d8 + 4) bludgeoning damage, or 13 (1d10 + 4) bludgeoning damage if wielded with two hands.
+    - *Warhammer*: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (1d10 + 4) bludgeoning damage

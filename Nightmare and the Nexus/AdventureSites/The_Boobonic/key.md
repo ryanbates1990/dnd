@@ -90,10 +90,10 @@ The hallway patrols an `arcane eye` sent from the faceless man
 
 ### Faceless man
 
-`GM note` He is a skeletal mage who's undead skull contains an enchanted device that sets the wearers intelligence to 18. It can be seen as a cold blue glow in the left eye socket of his hollow skull and produces a small rhythmic hum. He has tendons that creak and crack as he walks. The device in his skull was `created by some horny bastard` who had devised this plan to have an undead being be liable for his sexual crimes.
+`GM note` He is a skeletal mage who's undead skull contains an enchanted device that sets the wearers intelligence to 18. It can be seen as a cold blue glow in the left eye socket of his hollow skull and produces a small rhythmic hum. He has tendons that creak and crack as he walks. He is a bondsmage which come from a guild of mages for hire that are gifted but come with extraordinary costs, some costing upwards of a thousand gold a day
 
 - offices contains 3 potions of greater healing
-- modify memory spell scroll
+- 2x modify memory spell scroll
 - potion of clairvoyance
 - a satchel of a 1230 gold
 
