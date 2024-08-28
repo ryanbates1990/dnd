@@ -38,5 +38,40 @@
 - druids outside of the city that get upset with the pollution from the factory?
 
 # Next Session TODOs
-- Key the boobonic
-- Create encounter pieces for the boobonic
+- Bief's encounter with Tempus.
+    - It seems like an ordinary rebuke, but it *seems* like the interaction is complete yet unbenkownst to Bief, the vision continues with Tempus leading him to the Havrani encampment, but the encampment seems like the old homeland... like they found a place to truly be.
+- **Test of Courage** The Havrani's splendor is restored and peace is among them. Most of the men are out enjoying a hunt. The time is dusk and as the sun goes to sleep, some people come out to enjoy the nightlife. Things appear normal but as the sun finally sets, vampires attack and murder civilians right and left. People flee and encourage bief to leave, lest he be turned, and to live to fight another day when he has help from others being back from the hunt.
+- **Test of Leadership** Chamber of sacrifice. Need some sort of goal, like offering enough blood to a bowl to release some sort of magical forcefield.
+    - periodically being attacked by something is good... but it would be nice if there were 3 distinct roles that could be performed.
+
+    - in the 4 quadrants of the room there are
+        - door that is closed by a shimmering, transparent magical barreir that leads to great treasure
+        - a bowl of sacrifice (enough blood here opens the door). Requires 30hp of blood to complete the ritual, 1d8 at a time
+        - a bowl of healing (limited), can heal up to 60 hp, 2d8 at a time.
+        - a crank on the side of the room that rotates a mirror in the center of the room. Players can spend a turn to crank the mirror a full 180 degrees. The light illuminates 25 percent of the room at any given time.
+
+    - in each corner of the room is a guardian, if the guardian is exposed to light, it is encased in stone and cannot move, if left in darkness, they are awoken and seek to destroy the pc's. 
+
+    - 4 guardians, 2 warriors that guard the bowls. A ranger and a mager on the opposite side.
+    - the archer can shoot an arrow that encases a 5 foot area in darkness that lasts for 2 turns.
+    - mager's bolt sends dark energy and reduces maximum hitpoints.
+    - the mager can *share* or siphon 2d8 damage from another guardian that is currently in darkness.
+    
+    all the while there is an exit that anyone can take at any point. The exit 
+- **Vision** of the PC's, and where the PC's are, or where to meet them.
+
+# Castor introduction
+
+`GM Note` The amulet of lost dreams is in possesion of the Mayor who seeks to return it to the raven queen herself. The mayor used the amulet to relieve adversaries of their memories, thus, not much is known of his rise to power.
+
+Castor receives a mission to disrupt a caravan (`GM Note: ` carrying precious metals known to exist in the astral plane) and leave no survivors. It is imperative this is done in secret
+
+(This should unlock the labratory dungeon and this is where we should reveal that the mayor both has the amulet and has the means to travel through the astral plane)
+
+# Yugi introduction
+
+In the slygarten university Yugi is confronted with a librarian who is frustrated with him for lingering too long in a restricted section which is closing soon. (Most of the library is open 24 hours). He then inquires about what he is actually looking for and sees if he can help him push him in the right direction.
+
+If luke complies, he is provided a book that contains the location of an exodia artifact, one that lies in the beast planes.
+
+He then proceeds to sleep in a chair in the university

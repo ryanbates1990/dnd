@@ -85,3 +85,24 @@ Him and his family were cursed after enterring an enchanted forest and made exam
 ### Ideas on story incorporation
 - Rex is haunted by the dragon in his dreams, specifically the eyes.
 - People scoff at his last name, people could believe that he hasn't earned his name, as Elandor is heroic in his accomplishments. Akin to someone referring to themselves as Hercules.
+
+# Yugi
+
+small boy from Camorr, a coastal town far northwest known for venetian like water streets and elderglass tower, owns a puzzle box that beloned to Amascut, the sister of Ithlcarin, 
+
+## Amascut's history
+2 demi-god like creatures that were created an age ago, created by Tumeken the god of the sun and his wife, elidinis a goddess of fertility and the river. To the layman, Ithlcarin is a fabled protectorate of a city in ruins in the kharidian desert, south of Slygarten. Amascut is mentioned as a rival in the uncovered heiroglyphs, but nothing is found of her existence. However, some archeologists may recognize her icons. Yugi's puzzle box suggests that Amascut's dwelling may have been near the location of the box's discovery.
+
+Amascut had the ability to transmute and dominate her opponents and sought to control large populations. She gained her powers by consuming souls of powerful beings. Her ultimate goal to consume a high priest of ithlcarin, which she believed would give her the power to control the beasts of the upper planes. To combat Amascut, Tumeken himself imbued his divine essence with massive automatons that have been lost to the sands of time.
+
+Amascut, in retaliation, formed her own army by dominating a race called the scabarites and other huge creatures. those are detailed here https://oldschool.runescape.wiki/w/Amascut#Seeking_the_Wardens.
+
+Legend is that Amascut became so powerful by touching the stone of jas. A stone that is believed to be the source of all life and magic. This artifact of unknown origin, is said to have been broken into shards by warring gods and scattered across the planes. Some lesser gods have mythologies that speak of claiming godhood by finding pieces of the stone which contained enough power to manipulate the weave for their own interests.
+
+The implication, is that where amascut's tomb is, may contain shards of jas.
+
+# Castor (Rex)
+
+- a letter shows that he should take down an exported cart which will reveal astral origin metals
+- If message from the letter is decoded, he is shown that adolphus should be stopped.
+- If confronted, it is known that adolphus is away to investigate the progress on one of his many investments, at this time someone from the Mayors cabinet may seek to inform the players of the astral nexus laboratories whereabouts and that the mayor's hand is being twisted
