@@ -76,6 +76,8 @@ agreeing to help him results in -1 sanity
 
 If the players agree to help, +1 sanity
 
+If you destroy the myconid, he will give the party a pendant of dawn (casts dawn once per day)
+
 # 7: Pool of Reflections
 
 > Tendrils and patches of Mycelium engulf this vast chamber, but they recede suddenly in a large circle in the center of the room, as if there was an invisible barrier behind which they cannot grow. Within that circle is a large pool and around it are different spiritual beings that stare into the pool. Beyond the pool lies a path to an archway to a chamber. You can hear deep, yet soft pulses coming from the far end of the chamber.
