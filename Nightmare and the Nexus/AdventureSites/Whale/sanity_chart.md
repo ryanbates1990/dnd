@@ -6,7 +6,7 @@
 | +2           | Astral Awareness | Opportunity attacks cannot be made against you |
 | +1           | Whale's Favor   | Enriched with a sense of purpose. A feeling that you are in the right place at the right time.                |
 | 0            | Neutral         | Normal state—players unaffected by fungal spores or whale’s wisdom.      |
-| -1           | Mild Hallucinations | You start to feel like maybe you can't trust the whale |
+| -1           | Mild Hallucinations | You start to feel like maybe you can't trust the whale, that you're doomed to die in here |
 | -2           | Fungus Influence| Occasional loss of control or impulsive actions, disadvantage on ability checks. |
 | -3           | Paranoia        | Everyone is out to get you, you automatically fail social rolls  |
 | -4           | Madness         | Severe hallucinations, players struggle to tell real from illusion; Whenever someone enters your melee range, attack them |

@@ -39,7 +39,7 @@ Memory Puzzles: To access certain areas or cleanse parts of the whale’s body, 
 The Myconids offer the players dominion over a new plane of their design
 
 
-# Potential Rewards
+# Rewards
 - Yugi learns the daylight spell + told a shard of Jas resides in
 - Beif - background of the Ravenqueen - talk about the ritual that broke the ravenqueen, and that those mages reside in the bubble. Additionally, a promise to break the bubble if they can cleanse the land
 - Castor - telling him that Lolth's influence over the land is the same influence that befell your friend Charles. The old gods will turn a blind eye to any vengeance reaped. Plus, grants immunity to spells that effect his memory

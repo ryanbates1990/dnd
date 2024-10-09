@@ -97,3 +97,65 @@ Enaging positively yields +1 sanity
 touching the edge yields -1 sanity
 
 # 8: Infested Chamber (fight)
+
+> Enterring through the archway you see a room like you've never seen before. The floor and ceiling are covered in cilia, like a plain with tall grass, with 4 huge, cilia covered columns stretching from floor to ceiling. It looks like there once were many columns but have since whithered away, leaving a small mound of decay. The left and right walls are entirely gone, looking at the ceiling is like looking into the night sky with only thin, shimmering veil separating you from the chamber you are in and falling into the void. Periodically a large rush of wind hurls space dust from one side of the room to the other and you can see the cilia grabbing at debris from the air around it.
+
+> At the far end of the room, A giant, fungal abomination working its tendrils violently against a radiant seal, preventing it from moving beyond the whale's astral lungs. It rises and shifts its deep blue eyes towards you and pauses for a moment. He reaches out with a spectral tendril that latches on to your minds. It says in a deep voice, 'Surely you present yourselves as servants of Rhaexorog, to break into the vault and steal the flame of creation, a flame from the fire that out of which came the first things. We shall create for us a world of our own design through the mind of this wonderful host.'
+
+## Environment
+
+- Chamber can breath, pillars that prevent movement. Myconids tethered to the ground are unaffected by the breath
+- astral expanse/curtain at the sides of the room that has a time stop feature for living creatures that enter the expanse.
+    - when it breathes, space dust flows from one side or the 
+    - players that are knocked are protected by the cilia
+- Cilia at the floor, ceilings, and columns of the chamber
+- 4 pillars, you can see where many more pillars were but have been corroded and worn away
+
+## TPK Prevention
+
+- if a player is knocked, they fall to the ground and the cilia covers them and guards them from taking additional damage. 
+    - if a player cannot get to them to save them, the cilia will move them towards the expanse
+- if a player is lost into the expance, they appear floating in the astral sea and are provided a bubble from the great whale allowing them to regain consciousness. They can thing talk to the whale about where the want to go.
+
+## Myconid Overmind Abilities and Mechanics
+
+HP: 95
+AC: 15
+Speed: 20 ft. (slow, ponderous movement)
+Attack Bonus: +5 to +6
+Damage: 1d8 + 3 to 1d10 + 4
+
+### Regeneration (Passive Trait)
+If the Overmind is connected to it's host via a fungal connection, it heals 2d8 at the start of its turn as it sucks life from the host through a large, fungal column.
+
+Network Connection AC: 13
+Network Connection HP: 30
+
+### Spore Cloud (Recharge 5-6)
+The Overmind releases a cloud of hallucinogenic spores in a 20 ft. radius. All creatures in the area must make a DC 13 Constitution saving throw or become poisoned for 1 minute. While poisoned, they suffer disadvantage on attacks and may see illusions (GM discretion).
+
+Twist: A player failing by 5 or more may experience vivid hallucinations tied to their growing "sanity" struggles in the whale.
+
+### Parasitic Influence (Recharge 4-6)
+The Overmind attempts to latch onto a creature's mind spectral tendrils. The target must succeed on a DC 13 Wisdom saving throw or become charmed for 1 minute. While charmed, they must use their turn to attack the nearest ally.
+
+Player Agency: The player can make a Wisdom save at the end of each of their turns to break the effect early.
+
+### Fungal Minions (Action)
+
+The Overmind spawns 2-3 smaller Myconid Spore Servants (weaker minions) to assist in combat. These minions act as distractions, pulling the players’ focus away. Each minion has:
+
+HP: 10
+AC: 12
+Movement: 30ft
+Basic melee attack: +4 to hit, 1d6 poison damage.
+
+On Death: Minions can explode on death, forcing players within 5 ft. to make a Constitution saving throw (DC 12) or take 1d6 poison damage.
+
+### Mind Control Spores (1/Day)
+
+Must be less than 25 hp to activate
+
+The Overmind releases spores that attempt to take control of one player for 2 rounds. The player must make a DC 14 Wisdom (+ sanity score) saving throw at the start of each turn or be dominated by the Overmind. They will attack their allies or perform a dangerous action chosen by the GM.
+
+Twist: The players with low sanity are especially vulnerable to this.
