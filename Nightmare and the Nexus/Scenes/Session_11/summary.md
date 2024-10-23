@@ -1,0 +1,12 @@
+# Summary
+- The group, initially distrusting Teddy, formerly known as Mayor Theodore Blackburne, reluctantly agreed to board a spacecraft that launched themselves into the astral sea.
+- Yugi sought to read some technical manuals while the others patiently awaited their arrival within Kellemvor's quarantine.
+- A huge, whale like creature emerged out of hyperspace next to the ship, and spoke telepathically to Bief.
+- The whale let him know that it has a parasite and is recruiting the party to help rid the infestation. The whale encouraged Bief that he was aware of his plight and would break the bubble if he was able to calm the undead infestation.
+- The party was swallowed and emerged from their vessel in the whale's belly.
+- Traversing the inside of the whale the party learned that it was of strange origin and has the ability to create planes given its gifted fire of creation. The party met it's person who sensed it was endanger of being accessed by the parasitic fungal overmind.
+- Additionally the party uncovered some of the whale's lost memories, learning that it abstains now from creating planes because he feels responsible for corrupted.
+- Knowing that the spore's influence took root in the mind, you can sense that the whale is desperate to maintain control of its mind and body.
+- The Fungal abomination, who seeks to create a homeworld for his warlord Rhaexorog to enslave all goo, beckons you to allow him access to the seal that shuts the fire of creation.
+- Yugi has the key
+- what do you do?

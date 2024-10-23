@@ -10,6 +10,6 @@
 
 - She was originally a much beloved elf queen from the Feywild. 
 - The Ravenqueen was originally ushering the elves to Arvandor (a divine realm), but some of her wizard follwers siphoned some of the ritual magic into themselves for their own gain. 
-- In retaliation the Ravenqueen pushed them severely with a burst of divine fury. This corrupted the ritual and dragged the queen and her followers into the Shadowfell where she was killed. But because of her divine powers arose and grew in madness and grief (probably obsessed with memories of her previous life), she then transformed the wizards into wretched avian forms known as nagpas and banished them forever. 
+- In retaliation the Ravenqueen pushed them severely with a burst of divine fury. This corrupted the ritual and dragged the queen and her followers into the Shadowfell where she was killed. But because of her divine powers arose and grew in madness and grief (probably obsessed with memories of her previous life), she then transformed the wizards into wretched avian forms known as nagpas and banished them forever. The nagpas know the ravenqueen despises the undead and in their hate, seek undead dominion.
 - Her form dissolved into disconnected sensory perceptions and is now extremely mysterious because of that.
 - It is Rumored that she led a campaign against a god of death who held dominion in Pluton, an a gloom plane in Hades
