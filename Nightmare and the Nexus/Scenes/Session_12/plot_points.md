@@ -9,6 +9,7 @@ Think we do Encounter 11, Havrani ambushers take notice and lead them.
 
 > child rustling in the woods making a panicked escape
 
+- name is Fresnen
 - The artifact the kid has is a palantir that the nagpa can speak through and get his location. 
 - His parents sacrificed so that he could escape his labor camp, but he is in great danger.
 - he is being chased by a lesser deathknight and 2 skeletal hounds
@@ -73,3 +74,5 @@ Darkmeyer itself is just like rs, super shitty, vampires lurking, etc.
 - they have to steal/farm rats/rodents to eat.
 - they can use fires in certain circumstances, the mist reduces visibility to the flame, but the smell can be a problem they need to cover up
 - children are kept in bunkers to keep them quiet, trained in early childhood the art of stealth.
+
+# SALVELE
