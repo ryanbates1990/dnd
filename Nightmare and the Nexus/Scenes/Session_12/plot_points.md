@@ -31,7 +31,7 @@ Havrani come to rescue/insight the players about their dealings.. To gain trust 
 
 If the party would refuse, the Havrani may attack if they are not thoroughly convinced that they are not aligned with the nagpa.
 
-- `GM NOTE` Teddy's girl is a slave that performs for Verzik's theater.
+- `GM NOTE` Teddy's girl (Salvelle) is a slave that performs for Verzik's theater.
 
 - The Havrani suggest an 'up front' approach which will be likely deadly... or find an alternate route into the walls which may involve persuading the help of creatures within the forest. There are other Havrani survivors that grew to be more aligned with the evil forces of the forest. Some remain neutral aligned with powerful allies and features... but they are often, untrustworthy
 
@@ -49,10 +49,11 @@ Madame Aelira, who has begun the process of becoming a hag.
     - She regrets this, but given her gift, she does experience some power and is generally left alone.
     - She is, however, genuine in her longing for the land to be cleansed, seeing it as an opportunity for some sort of redemptive arch for her.
     - that being said, she wants to help the players, but to ensure servitude, will poison the players with a delayed poison...
-        - the cocktail will also show them a path to an underground storehouse the vampires use to store 'extra' blood from victims (this would be overtaxing and would anger the nagpa if they found out)
-    - Could be shown that the 
+        - the cocktail will also show them a path to an underground storehouse the vampires use to store 'extra' blood from victims ( `GM NOTE` this would be overtaxing and would anger the nagpa if they found out, an implication of this is that food stores are dying for livestock and humans)
 
-The other croud of the camp's members look rough, and are primarily geurilla fighters that are servants of the other two. They often fight and bicker and are almost feral like.
+The other croud of the camp's members look rough, and are primarily geurilla fighters that are servants of the other two. They often fight and bicker and are almost feral like. They are of different
+
+`GM NOTE` The poison acts similarly to the geas spell, creating some involuntary servants.
 
 # Another possible Encounter:
 
