@@ -45,17 +45,26 @@
             - Bloat - the Bloat was created by using three giant heads, an ogre's corpse, four buckets of human blood, two cyclops arms, two catablepon legs, an apple pie, and a sense of pride. Lord D's hobby-like creation
 
 ## The Wizard in the Woods
+- Wizard of the Woods (Silas Krauss)?
+    - He discovered the broken limbs off the blisterwood tree and studies the magic woven into it from the shard of jas.
+    - He discovered the magic accidentally by playing fetch with an undead dog. When it retrieved the stick it had... ill-effects.
+    - compares the effects of animation of the dead being sine... well then blisterwood is the cosine of it.
+    - He hopes his study will help him better understand the magic of life and what perpetuates the living/keeping the living from passing into a state of non-living. Seems to be something wildly different when going from death to animation.
+    - came beyond the bubble with the help of some friends back home at his university
 
 ### Blisterwood weaponry
+- daggers/etc. 2x damage against undead and vampyres, but break on a 1-5(d20)
+    - count as radiant damage
+- has enough to make 1d6 + 3 daggers and 1d8 + 3 arrow shafts
 
-# TODO
-- Wizards House
-- Provide quick run-down of a few paths to Castle Drakan
-    - down the middle solves the riddle
-    - some other way (Probably the biggest TODO ?)
-    - maybe quick pass on what Lord D's castle looks like
-    - ie: what do the vyre-watch look like/stat blocks. Zombie Hordes? Some other fun, caged monster?
-- Detail the EXACT benefits of blisterwood weaponry and how much to give out
+### Vyres
+- half as healthy as vamps, 15 AC, can't call creatures, cannot regenerate when reach 0 hp, only heal 10hp in between turns if was not damaged with radiant damage.
+
+### Other monster ideas
+- zombie horde
+- trolls
+- werewolves
+- 
 
 # BBEG dealings
 - Lord D:
@@ -68,6 +77,3 @@
     - He uses the power of the shard to sustain the land, wisely knowing that resources are finite.
     - He also is able to read magical histories from the stone and has even acquired some of the ravenqueen's lost memories.
     - He is perched on a blisterwood tree shooting off the top of the mountain.
-
-- Wizard of the Woods?
-    - He discovered the broken limbs off the blisterwood tree and studies the magic woven into it from the shard of jas.
