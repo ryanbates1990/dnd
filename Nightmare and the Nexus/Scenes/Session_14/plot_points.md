@@ -36,8 +36,17 @@
 - She wants to rule over a kingdom, not a corpse. Drakan's gluttony will leave nothing left and everyone will pass away into dust.
 - She wants Lord D dead, can't do it on her own because she would need an invite
 - She wants the Havrani to thrive a little bit.
-- There is a wizard in the woods who's made a small laboratory and may have weapons that could be beneficial in taking down Lord D.
+- **Suggests to visit the wizard in the woods** - There is a wizard in the woods who's made a small laboratory and may have weapons that could be beneficial in taking down Lord D.
 - She and her brother could assist with passage in some way?
+    - *caution, brainstorming* - maybe this could be a secret way into the castle? A secret passageway within the mountain that would reveal Lord D's storehouses.
+        - This includes human farms basically on life-support and bodies of different races as well, siphoning into a river of blood that trickles into a cavern that eventually opens up into an ornate balcony that oversees specific balconies of chained creatures.
+            - Lord Xarpus (winged, acid breathing gargoyle creature)
+            - Lady Saravele (empowered by blood and battle hardened by gladiator style contests)
+            - Bloat - the Bloat was created by using three giant heads, an ogre's corpse, four buckets of human blood, two cyclops arms, two catablepon legs, an apple pie, and a sense of pride. Lord D's hobby-like creation
+
+## The Wizard in the Woods
+
+### Blisterwood weaponry
 
 # TODO
 - Wizards House
@@ -46,6 +55,7 @@
     - some other way (Probably the biggest TODO ?)
     - maybe quick pass on what Lord D's castle looks like
     - ie: what do the vyre-watch look like/stat blocks. Zombie Hordes? Some other fun, caged monster?
+- Detail the EXACT benefits of blisterwood weaponry and how much to give out
 
 # BBEG dealings
 - Lord D:
