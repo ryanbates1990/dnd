@@ -12,7 +12,7 @@
     - Morren
     - Darren
 1. Troll:
-    - Mort
+    - Chip
 
 ## Vanescula
 

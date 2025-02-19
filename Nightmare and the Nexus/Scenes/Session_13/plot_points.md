@@ -13,7 +13,7 @@ largely refer back to the plot points of session 12 and if you need more, those 
 
 # Camps
 
-## Ira's camp
+## Fresnen's camp
 
 - small quarry used to extract building materials.
 - he escaped and since then, several havrani have been slayn. Ira was able to escape by causing a large boulder to fall upon the vampire overseeing the camp and several drow. This caused a panic and ira escaped.

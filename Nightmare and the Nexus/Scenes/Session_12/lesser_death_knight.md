@@ -48,6 +48,7 @@ As a bonus action, the Lesser Death Knight emits a frightful aura. Each creature
 ### Actions
 
 #### **Multiattack**
+
 The Lesser Death Knight makes two melee weapon attacks.
 
 #### **Greatsword**

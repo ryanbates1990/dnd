@@ -1,4 +1,5 @@
 `Note:`
+
 - remember birds
 - venescula's promises
 - blisterwood weaponry
@@ -19,7 +20,15 @@
 - The wizard, a human named Silas was his name, lived in a patchwork cabin exhibited his ability to blow the place up if there were any funny business, but other than that, welcomed you in.
 - He held different varieties of undead in cages with mobiles of blisterwood of different sizes, and one with none. He claims the wood from the top of the mountain has a disentegrating effect on the undead, undoing whatever animate magic is taking place.
 - He takes interest in you guys and pleads for a vampyric specimen and outfits you guys with some of his handcrafted blisterwood weaponry
-
-// TODO, how much did he give?
-
 - You guys began to venture off towards the mountain pass to take on Lord Drakan
+
+### Blisterwood weaponry
+
+Silas provided 4 Blisterwood daggers + 3x arrow tips
+
+Blisterwood Dagger Properties:
+
+- count as radiant/magical damage
+- 2x weapon damage against undead/vampyres
+- Leaves victim vulnerable, next hit (before the start of your next turn) is double damage
+- Fragile: On a miss, has a 25% chance of breaking (1-5 on a 20)
