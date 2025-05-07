@@ -13,10 +13,18 @@
 - You encountered a chef who appeared to be made of stiched together flesh named Josef, who was barking orders at some ghoulish assistants. You learned that tonight is a feast, and there is a large gathering of vampyres waiting to dine as they watch Havrani slaves battle in the theater of blood for freedom. Lord Drakan watches from his lone balcony atop a spiral staircase from the final chamber of the theater. The only way to him, is through.
 - Before you, you stand between in the middle of a grotesque kitchen filled with ghouls serving forbidden flesh, a warehouse full of jars of blood, with young vyres gluttonously sneaking sips as they guard their hoard of havrani blood, and finally the corridor to the dungeon that houses tonight's contestants in the one and only, theater of blood.
 
-## Immediately
+# Immediately
 
 - if the party is still, the vyres begin to smell their presence
 - guards patrol the chambers, but they are relaxed in that they are more poised to release them into a huge, granite staircase ascending to what could only be the first chamber.
+
+`GM Notes`: Vanescula and company were invited in via the drow in disguise that they freed from the camp.
+
+# Aid
+
+- if Bief talks to any of the Havrani contestants and suggests that he is here to free their people... they slip him a superior healing potion that is in their shoe.
+- In the theater, if things ever look grim.. They may be thrown 2 superior healing potions from the chaos ensuing in the balconies and must be caught with Dexterity 12
+- If things looks extremely grim.. Chip (troll name?) busts into the viewing gallery and takes 2 turns to enter the fray
 
 # Beginning a Night at the Theater
 
