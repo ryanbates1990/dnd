@@ -161,6 +161,8 @@ Yet a flicker of hope—barely visible—flares in her gaze. Her tone shifts, qu
 
 ## Bloat
 
+> After the players make it to bloat, you notice that many vampires have began attacking each other, and they spot Venescula among them
+
 - looks similar to the kitchen chef from the basement. A stitched creation using the body parts of different races such as ogres and cyclopes.
 
 ## Xarpus - King, and last of the Yarasa
@@ -171,5 +173,6 @@ Yet a flicker of hope—barely visible—flares in her gaze. Her tone shifts, qu
 
 - use vampyre statblock with extra hp (he is a glutton, afterall)
 - Ranis and Vanescula will approach after the encounter is initiated.
+- He sports a legendary scythe of vitur
 
 - He wants Bief to be the next Trophy in the theater. His Havrani blood will taste sweet, and his body a spectacle, and people will love to see him die a thousand deaths.

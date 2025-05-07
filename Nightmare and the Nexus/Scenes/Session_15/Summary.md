@@ -8,7 +8,7 @@
 
 - After recovering from the aftermath of defeating a couple death knights and their hounds, you proceeded onward to liberate another camp
 - On your way, Venescula, sister of Lord Drakan, and a pack of wolves stood in your way. She was seen fiddling with the totem that the Havrani boy possessed which he claimed would lead him to a maiden in the woods.
-- Harken blasted her with a Dawn spell but was quickly munched on by wolves and passed out
+- Yugi blasted her with a Dawn spell but was quickly munched on by wolves and passed out
 - Venescula insisted that you guys have a mutual interest in taking down Lord D, but could not allow you to liberate the camps.
 - She told you that Lord D rules with gluttony that will destroy all humans in their bubble and that this will ultimately destroy the vampires. She wants to usurp and rule in a more sustainable, symbiotic fashion. This of course means the tax man will still exist.
 - This upset some of the party, which responded by trying to marry Bief to Vanescula, who was seemingly uninterested.
