@@ -17,3 +17,47 @@
 
 - if the party is still, the vyres begin to smell their presence
 - guards patrol the chambers, but they are relaxed in that they are more poised to release them into a huge, granite staircase ascending to what could only be the first chamber.
+
+# Beginning a Night at the Theater
+
+- Sirius by alan parson project
+
+## ⚔️ Lord Seraphan Vynhart - Master of Ceremonies
+
+A pale, ethereal figure, Lord Vynhart’s presence dominates the arena. His crimson eyes gleam in the torchlight as his voice echoes through the Theatre of Blood.
+
+---
+
+### **Introduction**
+
+## **Introduction**
+
+"Ladies and gentlemen, welcome to the **Theatre of Blood**! Tonight, we present a battle like no other. The stakes? **Life or Death!** The champions? **Courageous!** The adversaries? **Monstrous!**"
+
+"Now, let's meet tonight's **champions**—WHO will rise... and WHO will fall?"
+
+
+
+---
+
+### **For Lady Salvele - Princess of Gloom Hollow**
+
+"Standing at 6 feet tall, draped in shadows darker than night, hailing from the **bleeding heart of the Shadowfell**... she is the mistress of illusions, the sovereign of sorrow, the enchantress whose whispers end wars—**LADY! SALVELE!**"
+
+---
+
+### **For Bloat - Fleshly Abomination**
+
+"Lurching in at a staggering **8 feet tall** and weighing in at *'too much to measure'*, stitched from sinew, rot, and regret... born from failed alchemy and *pure disgust*—**BLOOOOAAAAT!**"
+
+---
+
+### **For Xarpus - The Yarasa King, Venous Bat Behemoth**
+
+"Finally, standing at 7 feet tall with a wingspan of 18 feet. His venom will turn victory to dust for all those that oppose him. The last known of his kind. You know him well, folks. Give it up for the venemous, the gargantuan, Yarasa King, **Xarpus**"
+
+---
+
+### **Closing Words**
+
+"Tonight, there will be blood!"
