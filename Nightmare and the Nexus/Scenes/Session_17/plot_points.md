@@ -43,6 +43,9 @@ The undead provide dual purpose, not only to fuel it's memory necromancy, but al
 
 after the characters interact with the pool (some may try to reach but memories allude their hands, like schools of small fish)
 
+maybe after some time here, have carrion birds appear in the window, scatter, and then hear footsteps of the nagpa emerging from above
+
+
 - Level 5 is a circular crown of the tree with crystalline branches projecting the signal skyward. This is Urzith's “nest”. Here thousands of books, scrolls, feathers lie strewn about. 
 
 Nagpa statblock: https://dr-eigenvalue.github.io/bestiary/creature/nagpa
