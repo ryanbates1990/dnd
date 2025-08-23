@@ -13,7 +13,7 @@ _Weapon (scythe), legendary (requires attunement by a creature of evil alignment
 
 ---
 
-## 🩸 Vampyric Cleave
+## Vampyric Cleave
 
 When you take the Attack action with the Scythe of Vitur, you can target up to **three creatures** within your reach. Roll one attack roll and compare it to each creature’s AC. On a hit, they each take full damage.
 
@@ -21,7 +21,7 @@ When you take the Attack action with the Scythe of Vitur, you can target up to *
 
 ---
 
-## 🧛 Bloodletting Curse
+## Bloodletting Curse
 
 Whenever you deal **necrotic damage** with this weapon, you **regain hit points equal to half** the necrotic damage dealt (rounded down).
 
@@ -29,7 +29,7 @@ If you reduce a creature to **0 hit points**, you regain **all necrotic damage d
 
 ---
 
-## 🦴 Sanguine Empowerment _(1/long rest)_
+## Sanguine Empowerment _(1/long rest)_
 
 As a **bonus action**, you may invoke the Scythe’s dark power for **1 minute**. While empowered:
 
@@ -41,13 +41,13 @@ As a **bonus action**, you may invoke the Scythe’s dark power for **1 minute**
 
 ---
 
-## ☠️ Sinister Presence
+## Sinister Presence
 
 While attuned to the Scythe of Vitur, **undead creatures regard you as kin**. Undead will not attack you unless directly commanded to do so by a master or you provoke them.
 
 ---
 
-## 🩸 Curse: The Hunger
+## Curse: The Hunger
 
 Attuning to the Scythe of Vitur comes at a cost.
 
