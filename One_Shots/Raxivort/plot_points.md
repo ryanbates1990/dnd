@@ -105,7 +105,9 @@ If Rats are provoked, they have what looks like modern weaponry to fire canister
 - humorous interaction with female rats on palanquins coming through to be delivered to Raxivort
 
 # Maggot Queen's Lair (Main dungeon)
-**UPON ENTERING** a wisdom through needs to be made to determine if they will be mad in the abyss.
+**UPON ENTERING** a wisdom (12) throw needs to be made to determine if they will be mad in the abyss.
+
+Short-Term Madness: Results in immediate, incapacitating, or bizarre behavior (e.g., babbling incoherently, fleeing in panic, or acting on an overwhelming compulsion)
 
 # Room 1 - Portal Chamber
 
@@ -164,7 +166,7 @@ At the start of each round while crossing the Feeding Pit, roll **1d6**.
 
 > The Queen hangs from the ceiling, half-buried in a massive fleshy cocoon. From the waist up she resembles a beautiful woman, but below her ribs her body becomes an enormous bloated maggot. Hundreds of larvae constantly spill from beneath her, crawling across the walls and floor.
 >
-> As combat begins, she tears herself free, causing the entire nursery to shake.
+> She tears herself free, causing the entire nursery to shake and bellows, "I believe you know you tread where you do not belong. This is MY domain! I will turn your husks into the fertile breeding ground of many little princes! BEGONE!"
 
 ---
 
